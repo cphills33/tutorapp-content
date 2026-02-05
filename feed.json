@@ -41,7 +41,15 @@
             {
               "id": "page-2",
               "title": "test2",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "text-2",
+                    "markdown": "fdasfdsafdsafasdf"
+                  }
+                }
+              ]
             }
           ]
         }
