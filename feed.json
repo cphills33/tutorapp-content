@@ -1,0 +1,54 @@
+{
+  "id": "feed-1",
+  "version": 1,
+  "courses": [
+    {
+      "id": "bio-101",
+      "title": "Biology 101",
+      "modules": [
+        {
+          "id": "module-1",
+          "title": "Cell Basics",
+          "pages": [
+            {
+              "id": "page-1",
+              "title": "Cell Structure",
+              "blocks": [
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "text-1",
+                    "markdown": "Cells are the basic unit of life."
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "yt-1",
+                    "videoId": "dQw4w9WgXcQ",
+                    "title": "Cell Overview"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-1",
+      "title": "Cell Quiz",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "What is the basic unit of life?",
+          "answers": ["Atom", "Cell", "Organ", "Tissue"],
+          "correctIndex": 1,
+          "explanation": "Cells are the basic unit of life."
+        }
+      ]
+    }
+  ]
+}
