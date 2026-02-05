@@ -28,8 +28,20 @@
                     "videoId": "dQw4w9WgXcQ",
                     "title": "Cell Overview"
                   }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "quiz-block-1",
+                    "quizId": "quiz-1"
+                  }
                 }
               ]
+            },
+            {
+              "id": "page-2",
+              "title": "test2",
+              "blocks": []
             }
           ]
         }
@@ -44,9 +56,31 @@
         {
           "id": "q1",
           "prompt": "What is the basic unit of life?",
-          "answers": ["Atom", "Cell", "Organ", "Tissue"],
+          "answers": [
+            "Atom",
+            "Cell",
+            "Organ",
+            "Tissue"
+          ],
           "correctIndex": 1,
           "explanation": "Cells are the basic unit of life."
+        }
+      ]
+    },
+    {
+      "id": "quiz-2",
+      "title": "test quiz",
+      "questions": [
+        {
+          "id": "q-test",
+          "prompt": "test",
+          "answers": [
+            "one",
+            "two",
+            "three"
+          ],
+          "correctIndex": 2,
+          "explanation": "you shoulda read the content"
         }
       ]
     }
