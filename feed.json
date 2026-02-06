@@ -3,92 +3,90 @@
   "version": 1,
   "courses": [
     {
-      "id": "bio-101",
-      "title": "Biology 101",
+      "id": "socpsy",
+      "title": "Social Psychology",
       "modules": [
         {
-          "id": "module-1",
-          "title": "Cell Basics",
+          "id": "socpsy_1",
+          "title": "Introduction to Social Psychology",
           "pages": [
             {
-              "id": "page-1",
-              "title": "Cell Structure",
+              "id": "socpsy_welcome",
+              "title": "What is Social Psychology?",
               "blocks": [
-                {
-                  "type": "text",
-                  "payload": {
-                    "id": "text-1",
-                    "markdown": "Cells are the basic unit of life."
-                  }
-                },
                 {
                   "type": "youtube",
                   "payload": {
-                    "id": "yt-1",
-                    "videoId": "dQw4w9WgXcQ",
-                    "title": "Cell Overview"
-                  }
-                },
-                {
-                  "type": "quiz",
-                  "payload": {
-                    "id": "quiz-block-1",
-                    "quizId": "quiz-1"
+                    "id": "socpsy_welcome_video",
+                    "videoId": "oWG57LeOB_8",
+                    "title": "What is Social Psychology?"
                   }
                 }
               ]
             },
             {
-              "id": "page-2",
-              "title": "test2",
-              "blocks": [
-                {
-                  "type": "text",
-                  "payload": {
-                    "id": "text-2",
-                    "markdown": "fdasfdsafdsafasdf"
-                  }
-                }
-              ]
+              "id": "socpsy_science",
+              "title": "What is Science?",
+              "blocks": []
             }
           ]
+        },
+        {
+          "id": "socpsy_2",
+          "title": "Perceptions of others and ourselves",
+          "pages": []
+        },
+        {
+          "id": "socpsy_3",
+          "title": "Attitudes and persuasion",
+          "pages": []
+        },
+        {
+          "id": "socpsy_4",
+          "title": "Prejudice, stereotyping, and discrimination",
+          "pages": []
+        },
+        {
+          "id": "socpsy_5",
+          "title": "Social influence; helping, hurting, loving",
+          "pages": []
+        },
+        {
+          "id": "socpsy_6",
+          "title": "Individual Project",
+          "pages": []
         }
       ]
     }
   ],
   "quizzes": [
     {
-      "id": "quiz-1",
-      "title": "Cell Quiz",
+      "id": "socpsy_welcome_quiz",
+      "title": "Basic Definitions",
       "questions": [
         {
-          "id": "q1",
-          "prompt": "What is the basic unit of life?",
+          "id": "socpsy_welcome_quiz_q1",
+          "prompt": "What is Psychology?",
           "answers": [
-            "Atom",
-            "Cell",
-            "Organ",
-            "Tissue"
-          ],
-          "correctIndex": 1,
-          "explanation": "Cells are the basic unit of life."
-        }
-      ]
-    },
-    {
-      "id": "quiz-2",
-      "title": "test quiz",
-      "questions": [
-        {
-          "id": "q-test",
-          "prompt": "test",
-          "answers": [
-            "one",
-            "two",
-            "three"
+            "a",
+            "b",
+            "c",
+            "d"
           ],
           "correctIndex": 2,
-          "explanation": "you shoulda read the content"
+          "explanation": "you know!"
+        },
+        {
+          "id": "socpsy_welcome_quiz_q2",
+          "prompt": "What is Social Psychology?",
+          "answers": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "correctIndex": 3,
+          "explanation": "oh yeah!"
         }
       ]
     }
