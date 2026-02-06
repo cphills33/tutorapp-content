@@ -12,22 +12,31 @@
           "pages": [
             {
               "id": "socpsy_welcome",
-              "title": "What is Social Psychology?",
+              "title": "Welcome!",
               "blocks": [
                 {
                   "type": "youtube",
                   "payload": {
                     "id": "socpsy_welcome_video",
-                    "videoId": "oWG57LeOB_8",
-                    "title": "What is Social Psychology?"
+                    "videoId": "XVFCIxhcvp0",
+                    "title": "Welcome to Social Psychology"
                   }
                 }
               ]
             },
             {
-              "id": "socpsy_science",
-              "title": "What is Science?",
-              "blocks": []
+              "id": "socpsy_definitions",
+              "title": "What is Social Psychology?",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_definitions_video",
+                    "videoId": "oWG57LeOB_8",
+                    "title": "What is Social Psychology?"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -61,11 +70,11 @@
   ],
   "quizzes": [
     {
-      "id": "socpsy_welcome_quiz",
+      "id": "socpsy_definitions_quiz",
       "title": "Basic Definitions",
       "questions": [
         {
-          "id": "socpsy_welcome_quiz_q1",
+          "id": "socpsy_definitions_quiz_q1",
           "prompt": "What is Psychology?",
           "answers": [
             "a",
@@ -77,7 +86,7 @@
           "explanation": "you know!"
         },
         {
-          "id": "socpsy_welcome_quiz_q2",
+          "id": "socpsy_definitions_quiz_q2",
           "prompt": "What is Social Psychology?",
           "answers": [
             "a",
