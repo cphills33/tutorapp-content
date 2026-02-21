@@ -65,6 +65,34 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_correlation",
+              "title": "Correlation vs Experiment",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_correlation_video",
+                    "videoId": "W6RUBbdN5Ag",
+                    "title": "Correlational and Experimental Methods"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_experiments",
+              "title": "The Experimental Method",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_experiments_video",
+                    "videoId": "Py0_OP6tE3k",
+                    "title": "The Experimental Method"
+                  }
+                }
+              ]
             }
           ]
         },
