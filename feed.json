@@ -51,6 +51,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_theories",
+              "title": "Theories and Hypotheses",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_theories_video",
+                    "videoId": "DulACzu94KA",
+                    "title": "Theories and Hypotheses"
+                  }
+                }
+              ]
             }
           ]
         },
