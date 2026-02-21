@@ -37,6 +37,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_science",
+              "title": "What is Science?",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_science_video",
+                    "videoId": "ek31Q-X9PN0",
+                    "title": "What is Science?"
+                  }
+                }
+              ]
             }
           ]
         },
