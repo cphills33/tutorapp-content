@@ -135,6 +135,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_externalvalidity",
+              "title": "External Validity",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_externalvalidity_video",
+                    "videoId": "n7jhIyL-hh8",
+                    "title": "External Validity"
+                  }
+                }
+              ]
             }
           ]
         },
