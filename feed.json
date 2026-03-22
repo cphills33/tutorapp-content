@@ -163,6 +163,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_schemas",
+              "title": "Schemas",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_schemas_video",
+                    "videoId": "jZewQBrPoxE",
+                    "title": "Schemas"
+                  }
+                }
+              ]
             }
           ]
         },
