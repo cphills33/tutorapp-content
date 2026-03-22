@@ -149,6 +149,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_socialcognition",
+              "title": "Social Cognition",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_socialcognition_video",
+                    "videoId": "81oemwlD_lE&t=1s",
+                    "title": "Social Cognition"
+                  }
+                }
+              ]
             }
           ]
         },
