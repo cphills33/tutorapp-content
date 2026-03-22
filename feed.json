@@ -93,6 +93,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_typesvalidity",
+              "title": "The Four Types of Validity",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_typesvalidiy_video",
+                    "videoId": "Nbhzq-qC4ks",
+                    "title": "The Four Types of Validity"
+                  }
+                }
+              ]
             }
           ]
         },
