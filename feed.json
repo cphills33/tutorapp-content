@@ -121,6 +121,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_statisticalvalidity",
+              "title": "Statistical Validity",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_statisticalvalidity_video",
+                    "videoId": "Pw5GEEhw8S4",
+                    "title": "Statistical Validity"
+                  }
+                }
+              ]
             }
           ]
         },
