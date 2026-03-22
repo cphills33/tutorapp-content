@@ -107,6 +107,20 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_constructvalidity",
+              "title": "Construct Validity",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_constructvalidity_video",
+                    "videoId": "42SHqdy5dg",
+                    "title": "Construct Validity"
+                  }
+                }
+              ]
             }
           ]
         },
