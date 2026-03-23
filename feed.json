@@ -70,6 +70,13 @@
                     "videoId": "ek31Q-X9PN0",
                     "title": "What is Science?"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_science_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Distinguish science from pseudoscience\n- Define Science\n- Define the scientific method\n\nSocial psychology and all subfields of psychology are part of the family of sciences like chemistry, physics, and biology. \n\n- Chemists want to learn about how chemicals interact with each other. \n- Physicists want to learn about the fundamental nature of reality. \n- Biologists want to learn about the diversity of life. \n- Psychologists want to learn about the mind and behavior. \n\n### But so do astrologers. \n\nAstrology is concerned with the exact same subject matter as psychology. Our personalities, our behaviors, and our relationships. \n\n### But I wouldn't call astrology a science. \n\nTo understand why, let's look at the definition of science. \n\n> Science is the systematic gathering of data to provide descriptions of events taking place under specific conditions, enabling researchers to explain, predict, and control events. \n\nBoth astrologers and psychologists purport to help people explain, predict, and control events. \n\n### So that isn't the difference between them. \n\nThe difference lies in the first half of the definition, the systematic gathering of data. \n\n> In other words, what makes something a science is that it follows the scientific method. \n\nSo what makes psychology a science and astrology a pseudoscience is that psychologists use the scientific method while astrologers do not. \n\nI like to use a very broad definition of the scientific method to acknowledge that different scientific disciplines use different methodologies and that those methodologies change over time. \n\n> The scientific method is the steps scientists take to gather and verify information, answer questions, explain relationships, and communicate findings. \n\n### So there is no one way to do science, but all science involves gathering and verifying information. \n\nIt also involves the use of theories to explain relationships. And to do science, you must share what you learn with others. A pseudoscience may take some of these steps, but not all of them. For example, astrology has a theory that explains relationships--why people have certain personalities. And it shares this theory with the entire world every day via newspapers and the internet. Some astrologers may even gather data to test their theory. But this is one of the reasons astrology isn't a science. There is no requirement to gather information. \n\n### And most importantly, when information contradicts the theory, there is no requirement to update the theory. \n\nSo those are two key points that make psychology a science. \n\n### Psychologists gather and verify data and then update their theories when new data contradicts them. \n\nPsychological theories are being updated all the time. \n\n### Before you go to the next page, I challenge you to look up your horoscope and think about it as a testable prediction. \n\nHow could you gather information that would falsify the prediction? \n\n## Add these to your notes\n\n1. The definition of science\n2. The definition of pseudoscience\n3. The definition of scientific method\n4. A table of differences between science and psuedoscience"
+                  }
                 }
               ]
             },
@@ -281,6 +288,72 @@
           ],
           "correctIndex": 0,
           "explanation": "The passage gives perception learning and memory as examples of the basic mental abilities studied in cognitive psychology."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_whatiscience_quiz",
+      "title": "Science Foundations",
+      "questions": [
+        {
+          "id": "socpsy_whatiscience_q1",
+          "prompt": "Which definition of science is the closet match to Dr. Phills\u2019 definition?",
+          "answers": [
+            "The use of theory to explain personality",
+            "The systematic gathering of data to describe events under specific conditions and enable explanation prediction and control",
+            "Any attempt to explain and predict events",
+            "The study of chemicals, physics, biology, or psychology"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills defines science as the systematic gathering of data to provide descriptions of events under specific conditions, enabling researchers to explain, predict, and control events."
+        },
+        {
+          "id": "socpsy_whatiscience_q2",
+          "prompt": "According to Dr. Phills what primarily distinguishes science from pseudoscience?",
+          "answers": [
+            "Whether it studies people and behavior",
+            "Whether it follows the scientific method and systematically gathers data",
+            "Whether it tries to predict events",
+            "Whether it uses theories"
+          ],
+          "correctIndex": 1,
+          "explanation": "The source says the key difference lies in the systematic gathering of data and following the scientific method."
+        },
+        {
+          "id": "socpsy_whatiscience_q3",
+          "prompt": "How does Dr. Phills define the scientific method?",
+          "answers": [
+            "The one standard procedure used by all scientists",
+            "The steps scientists take to gather and verify information answer questions explain relationships and communicate findings",
+            "A set of laboratory techniques used by all scientists",
+            "A process for predicting events"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills gives a broad definition: the steps scientists take to gather and verify information, answer questions, explain relationships, and communicate findings."
+        },
+        {
+          "id": "socpsy_whatiscience_q4",
+          "prompt": "Why does Dr. Phills identify astrology as a pseudoscience rather than a science?",
+          "answers": [
+            "It does not concern personality or relationships",
+            "It never shares ideas with the public",
+            "It does not require theory revision when data contradict it",
+            "It cannot explain or predict events"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dr. Phills notes that astrology may explain relationships and share theories, but it does not require updating theory when contradicted by evidence."
+        },
+        {
+          "id": "socpsy_whatiscience_q5",
+          "prompt": "Why is the ability to explain predict and control events not enough by itself to make something a science?",
+          "answers": [
+            "Because only chemistry and physics do those things",
+            "Because pseudosciences can also claim to explain predict and control events",
+            "Because science is not only about prediction",
+            "Because science is only about describing events"
+          ],
+          "correctIndex": 1,
+          "explanation": "Both astrologers and psychologists purport to explain, predict, and control events, so that cannot be the defining difference."
         }
       ]
     }
