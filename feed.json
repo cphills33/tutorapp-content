@@ -182,6 +182,20 @@
                     "videoId": "Nbhzq-qC4ks",
                     "title": "The Four Types of Validity"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_typesvalidiy_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define construct validity\n- Define internal validity\n- Define external validity\n- Define statistical validity\n\n### As a student, you may find yourself doubting some of the research findings presented in the textbook or by myself. \n\n> That's okay. \n\nScience invites criticism and critique because that's how science evolves and improves. I've found students often doubt research findings because:\n\n*  the findings are counterintuitive, \n* are not what they were taught growing up, \n* or just don't mesh with the student's own experiences. \n\nI'm going to suggest that those aren't good enough reasons to doubt research findings. \n\n### Instead, we must critique and evaluate research findings in terms of various validities. \n\nIf that sounds complicated, don't despair. This and the following videos are designed to give you the tools to evaluate research findings in terms of four simple but fundamental validities -- \n\n1. construct, \n2. internal, \n3. external, \n4. and statistical. \n\n### Construct validity refers to how well the researchers measure or manipulate their variables. \n\nIf they don't measure or manipulate their variables properly, then it doesn't matter how good the rest of the study is. We have reason to doubt their findings. \n\n### Internal validity refers to our confidence that the independent variable or the manipulated variable really caused the observed changes in the dependent variable or the measured variable. \n\nIn a research methods class, discussions of internal validity can get quite complicated, but in this course, we will use random assignment as a handy guide to internal validity. If the researchers use random assignment, then we can be fairly confident that their internal validity is strong. That is to say that if they use random assignment, then we should feel confident that the IV really caused the observed changes in the DV. \n\n### External validity refers to the generalizability of research findings. \n\nCan the results be replicated? Would they generalize to other groups of people? What about other contexts? If you ever find yourself thinking something like maybe those research findings are true for that group of people but not for everyone, then you are expressing doubts about the external validity of the research. \n\n### Statistical validity refers to the extent to which researchers use proper statistical tests and had enough statistical power to detect the effect they were interested in. \n\nThis may sound intimidating or daunting, but don't worry. In this class, we will not be discussing proper statistical tests. We will assume that peer reviewers ensured the proper tests were conducted. However, there is one simple thing we can check without any statistical training. \n\n>>> The number of participants in each study. \n\n### Many studies do not have enough participants to reliably detect the effects the researchers are investigating. \n\n\n## Add these to your notes\n\n1. The definitions of the four types of validity"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_typesvalidiy_quiz",
+                    "quizId": "socpsy_fourvalidities_quiz"
+                  }
                 }
               ]
             },
@@ -613,6 +627,96 @@
           ],
           "correctIndex": 2,
           "explanation": "In an experiment using random assignment, participants are randomly assigned to groups at the start of the study."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_fourvalidities_quiz",
+      "title": "The Four Validities",
+      "questions": [
+        {
+          "id": "socpsy_fourvalidities_q1",
+          "prompt": "What does construct validity refer to?",
+          "answers": [
+            "How well researchers measure or manipulate their variables",
+            "Whether findings generalize to other groups",
+            "Whether the independent variable caused the dependent variable",
+            "Whether the study had enough participants"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dr. Phills defines construct validity as how well researchers measure or manipulate their variables."
+        },
+        {
+          "id": "socpsy_fourvalidities_q2",
+          "prompt": "What does internal validity refer to?",
+          "answers": [
+            "Whether a study can be replicated in a new setting",
+            "Confidence that the independent variable really caused the observed changes in the dependent variable",
+            "Whether measures are reliable across time",
+            "Whether the sample size is large"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills defines internal validity as confidence that the manipulated variable really caused changes in the measured variable."
+        },
+        {
+          "id": "socpsy_fourvalidities_q3",
+          "prompt": "What does external validity refer to?",
+          "answers": [
+            "How well researchers manipulate their variables",
+            "The generalizability of research findings",
+            "The quality of statistical tests only",
+            "Confidence in causal direction within one study"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills defines external validity in terms of generalizability to other people, contexts, and replication attempts."
+        },
+        {
+          "id": "socpsy_fourvalidities_q4",
+          "prompt": "What does statistical validity refer to?",
+          "answers": [
+            "Whether researchers used proper statistical tests and had enough statistical power to detect the effect of interest",
+            "Whether the findings fit common sense",
+            "Whether the independent variable was randomized",
+            "Whether the theory tells a good story"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dr. Phills defines statistical validity as depending on proper statistical tests and enough statistical power."
+        },
+        {
+          "id": "socpsy_fourvalidities_q5",
+          "prompt": "If researchers do not measure or manipulate their variables properly which validity is most directly threatened?",
+          "answers": [
+            "External validity",
+            "Construct validity",
+            "Statistical validity",
+            "Internal validity"
+          ],
+          "correctIndex": 1,
+          "explanation": "If variables are not measured or manipulated properly, there is reason to doubt the findings because construct validity is weak."
+        },
+        {
+          "id": "socpsy_fourvalidities_q6",
+          "prompt": "What is one thing students can check about statistical validity without statistical training?",
+          "answers": [
+            "The number of participants in the study",
+            "Whether the theory is intuitive",
+            "Whether the findings are surprising",
+            "Whether the researchers used a lab setting"
+          ],
+          "correctIndex": 0,
+          "explanation": "Students can check the number of participants because many studies lack enough participants to reliably detect effects."
+        },
+        {
+          "id": "socpsy_fourvalidities_q7",
+          "prompt": "Which option best describes strong internal validity?",
+          "answers": [
+            "The study generalizes to many contexts",
+            "The variables were measured with popular scales",
+            "The researchers can be fairly confident that the IV caused changes in the DV",
+            "The study included many participant groups"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dr. Phills ties internal validity to confidence that the independent variable really caused the observed changes in the dependent variable."
         }
       ]
     }
