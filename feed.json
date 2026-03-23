@@ -49,6 +49,13 @@
                     "id": "socpsy_definitions_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define Social Psychology\n- Define Psychology\n\n### Let's start by thinking about how social psychology is related to psychology in general, as well as some of the other subfields of psychology. \n\nAnd once we understand that, I want to briefly think about how psychology fits into the family of sciences. \n\n### Let's start with a definition of psychology. \n\n> Psychology is the scientific study of behavior and the mind. \n\nSo psychologists are interested in everything we can see a person do, their behavior, and also everything we think is going on in a person's mind, even if we can't see it. \n\n### Thinking just about behavior, psychologists are interested in\n\n- smiling, \n- learning to walk, \n- how we do on tests, \n- how we treat one another, including actions like \n    - helping others and \n    - discriminating against others. \n    \n### And psychologists are also interested in how we treat ourselves. \n\nThinking just about the mind, psychologists are interested in:\n\n- how we make decisions, \n- how we learn, \n- how we love, \n- how we forgive, and \n- generally how we feel. \n\nObviously, that's a lot of things to study, and it's only a very partial list. \n\n### No one psychologist studies everything that could be considered psychology. \n\nInstead, there are subfields that describe a psychologist's focus or interest. \n\n> For example, developmental psychology is the scientific study of the mind and behavior across the lifespan from when we were born until we die. \n\n> Cognitive psychology is the scientific study of basic mental abilities such as perception, learning, and memory. \n\n### So what about social psychology? \n\nThere is no ultimate definition of social psychology, or any psychology, but I like this one. \n\n> The scientific study of the way in which people's thoughts, feelings, and behaviors are influenced by the real or imagined presence of other people. \n\nIn other words, how do other people influence our behavior and our mind, and how do we influence them? I want to highlight what I think is an often overlooked part of this definition, though. \n\n### That's the imagined presence of others. \n\nSo it's not just people, but thinking about people that influences our behavior and thoughts. \n\n> Consider this. Does your boss need to stare over your shoulder for you to start working harder? Or is just thinking about your boss staring over your shoulder enough to get you working harder? \n\nThe answer is probably sometimes yes and sometimes no. Social psychologists want to know when the answer is yes and when it's no. \n\nThe final thing I want to do in this video is highlight one similarity among these definitions, and that is the phrase \"scientific study.\" \n\n### What is a scientific study?\n\nFor now, I want to suggest that just as there are many subfields of psychology, psychology is one of many subfields of science. Before you start the next video, I want to challenge you to think about what the common thread might be that ties all these different disciplines together.\n\n## Add these to your notes\n\n1. The definition of psychology\n2. The definition of social psychology"
                   }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_definitions_quiz",
+                    "quizId": "socpsy_definitions_quiz"
+                  }
                 }
               ]
             },
@@ -229,27 +236,51 @@
       "questions": [
         {
           "id": "socpsy_definitions_quiz_q1",
-          "prompt": "What is Psychology?",
+          "prompt": "What is psychology?",
           "answers": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "The scientific study of social groups",
+            "The scientific study of behavior and the mind",
+            "The scientific study of people",
+            "The scientific study of culture and language"
           ],
-          "correctIndex": 2,
-          "explanation": "you know!"
+          "correctIndex": 1,
+          "explanation": "The source text defines psychology as the scientific study of behavior and the mind."
         },
         {
           "id": "socpsy_definitions_quiz_q2",
-          "prompt": "What is Social Psychology?",
+          "prompt": "Which definition best matches social psychology?",
           "answers": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "The scientific study of the mind and behavior across the lifespan",
+            "The scientific study of basic mental abilities such as perception and memory",
+            "The scientific study of the way people's thoughts feelings and behaviors are influenced by the real or imagined presence of other people",
+            "The scientific study of biological systems in the brain"
           ],
-          "correctIndex": 3,
-          "explanation": "oh yeah!"
+          "correctIndex": 2,
+          "explanation": "The text defines social psychology in terms of influence from the real or imagined presence of other people."
+        },
+        {
+          "id": "socpsy_definitions_quiz_q3",
+          "prompt": "How did the video define developmental psychology?",
+          "answers": [
+            "The scientific study of behavior in groups",
+            "The scientific study of the mind and behavior across the lifespan from birth until death",
+            "The scientific study of emotion regulation in adulthood",
+            "The scientific study of memory and perception"
+          ],
+          "correctIndex": 1,
+          "explanation": "The passage states that developmental psychology studies the mind and behavior across the lifespan."
+        },
+        {
+          "id": "socpsy_definitions_quiz_q4",
+          "prompt": "How did the video define cognitive psychology?",
+          "answers": [
+            "The scientific study of basic mental abilities such as perception learning and memory",
+            "The scientific study of behavior across the lifespan",
+            "The scientific study of how people influence one another",
+            "The scientific study of how people think"
+          ],
+          "correctIndex": 0,
+          "explanation": "The passage gives perception learning and memory as examples of the basic mental abilities studied in cognitive psychology."
         }
       ]
     }
