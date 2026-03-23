@@ -126,6 +126,13 @@
                     "videoId": "W6RUBbdN5Ag",
                     "title": "Correlational and Experimental Methods"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_correlation_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define correlational methods\n- Define experimental methods\n- Describe the relation between power and perspective-taking\n\n### Social psychologists have conducted a number of really clever studies investigating power, \n\nHere's one hypothesis that illustrates the differences between correlational and experimental research designs: \n\n> If a person feels powerful, then their perspective-taking will be low. \n\nMaybe you've met someone like this, a boss, a manager, a parent, or even a teacher who wasn't good at taking the perspective of people they had power over. Galinsky and colleagues systematically investigated this hypothesis using both *correlational* and *experimental* methods. \n\n### Using the correlational method, \n\nGalinsky and colleagues observed or measured the associations between power and perspective-taking. They did this by having participants complete two scales: \n\n* one that measured participants' sense of power, called the sense-of-power scale, \n* and one that measured their perspective-taking, which was part of the interpersonal reactivity index. \n\nResults supported their hypotheses because the higher a person's sense of power, the lower they scored on perspective-taking. \n\n### It is important to keep in mind that correlational studies cannot, on their own, be used to determine causality. \n\nSo even though Galinsky and colleagues predicted that power influences perspective-taking, this correlational study only tells them that power and perspective-taking were related to one another. \n\n### To make a causal claim, researchers should use the experimental method. \n\nIn this method, researchers manipulate one variable and then observe whether the manipulation corresponds to changes in the other variable.  \n\n## Add these to your notes\n\n1. The definition of correlational methods\n2. The definition of experimental methods\n3. The relation between power and perspective-taking"
+                  }
                 }
               ]
             },
@@ -489,6 +496,60 @@
           ],
           "correctIndex": 1,
           "explanation": "Fiske lists seven signs: posits causal relationships or generates hypotheses, coherent, tells a good story, parsimonious, testable, fertile, and solves problems."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_corrandexp_quiz",
+      "title": "Correlations versus Experiments",
+      "questions": [
+        {
+          "id": "socpsy_corrandexp_q1",
+          "prompt": "What do correlational methods do?",
+          "answers": [
+            "Manipulate one variable to cause change in another",
+            "Observe or measure the associations between variables",
+            "Randomly assign participants to conditions",
+            "Eliminate all alternative explanations"
+          ],
+          "correctIndex": 1,
+          "explanation": "Correlational methods observe or measure the associations between power and perspective-taking."
+        },
+        {
+          "id": "socpsy_corrandexp_q2",
+          "prompt": "What pattern did Galinsky and colleagues\u2019 correlational study on power find?",
+          "answers": [
+            "Higher power was associated with higher perspective-taking",
+            "Lower power was associated with lower perspective-taking",
+            "Higher sense of power was associated with lower perspective-taking",
+            "There was no relation between power and perspective-taking"
+          ],
+          "correctIndex": 2,
+          "explanation": "The higher a person's sense of power, the lower they scored on perspective-taking."
+        },
+        {
+          "id": "socpsy_corrandexp_q3",
+          "prompt": "When should researchers use the experimental method?",
+          "answers": [
+            "When they want to make a causal claim",
+            "When they want to describe a relationship",
+            "When they cannot measure variables",
+            "When they want to avoid manipulating variables"
+          ],
+          "correctIndex": 0,
+          "explanation": "Researchers should use the experimental method to make a causal claim."
+        },
+        {
+          "id": "socpsy_corrandexp_q4",
+          "prompt": "Which best describes the experimental method?",
+          "answers": [
+            "Researchers observe two variables",
+            "Researchers manipulate one variable and measure another",
+            "Researchers compare two theories",
+            "Researchers ask participants to complete scales"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills defines the experimental method as manipulating one variable and then observing whether the manipulation corresponds to changes in the other variable."
         }
       ]
     }
