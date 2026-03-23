@@ -154,6 +154,20 @@
                     "videoId": "Py0_OP6tE3k",
                     "title": "The Experimental Method"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_experiments_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define independent and dependent variables\n- Describe random assignment\n\n### On the previous page, \n\nI described how Galinsky and colleagues used the correlational design to investigate the relationship between power and perspective taking. Their simple but effective study design involved *measuring* power and then *measuring* perspective taking. \n\n### As they predicted, \n\nthe greater a person's sense of power, the less they engaged in perspective taking. \n\n### However, the theory Galinsky and colleagues used didn't just predict that power should be related to perspective taking. \n\nThe theory predicted that power influences perspective taking. \n\n> In other words, if we manipulate how powerful a person feels, then we should observe a corresponding change in that person's perspective taking. \n\n### And that is what experimental designs allow us to do.  \n\nIn experiments, we manipulate one variable, called the independent variable, and measure another variable, called the dependent variable. Galinsky and colleagues used the experimental method to investigate the relationship between power and perspective taking. They *manipulated* power because their hypothesis was that power influenced perspective taking, not the other way around. And that is an important point to remember. \n\n### Your independent variable, the one you manipulate, is the variable you think causes the changes in the other variable. \n\nGalinsky and colleagues then *measured* their dependent variable, perspective taking, so they could observe any changes caused by their manipulation of power. \n\n### To review, the difference between the correlational and experimental methods is that you measure both variables in the correlational method, but you manipulate the independent variable in the experimental method. \n\nTherefore, the manipulation of the independent variable is key to the experimental method, which brings us to the concept of *random assignment*, and why we believe experiments allow us to make causal claims about the influence of one variable on another. \n\n### In an experiment that uses random assignment, \n\nparticipants are randomly assigned to groups at the start of the study. For example, Galinsky and colleagues randomly assigned participants to one of two groups. \n\n### What you should notice is that, \n\nat this point in time, those two groups are identical. They shouldn't differ on any variable, including perspective taking. \n\n### Next, Galinsky and colleagues made participants in group one feel powerful, and group two feel powerless. \n\nNow those two groups aren't identical. In fact, they differ in exactly one way, how powerful they feel. So if they differ in any other variable, it must be because of the manipulation of power, and that is the logic of experiments. \n\n### Galinsky and colleagues found that the participants in the powerful condition were worse at perspective taking than participants in the powerless condition, and they were able to make that claim because they used random assignment and the experimental method. \n\n## Add these to your notes\n\n1. The definition of independent variable\n2. The definition of dependent variable\n3. A description of how random assignment allows researchers to make causal claims"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_experiments_quiz",
+                    "quizId": "socpsy_expmethod_quiz"
+                  }
                 }
               ]
             },
@@ -557,6 +571,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Dr. Phills defines the experimental method as manipulating one variable and then observing whether the manipulation corresponds to changes in the other variable."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_expmethod_quiz",
+      "title": "The Experimental Method",
+      "questions": [
+        {
+          "id": "socpsy_expmethod_q1",
+          "prompt": "What is an independent variable?",
+          "answers": [
+            "The variable that is measured",
+            "The variable that is manipulated",
+            "Any variable that is correlated with another variable",
+            "A variable that must remain constant in all studies"
+          ],
+          "correctIndex": 1,
+          "explanation": "The independent variable is the one researchers manipulate and believe causes changes in the other variable."
+        },
+        {
+          "id": "socpsy_expmethod_q2",
+          "prompt": "What is a dependent variable?",
+          "answers": [
+            "The variable that is manipulated by the researcher",
+            "The variable that is measured",
+            "The variable that determines group assignment",
+            "A variable that is never allowed to vary"
+          ],
+          "correctIndex": 1,
+          "explanation": "The dependent variable as the variable that is measured after the independent variable is manipulated."
+        },
+        {
+          "id": "socpsy_expmethod_q3",
+          "prompt": "What is random assignment?",
+          "answers": [
+            "Letting participants choose the group they prefer",
+            "Assigning participants to groups based on their prior scores",
+            "Randomly assigning participants to groups at the start of the study",
+            "Measuring variables before manipulation"
+          ],
+          "correctIndex": 2,
+          "explanation": "In an experiment using random assignment, participants are randomly assigned to groups at the start of the study."
         }
       ]
     }
