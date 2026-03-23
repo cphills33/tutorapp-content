@@ -98,6 +98,20 @@
                     "videoId": "DuIACzu94KA",
                     "title": "Theories and Hypotheses"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_theories_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define theory\n- Define hypothesis\n- Recognize and apply Fiske's seven signs of a good theory\n\n### Imagine researchers in Lab A gather and publish some data.\n\nThen researchers in *Lab B* do the same, but it's slightly different.\nSome of the variables are the same, but some of them are different.\nThen *Lab C* gathers and publishes even more data.\nThey have one variable in common with Lab A and B, but maybe they found a different pattern.\n\n### What are we to make of all this data?\n\nSome of it seems consistent, and some of it seems inconsistent.\nHow do we make sense of it all?\n\n### That's what theories are for.\n\n> Theories take all the existing data and provide some general principles that explain how they all make sense together.\n\nBut that's only the first part of the definition of a theory.\nIf the first part of the definition describes the relationship between theories and data we already have,\nas in, it helps us to explain it,\nthe second part describes the relationship between theories and data we hope to have.\n\n### Theories help us make new predictions that we can test by gathering new data.\n\nThose predictions are what we call hypotheses.\n> So a theory is a set of general principles that attempts to explain and predict behavior or other phenomena.\n\n### A hypothesis is a causal prediction.\n\n> Hypotheses are generated from theories.\n\nAnd in fact, that's one of the criteria we use to judge the value of a theory.\n\n### Does it generate testable causal predictions?\n\nFiske suggests seven signs that a theory is good.\nAnd I think it's useful to think about how the theory of astrology stacks up.\n\n*  1. A good theory posits causal relationships or generates hypotheses.\n\nAstrology knocks this one out of the park.\n\nEvery single day there are new hypotheses for how every single person's day should go.\n\n* 2. A good theory attempts to be coherent.\n\nHere's a place where astrology falls short.\nThere just isn't any coherent explanation for how the sun's apparent position relative to arbitrarily defined constellations at the time of your birth somehow affects your personality.\n\n* 3. A good theory tells a good story.\n\nAstrology has this in spades.\nThis might seem like an irrelevant attribute for a good theory to have,\nbut the truth is that if a theory doesn't tell a compelling story that makes sense to people, then researchers won't test it.\nAnd even if the theory is correct, it won't lead to new knowledge.\n\n### This sign probably contributes a great deal to astrology's popularity.\n\nEven knowing astrology is inaccurate, I still find it fun to check my horoscope every now and then.\n\n* 4.  A good theory is parsimonious, which means it's as simple as possible while explaining as much data as possible.\n\nAnd what could be simpler than astrology as an explanation for behavior, personality, and relationships?\n\n* 5. A good theory is testable.\n\nAnother way to say this is that a good theory can be falsified.\n\n### Astrology gets a check here because it generates simple, testable predictions that just happen to be wrong.\n\n* 6. A good theory proves fertile, which just means that it gets used.\n\nResearchers test hypotheses generated from the theory, which leads to new data, and then new hypotheses, and then more data again, and so on.\nAstrology doesn't do that. You test astrology once, it doesn't work, and then you aren't allowed to revise the theory because it's a pseudoscience and no more research gets conducted.\n\n* 7. A good theory solves problems, and astrology, like psychology, attempts to solve the most basic and fundamental problems humans face,\nunderstanding ourselves and understanding each other.\n\nIn the next video, I'll discuss how to generate hypotheses or causal predictions.\n\nBefore that, though, I encourage you to think about the psychological theories you've learned in other classes.\nHow would you test them? Are those theories falsifiable?\n\n## Add these to your notes\n\n1. The definition of theory\n2. The definition of hypothesis\n3. Fiske's 7 signs of a good theory"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_theories_quiz",
+                    "quizId": "socpsy_theorieshypotheses_quiz"
+                  }
                 }
               ]
             },
@@ -361,6 +375,120 @@
           ],
           "correctIndex": 1,
           "explanation": "Both astrologers and psychologists purport to explain, predict, and control events, so that cannot be the defining difference."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_theorieshypotheses_quiz",
+      "title": "Theories and Hypotheses",
+      "questions": [
+        {
+          "id": "socpsy_theorieshypotheses_q1",
+          "prompt": "According to Dr. Phills what is the main job of a theory?",
+          "answers": [
+            "To replace all data with intuition",
+            "To take existing data and provide general principles that explain how the findings make sense together",
+            "To list every observation without interpretation",
+            "To summarize experiments"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills says theories take all the existing data and provide general principles that explain how the findings fit together."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q2",
+          "prompt": "How does Dr. Phills define a theory?",
+          "answers": [
+            "A set of general principles based on results from multiple studies",
+            "A set of general principles that attempts to explain and predict behavior or other phenomena",
+            "A summary of general principles derived from a collection of experiments",
+            "A collection of causal claims"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phillsexplicitly defines a theory as a set of general principles that attempts to explain and predict behavior or other phenomena."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q3",
+          "prompt": "What does Dr. Phills say hypotheses are?",
+          "answers": [
+            "A set of general principles that explain and predict behavior",
+            "A list of every variable in a study",
+            "Causal predictions generated from theories",
+            "General principles that organize causal predictions"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dr. Phills states that hypotheses are generated from theories and that a hypothesis is a causal prediction."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q4",
+          "prompt": "What is the relationship between theories and hypotheses according to Dr. Phills?",
+          "answers": [
+            "Hypotheses replace theories once enough data are collected",
+            "Theories are generated from hypotheses",
+            "Hypotheses are generated from theories",
+            "Theories and hypotheses are unrelated"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dr. Phills directly says hypotheses are generated from theories."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q5",
+          "prompt": "Which of the following is one of Fiske's signs of a good theory?",
+          "answers": [
+            "Theories are cautious. They avoid prediction.",
+            "It posits causal relationships or generates hypotheses",
+            "It may be testable but doesn't have to be",
+            "It describes variables"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fiske's first sign is that a good theory posits causal relationships or generates hypotheses."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q6",
+          "prompt": "According to Fiske, what does it mean for a theory to be coherent?",
+          "answers": [
+            "It has a compelling story",
+            "It has an explanation whose parts fit together logically",
+            "It generates many hypotheses",
+            "It is creative"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fiske treats coherence as having an explanation that makes sense together, contrasting astrology as lacking a coherent explanation."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q7",
+          "prompt": "What does Fiske mean when she says a good theory is parsimonious?",
+          "answers": [
+            "It's as simple as possible",
+            "It uses simple language",
+            "It is as simple as possible while explaining as much data as possible",
+            "It generates simple hypotheses"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dr. Phills defines parsimony as being as simple as possible while explaining as much data as possible."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q8",
+          "prompt": "What does Fiske say about a testable theory?",
+          "answers": [
+            "It is logically coherent",
+            "It can be falsified",
+            "It should sound scientifiuc",
+            "It should make causal claims"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. Phills says another way to say a good theory is testable is that it can be falsified."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q9",
+          "prompt": "Which list correctly captures Fiske's seven signs of a good theory?",
+          "answers": [
+            "Causal,  tells a good story, parsimonious, testable, fertile, solves problems, permanent",
+            "Generates hypotheses, coherent, tells a good story, parsimonious, testable, fertile, solves problems",
+            "Simple, popular, descriptive, intuitive, broad, fixed, untestable",
+            "Generates hypotheses, coherent, tells a good story, parsimonious, testable, unquestionable, popular"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fiske lists seven signs: posits causal relationships or generates hypotheses, coherent, tells a good story, parsimonious, testable, fertile, and solves problems."
         }
       ]
     }
