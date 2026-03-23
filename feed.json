@@ -133,6 +133,13 @@
                     "id": "socpsy_correlation_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define correlational methods\n- Define experimental methods\n- Describe the relation between power and perspective-taking\n\n### Social psychologists have conducted a number of really clever studies investigating power, \n\nHere's one hypothesis that illustrates the differences between correlational and experimental research designs: \n\n> If a person feels powerful, then their perspective-taking will be low. \n\nMaybe you've met someone like this, a boss, a manager, a parent, or even a teacher who wasn't good at taking the perspective of people they had power over. Galinsky and colleagues systematically investigated this hypothesis using both *correlational* and *experimental* methods. \n\n### Using the correlational method, \n\nGalinsky and colleagues observed or measured the associations between power and perspective-taking. They did this by having participants complete two scales: \n\n* one that measured participants' sense of power, called the sense-of-power scale, \n* and one that measured their perspective-taking, which was part of the interpersonal reactivity index. \n\nResults supported their hypotheses because the higher a person's sense of power, the lower they scored on perspective-taking. \n\n### It is important to keep in mind that correlational studies cannot, on their own, be used to determine causality. \n\nSo even though Galinsky and colleagues predicted that power influences perspective-taking, this correlational study only tells them that power and perspective-taking were related to one another. \n\n### To make a causal claim, researchers should use the experimental method. \n\nIn this method, researchers manipulate one variable and then observe whether the manipulation corresponds to changes in the other variable.  \n\n## Add these to your notes\n\n1. The definition of correlational methods\n2. The definition of experimental methods\n3. The relation between power and perspective-taking"
                   }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_correlation_quiz",
+                    "quizId": "socpsy_corrandexp_quiz"
+                  }
                 }
               ]
             },
