@@ -320,6 +320,20 @@
                     "videoId": "n7jhIyL-hh8",
                     "title": "External Validity"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_externalvalidity_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define external validity\n- Differentiate between when external validity is poor versus when it is unknown\n\n### The purpose of this video is to give you a basic understanding of how to talk about external validity. \n\n> External validity refers to the extent that a study's findings generalize to other settings, conditions, and populations. \n\nThere are two points I want to make. \n\n1. The first is that, rather than describing a study as having poor external validity, it is often more appropriate to say that we don't know the study's external validity. \n\nFor example, imagine a study in which all the participants are women. We might be tempted to say that the study has poor external validity because we don't know whether the findings generalize to men. But that is the key to thinking about external validity. \n\n### It's not that external validity is poor in this situation, it's that we don't know whether these results generalize to men. \n\nPerhaps these findings would generalize to men, perhaps they wouldn't. Researchers have to find out. \n\n2. The second point I want to make is that external validity is extremely important. It covers everything from:\n* exact replications in which other researchers attempt to replicate a study using the exact same procedures without changing anything, \n* to investigating whether an effect generalizes to people in other cultures using different operationalizations of the key variables. \n\nYou know you have an external validity concern when you find yourself asking a question like, \"I wonder if these results generalize to people of different races, different genders, different cities, cultures, different political orientations, different personalities, different social contexts, or if you just want to know if the results can be replicated.\" \n\n## Add these to your notes\n\n1. The definition of external validity\n2. Describe a situation in which external validity is unknown rather than poor"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_externalvalidity_quiz",
+                    "quizId": "socpsy_externalvalidity_quiz"
+                  }
                 }
               ]
             },
@@ -1003,6 +1017,36 @@
           ],
           "correctIndex": 0,
           "explanation": "A confound weakens internal validity because it prevents researchers from confidently attributing changes in the DV to the IV."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_externalvalidity_quiz",
+      "title": "External Validity",
+      "questions": [
+        {
+          "id": "socpsy_externalvalidity_q1",
+          "prompt": "What does external validity refer to?",
+          "answers": [
+            "Confidence that the IV caused changes in the DV",
+            "The extent to which a study's findings generalize to other settings conditions and populations",
+            "Whether a measure captures the intended construct",
+            "Whether researchers used the correct statistical test"
+          ],
+          "correctIndex": 1,
+          "explanation": "External validity is the extent that a study's findings generalize to other settings, conditions, and populations."
+        },
+        {
+          "id": "socpsy_externalvalidity_q2",
+          "prompt": "Why might a study with only women participants  not automatically be described as having poor external validity?",
+          "answers": [
+            "Because women are always representative of all people",
+            "Because the study has perfect internal validity",
+            "Because we do not yet know whether the findings generalize to men",
+            "Because external validity does not apply to gender"
+          ],
+          "correctIndex": 2,
+          "explanation": "In this case the more accurate statement is that we do not know whether the findings generalize to men."
         }
       ]
     }
