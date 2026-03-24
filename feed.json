@@ -456,7 +456,29 @@
             {
               "id": "socpsy_UAE",
               "title": "Ultimate Attribution Error",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_UAE_video",
+                    "videoId": "nPzRvswCkdA"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_UAE_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define self-serving bias\n- Define the Ultimate Attribution Error\n- Describe observer and actdor attributions\n\n### Think about what we do and what we fail to do when we make the fundamental attribution error. \n\n1. What we do is we observe someone behave a certain way. \n2. What we fail to do is use the discounting principle. \n\nAnother way to think about this is we pay attention to what the person is doing and we don't pay attention to other information, like situational factors that might influence behavior. \n\n> In other words, we aren't using all the information available to us. \n\nWe are *observers* focused on the person's behavior and then we assume that the behavior corresponds to the person's true self. \n\nAs an *observer*, the person's behavior is the salient information we pay attention to and make attributions based off of. \n\n### And that's part of the reason why we make internal attributions about the causes of others behavior. \n\nBut it turns out things change when we are the *actors*, when we are the ones performing the behavior. \n\nWhen we are the *actor*, we don't observe ourselves. We are looking out into the world. So what we observe is the situation. \n\n### As an actor, the situation is the salient information we pay attention to and make attributions based off of. \n\nIn other words, when trying to understand our own behavior, we tend to make external rather than internal attributions. \n\n### This is known as actor observer differences. \n\n> When we observe the behavior of others, we make an internal attribution because we are focused on the behavior and infer a correspondence between the behavior and the person's true self. \n\n> But when we are the actor, we make an external attribution because we are focused on the situation and understand how our behavior changes from situation to situation. \n\n### This is known as perceptual salience. \n\nWhatever we are focused on, whatever is perceptually salient, whether it be the behavior itself or the situation, that is what we use to make the attribution. \n\n### But it's also a little more complicated than that when it comes to understanding ourselves because we want to see ourselves in a positive light. \n\n> What attribution do you make when you do well in a test? \n\nProbably *internal* because we want to believe we are intelligent. \n\n> But what attribution do you make when you do poorly on a test? \n\nProbably *external* because we want to believe we are intelligent. \n\nWe will attribute our poor test performance to the test being unfair or too hard or something else beyond our control. \n\n### This is also the principle behind what's known as the ultimate attribution error. \n\nNot only do we want to see ourselves in a positive light, we want to see members of our in-groups in a positive light. \n\n1. When someone belongs to the same group as us and they do something good, like score well in a test, then we tend to make an internal attribution because we want to believe members of our group are intelligent. \n\n2. But when someone belongs to a different group than us and they do something good, like score well in a test, we tend to make an external attribution. \n\nWe tend to assume that the test was easy because we want to believe that our group is the most intelligent. \n\n### This is the basics of what is called the ultimate attribution error. \n\n* When an in-group member does something good, we make an internal attribution. \n* When an out-group member fails, we also make an internal attribution. \n\n> In fact, we make attributions about the causes of in-group and out-group member behaviors in ways that make our in-group look good and out-groups look bad. \n\nSee if you can catch yourself making this error. Think back to a time when you saw a photo of a suspect in the media. What type of attribution did you make? Did you make an internal attribution and assume the suspect was a bad person, criminally disposed to do bad things? Or did you make an external attribution and think about the situational factors that may have led this person down a bad path? Did the race of the suspect affect which type of attribution you made? \n\n## Add these to your notes\n\n1. Describe actor/observer differences when it comes to making attributions\n2. The definition of the Ultimate Attribution Error\n3. Describe the role of perceptual salience in making attributions\n4. The definition of self-serving bias"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_UAE_quiz",
+                    "quizId": "socpsy_uae_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_culture",
@@ -1418,6 +1440,120 @@
           ],
           "correctIndex": 2,
           "explanation": "The consistency principle applies when a person acts similarly in many different situations"
+        }
+      ]
+    },
+    {
+      "id": "socpsy_uae_quiz",
+      "title": "Ultimate Attribution Theory",
+      "questions": [
+        {
+          "id": "socpsy_uae_q1",
+          "prompt": "What do observers tend to focus on when making attributions about other people's behavior?",
+          "answers": [
+            "The person's behavior",
+            "Their own past experiences",
+            "Random chance",
+            "The demands of the situation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Observers focus on the person's behavior, which is the salient information for them."
+        },
+        {
+          "id": "socpsy_uae_q2",
+          "prompt": "What do actors tend to focus on when making attributions about their own behavior?",
+          "answers": [
+            "Their personality",
+            "The situation",
+            "Stereotypes",
+            "Group membership"
+          ],
+          "correctIndex": 1,
+          "explanation": "When we are the actor, we are looking out into the world, so the situation becomes the salient information."
+        },
+        {
+          "id": "socpsy_uae_q3",
+          "prompt": "What is perceptual salience?",
+          "answers": [
+            "The tendency to notice only positive behavior",
+            "The idea that whatever we are focused on is what we use to make the attribution",
+            "The assumption that all behavior reflects true character",
+            "The tendency to remember behavior better than situations"
+          ],
+          "correctIndex": 1,
+          "explanation": "Perceptual salience means that whatever is most perceptually salient to us, such as behavior or the situation, is what we use to make the attribution."
+        },
+        {
+          "id": "socpsy_uae_q4",
+          "prompt": "Which attribution pattern best reflects self-serving bias?",
+          "answers": [
+            "Internal attributions for personal failures and external attributions for personal successes",
+            "External attributions for both personal successes and failures",
+            "Internal attributions for personal successes and external attributions for personal failures",
+            "Internal attributions for everyone regardless of outcome"
+          ],
+          "correctIndex": 2,
+          "explanation": "People tend to explain their own successes internally and their own failures externally in order to maintain a positive view of themselves."
+        },
+        {
+          "id": "socpsy_uae_q5",
+          "prompt": "Why do people often make internal attributions when they do well on a test?",
+          "answers": [
+            "Because they want to see themselves as intelligent",
+            "Because tests measure ability",
+            "Because success is caused by personal traits",
+            "Because the situation is more salient than behavior"
+          ],
+          "correctIndex": 0,
+          "explanation": "People make internal attributions for their own good performance because they want to believe they are intelligent."
+        },
+        {
+          "id": "socpsy_uae_q6",
+          "prompt": "Why do people often make external attributions when they do poorly on a test?",
+          "answers": [
+            "Because they want to protect a positive view of themselves",
+            "Because poor performance always has situational causes",
+            "Because intelligence is not important",
+            "Because observers force them to"
+          ],
+          "correctIndex": 0,
+          "explanation": "People often attribute poor performance to an unfair or difficult test because they want to preserve a positive self-image."
+        },
+        {
+          "id": "socpsy_uae_q7",
+          "prompt": "What is the ultimate attribution error ?",
+          "answers": [
+            "Making attributions about in-group and out-group members in ways that make the in-group look good and out-groups look bad",
+            "Always making internal attributions for all behavior",
+            "Ignoring consensus and consistency when studying social groups",
+            "Making attributions about in-group and out-group members in ways that make the in-group look good but not the out-group look bad"
+          ],
+          "correctIndex": 0,
+          "explanation": "The ultimate attribution error is making attributions about in-group and out-group member behaviors in ways that favor the in-group and disadvantage the out-group."
+        },
+        {
+          "id": "socpsy_uae_q8",
+          "prompt": "What attribution do people tend to make when an in-group member does something good?",
+          "answers": [
+            "An external attribution",
+            "An internal attribution",
+            "No attribution at all",
+            "A random attribution"
+          ],
+          "correctIndex": 1,
+          "explanation": "When an in-group member does something good, people tend to make an internal attribution."
+        },
+        {
+          "id": "socpsy_uae_q9",
+          "prompt": "What attribution do people tend to make when an out-group member does something good?",
+          "answers": [
+            "An internal attribution",
+            "A mixed attribution based on consistency",
+            "An external attribution",
+            "No attribution at all"
+          ],
+          "correctIndex": 2,
+          "explanation": "When an out-group member does something good, people tend to make an external attribution so that their own group still looks superior."
         }
       ]
     }
