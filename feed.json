@@ -215,7 +215,7 @@
                   "type": "text",
                   "payload": {
                     "id": "socpsy_constructvalidity_text",
-                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define construct definitions\n- Define operational definitions\n- Use construct and operational definitions to interrogate the construct validity of a study\n\n### Construct validity refers to how well researchers measure or manipulate a variable. \n\nTo judge how well something has been done, we need some sort of standard. My advice is to compare how the variable was measured or manipulated, this is known as the *operational definition*, against the *construct or dictionary definition* of the variable. \n\n> The closer the operational definition is to the construct definition, the better it is for construct validity. \n\n### We can think of the operational definition as reality and the construct definition as the ideal researchers are striving to match. \n\nTo see this in action, let's consider the definition of social power and the various ways Galinsky and colleagues measured and manipulated that variable. \n\n> Power is often defined as the ability to influence others and emerges from control over important resources and the ability to reward and punish. \n\nGalinsky and colleagues operationalized power three different ways, which is another way of saying they attempted three different strategies to measure or manipulate power. \n\n1. The first strategy was to measure power using the sense of power scale, which asked participants questions like, \n    * \"I think I have a great deal of power\" \n    * and \"I can get him/her/them to listen to what I say.\" \n    \nYou can see how the second item, \"I can get him/her/them to listen to what I say,\" is a very close match to the construct definition of power, which emphasizes the ability to influence others. However, the first item, \"I think I have a great deal of power,\" could refer to social power but might also refer to physical strength. \n\n2. The second strategy was to manipulate power by asking some participants to write about a time in their lives when they had power over someone else because they had control over an important resource or could mete out rewards and punishments. Other participants were asked to write about a time in their lives when someone had power over them because that person had control over an important resource or could mete out rewards and punishments. \n\nYou can see how the instructions for these tasks are very close matches to the construct definition of power. \n\n### However, you might argue that feeling powerful, which is what these tasks seem to manipulate, is not the same as actually having power. \n\n3. The third strategy addressed this concern by putting some participants in a position of power and some participants in a position of powerlessness. Specifically, some participants were told they could distribute raffle tickets among themselves and other participants, giving them control over a valuable resource and therefore, power. Other participants were told someone else would determine how many raffle tickets they received, giving someone else control over a powerful resource and the participant a feeling of powerlessness. \n\nYou can see how this definition is also a good match to the construct definition of power. \n\n### But none of the operational definitions was a perfect match. \n\nThis is why construct validity is my favorite type of validity to interrogate research with because there is no perfect way to operationalize a variable. It is always possible to put on your creativity hat and come up with a new way to measure or manipulate a variable. \n\n## Add these to your notes\n\n1. The definition of construct definition\n2. The definition of operational definition\n3. How to use construct and operational definitions to interrogate construct validity"
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define construct definitions\n- Define operational definitions\n- Use construct and operational definitions to interrogate the construct validity of a study\n\n### Construct validity refers to how well researchers measure or manipulate a variable. \n\nTo judge how well something has been done, we need some sort of standard. My advice is to compare how the variable was measured or manipulated, this is known as the *operational definition*, against the *construct or dictionary definition* of the variable. \n\n> The closer the operational definition is to the construct definition, the better it is for construct validity. \n\n### We can think of the operational definition as reality and the construct definition as the ideal researchers are striving to match. \n\nTo see this in action, let's consider the definition of social power and the various ways Galinsky and colleagues measured and manipulated that variable. \n\n> Power is often defined as the ability to influence others and emerges from control over important resources and the ability to reward and punish. \n\nGalinsky and colleagues operationalized power three different ways, which is another way of saying they attempted three different strategies to measure or manipulate power. \n\n1. The first strategy was to measure power using the sense of power scale, which asked participants questions like, \n    * \"I think I have a great deal of power\" \n    * and \"I can get him/her/them to listen to what I say.\" \n    \nYou can see how the second item, \"I can get him/her/them to listen to what I say,\" is a very close match to the construct definition of power, which emphasizes the ability to influence others. However, the first item, \"I think I have a great deal of power,\" could refer to social power but might also refer to physical strength. \n\n2. The second strategy was to manipulate power by asking some participants to write about a time in their lives when they had power over someone else because they had control over an important resource or could mete out rewards and punishments. Other participants were asked to write about a time in their lives when someone had power over them because that person had control over an important resource or could mete out rewards and punishments. \n\nYou can see how the instructions for these tasks are very close matches to the construct definition of power. \n\n### However, you might argue that feeling powerful, which is what these tasks seem to manipulate, is not the same as actually having power. \n\n3. The third strategy addressed this concern by putting some participants in a position of power and some participants in a position of powerlessness. Specifically, some participants were told they could distribute raffle tickets among themselves and other participants, giving them control over a valuable resource and therefore, power. Other participants were told someone else would determine how many raffle tickets they received, giving someone else control over a powerful resource and the participant a feeling of powerlessness. \n\nYou can see how this definition is also a good match to the construct definition of power. \n\n### But none of the operational definitions were a perfect match. \n\nThis is why construct validity is my favorite type of validity to interrogate research with because there is no perfect way to operationalize a variable. It is always possible to put on your creativity hat and come up with a new way to measure or manipulate a variable. \n\n## Add these to your notes\n\n1. The definition of construct definition\n2. The definition of operational definition\n3. How to use construct and operational definitions to interrogate construct validity"
                   }
                 },
                 {
@@ -251,6 +251,33 @@
                   "payload": {
                     "id": "socpsy_statisticalvalidity_quiz",
                     "quizId": "socpsy_statvalidity_quiz"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_statisticalvalidity2",
+              "title": "Statistical Validity Part 2",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_statisticalvalidity2_video",
+                    "videoId": "oShbpvINIvM"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_statisticalvalidity2_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Learn three reasons a p-value might not be valie\n- Describe one purpose of a pre-registration document\n- Define Type 1  and Type 2 errors\n\n### This is a video about one aspect of statistical validity. \n\n> P-values. \n\nNow usually when I ask students what they think that means, their first answer is whether the p-value less than 0.05. \n\n* If it is, we reject the null hypothesis. \n* If it isn't, we don't. \n\n### But that's not what I mean today when I talk about statistical validity. \n\nI'm talking about not about whether a p-value is low enough. \n\n> I'm talking about whether the p-value itself is valid. \n\nThink about it like this. You ran a study. You calculated a p-value. *But should you trust that p-value?* \n\n### Should you use that p-value as the basis for the decision to reject the null hypothesis? \n\nHere's three reasons you might not. \n\n1. First, maybe you ran the wrong test. \n\nThink about someone who runs an experiment with two groups. They should do a t-test, right? But what if instead of a t-test, they do a correlational analysis? That p-value shouldn't be used as the basis to reject the null hypothesis that there are no differences between those two groups. \n\n## Because they ran the wrong test, that p-value is invalid in the sense that it shouldn't be used to reject that specific null hypothesis. \n\n2. A second reason a p-value might not be valid is if it's based on a small number of observations. \n\n* Do you have 10 people in your study? \n* Or 100? \n* Or 1000? \n\nThe more people in your study, the less likely that p-value will change if you keep adding more people to your study. This is because when you have a small sample, each additional observation adds a lot of information proportionally. \n\n* Going from 10 to 11, that 11th observation might change things a lot. The p-value could go from very low to very high. \n* But going from 1000 to 1001, well that p-value isn't going to change much at all. \n\n### So you shouldn't trust a p-value that is based on a small number of observations. \n\nBecause that p-value is likely to change if you were to keep making observations. \n\n3. Now let's talk about a third reason you shouldn't trust a p-value. \n\nWe just covered how more observations is better, right? So you might be tempted to run a small number of people in your experiment, check your p-value, then run some more, check again, run more, check again, until either you get a low p-value or things seem to stabilize. \n\n### But you can't do that. \n\nEvery time you calculate that p-value, you are increasing your type 1 error rate. *This is the chance that you reject the null even though the null is true*. \n\n> Or said another way, this is the chance that you conclude your hypotheses were supported even though, in reality, they are false. \n\n### It's easy to say you won't do this, but how can you prove it? \n\nWhen someone reads your paper, they don't know how many times you stopped data collection to calculate a p-value. *For this, you need a way to publicly declare you won't do this before you run the study.* \n\nYou need a way to tell the world that you will stop data collection after 200 participants or on a particular date, like maybe the last day of the semester at your school. \n\n### The way you do that is with something called a pre-registration. \n\nThis is a document that you create and upload to the internet. It has a date stamp on it and you can't change it. \n\nSo another way a p-value is valid is if there is a pre-registration with a declared stopping rule. We're stopping after 150 participants or we're stopping on the last day of class. \n\n## Add these to your notes\n\n1. The three reasons a p-value might not be valie\n2. Describe one purpose of pre-registration document\n3. Define Type 1 and Type 2 error rates"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_statisticalvalidity2_quiz",
+                    "quizId": "socpsy_statvalidity2_quiz"
                   }
                 }
               ]
@@ -844,7 +871,7 @@
         },
         {
           "id": "socpsy_statvalidity_q4",
-          "prompt": "Which statement best the practical use of Dr. Phills' statistical power rules of thumb?",
+          "prompt": "Which statement best describes the practical use of Dr. Phills' statistical power rules of thumb?",
           "answers": [
             "They help determine whether a study had enough participants to detect the effect the researchers were interested in",
             "They prove the correct statistical test was used",
@@ -853,6 +880,60 @@
           ],
           "correctIndex": 0,
           "explanation": "These rules can be used to judge whether a study had enough power or enough participants to detect the effect of interest."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_statvalidity2_quiz",
+      "title": "Statistical Validity Part 2",
+      "questions": [
+        {
+          "id": "socpsy_statvalidity2_q1",
+          "prompt": "What is a reason a p-value might not be valid?",
+          "answers": [
+            "The study used too many participants",
+            "The researchers ran the wrong statistical test",
+            "The theory was too broad",
+            "The p-value is too high"
+          ],
+          "correctIndex": 1,
+          "explanation": "A p-value isn't valid if esearchers  have run the wrong statistical test for the question they were asking. Also, whether a p-value is high or low is irrelevant to the validity of the p-value"
+        },
+        {
+          "id": "socpsy_statvalidity2_q2",
+          "prompt": "Why should p-values based on small samples not be trusted?",
+          "answers": [
+            "Small samples automatically make the null hypothesis false",
+            "Small samples make it impossible to compute a p-value",
+            "With small samples each new observation can change the p-value a lot",
+            "Small samples are generalizable"
+          ],
+          "correctIndex": 2,
+          "explanation": "When a sample is small, each additional observation adds a lot of information proportionally, so the p-value may shift substantially. Generalizability is related to external validity and random sampling (Who is in the sample, not how many people are in the sample)"
+        },
+        {
+          "id": "socpsy_statvalidity2_q3",
+          "prompt": "What happens to Type 1 error rates when researchers repeatedly stop and calculate a p-value during data collection?",
+          "answers": [
+            "It decreases to nearly zero",
+            "It stays exactly the same",
+            "It increases",
+            "It becomes the same as statistical power"
+          ],
+          "correctIndex": 2,
+          "explanation": "Every time researchers calculate the p-value during data collection, they increase the Type 1 error rate."
+        },
+        {
+          "id": "socpsy_statvalidity2_q4",
+          "prompt": "What is one purpose of a preregistration document?",
+          "answers": [
+            "To let researchers revise their hypotheses after seeing the data",
+            "To publicly declare a stopping rule before the study is run",
+            "To guarantee the p-value will be below 0.05",
+            "To increase the number of participants"
+          ],
+          "correctIndex": 1,
+          "explanation": "Preregistration lets researchers publicly declare in advance when data collection will stop, such as after a certain number of participants or on a certain date. This provides proof that the researchers didn't keep collecting data until their p-value was low enough."
         }
       ]
     }
