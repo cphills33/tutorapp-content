@@ -429,7 +429,29 @@
             {
               "id": "socpsy_FAE",
               "title": "Fundamental Attribution Error",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_FAE_video",
+                    "videoId": "zE-dts6DnQQ"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_FAE_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define the fundamental attribution error\n- Define the discounting principle\n- Define the Lewinian equation\n\n### Imagine the situation. \n\nA person has just said to you, \"I love this car.\" \n\n### How do you determine whether you should make an internal or external attribution? \n\nHow do you decide whether the person has said this for an internal reason, like they really believe it, or for an external reason, like the situation demands they say it? \n\nTo help us think through this problem, let's consider two variations of the situation. \n\n1. In the first, the person saying, \"I love this car,\" is your friend. \n\nYour friend has no external or situational reason to say this to you, so we should probably make an internal attribution. \n\n2. However, consider a version of the scenario where the person saying, \"I love this car,\" is a car salesperson. \n\nA salesperson has plenty of external or situational reasons to say, \"I love this car.\" In fact, in this scenario, the salesperson's behavior, saying, \"I love this car,\" and a situation, the salesperson's need to sell you a car, are completely consistent with one another, so we should make an external attribution. \n\n### These examples illustrate what is known as the discounting principle in action. \n\nThe discounting principle states that when behavior is driven by situation, then behavior doesn't tell us anything about who a person really is. We can't add any attributes to their person's schema. \n\n### In fact, we can take this idea a little further and talk about the Lewinian equation, which defines a person's behavior as the combination of situational pressures or external factors and a person's disposition or internal attributes. \n\nThough this might seem like a simple, straightforward idea, it turns out that humans aren't very good at putting its lessons into practice. \n\n> In particular, we aren't good at using the discounting principle. \n\n### We tend to overestimate the extent to which behaviors are caused by internal factors and underestimate the extent to which they are caused by external factors. \n\n> This is known as the fundamental attribution error, the tendency to make internal attributions to the causes of others' behavior, even when it is clear that situational factors are involved. \n\nImagine you are back in the 1960s, in the middle of the Cold War, when tensions between the United States and Castro controlled Cuba are at an all-time high. \n\nDuring this time, we can assume that if you are an American, you have a very low opinion of Castro. Now imagine you were watching two students back then argue about Castro. \n\n1. One takes a pro-Castro position, \n2. and the other takes the expected anti-Castro position. \n\n### What type of attribution will you make about their behavior? \n\n* If you know that the debaters chose to be either pro or anti-Castro, then you can go ahead and make an internal attribution and assume that each position the debater argues reflects their true attitudes. \n* However, what if you're told that the debaters were forced to take a specific side? \n\nNow you know that situational or external factors are completely responsible for why the debaters are arguing the side they are. *You should make an external attribution.* \n\n* But will you be able to use the discounting principle? \n* Will you be able to conclude that the debater's behavior is non-diagnostic of their true attitudes? \n\n### Jones and Harris conducted this exact study in 1967 and found that we really aren't very good at using the discounting principle. \n\nAs they should, when participants were told that the debaters chose a side, they inferred that their behavior reflected their true attitudes. \n\n> In other words, they were able to make a correct internal attribution. \n\nHowever, when told that the debaters were forced to take a specific side, participants still inferred that their behavior reflected their true attitudes. \n\n### They weren't able to use the discounting principle. \n\nThey thought that the debater that argued the pro-Castro side really did have pro-Castro attitudes. \n\n> That is the fundamental attribution error or correspondence bias. \n\nWe are biased to think that the behavior of others corresponds to their true selves. \n\n### Now I want you to add a couple more items to think about: \n\n* Consensus \n* Consistency. \n\nWe use (or should use) consensus and consistency to help us determine whether to make an internal or external attribution. \n\n1. For example, if everyone is acting the same way in a situation then we have *consensus* and can make external attributions (e.g., everyone is quiet in a classroom, therefore using the discounting principle we can conclude the behavior is not diagnostic of anyone's disposition). This is good evidence that the situation is shaping everyone's behavior. \n2. On the other hand, if we know someone well or at least have seen them in multiple situations and they always act the same way (e.g., someone is loud at a party and in a classroom and on the bus) then we have good reason to make an internal attribution because we have *consistency*.\n\n## Add these to your notes\n\n1. An example of the fundamental attribution error\n2. The definition of the discounting principle\n3. The definition of the lewinian equation\n4. Explain when we might use the consensus principle\n5. Explain when we might use the consistency principle"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_FAE_quiz",
+                    "quizId": "socpsy_fae_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_UAE",
@@ -1317,7 +1339,85 @@
             "Internal focuses on group behavior and external focuses on individual behavior"
           ],
           "correctIndex": 1,
-          "explanation": "The source distinguishes internal attributions as caused by personal attitudes, character, or personality, and external attributions as caused by the situation."
+          "explanation": "Internal attributions as caused by personal attitudes, character, or personality whereas external attributions as caused by the situation."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_fae_quiz",
+      "title": "Fundamental Attribution Theory",
+      "questions": [
+        {
+          "id": "socpsy_fae_q1",
+          "prompt": "What is the fundamental attribution error?",
+          "answers": [
+            "The tendency to overestimate situational causes of other people's behavior",
+            "The tendency to make internal attributions for others' behavior",
+            "The tendency to avoid making any attribution",
+            "The tendency to confuse schemas with stereotypes"
+          ],
+          "correctIndex": 1,
+          "explanation": "The fundamental attribution error is the tendency to make internal attributions to the causes of others' behavior even when it is clear that situational factors are involved."
+        },
+        {
+          "id": "socpsy_fae_q2",
+          "prompt": "What is the discounting principle?",
+          "answers": [
+            "When behavior is driven by the situation it does not tell us about who a person really is",
+            "All behavior should be explained by personality first",
+            "Behavior is a  reflection of  attitudes",
+            "Situational factors matter only when everyone acts the same way"
+          ],
+          "correctIndex": 0,
+          "explanation": "The discounting principle states that when behavior is driven by the situation, behavior does not tell us anything about who a person really is."
+        },
+        {
+          "id": "socpsy_fae_q3",
+          "prompt": "What is the Lewinian equation?",
+          "answers": [
+            "Behavior is caused by a person's disposition",
+            "Behavior is caused by situational pressure",
+            "Behavior is the combination of situational pressures and a person's disposition",
+            "Behavior is related to attributions"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Lewinian equation defines a person's behavior as the combination of situational pressures or external factors and a person's disposition or internal attributes."
+        },
+        {
+          "id": "socpsy_fae_q4",
+          "prompt": "When does consensus support an external attribution?",
+          "answers": [
+            "When everyone behaves the same way in the same situation",
+            "When one person behaves the same way in every situation",
+            "When a person's behavior matches their self-schema",
+            "When participants were free to choose their position"
+          ],
+          "correctIndex": 0,
+          "explanation": "If everyone is acting the same way in a situation, there is consensus, which is good evidence that the situation is shaping behavior."
+        },
+        {
+          "id": "socpsy_fae_q5",
+          "prompt": "When does consistency support an internal attribution?",
+          "answers": [
+            "When everyone in the room behaves similarly",
+            "When a person always behaves the same way across multiple situations",
+            "When a person is responding to a strong situational demand",
+            "When behavior is clearly non-diagnostic"
+          ],
+          "correctIndex": 1,
+          "explanation": "If someone acts the same way across multiple situations, we have consistency and good reason to make an internal attribution."
+        },
+        {
+          "id": "socpsy_fae_q6",
+          "prompt": "Which example best illustrates the consistency principle?",
+          "answers": [
+            "Everyone in a classroom is quiet",
+            "A debater argues a side they were assigned",
+            "A person is loud at a party in a classroom and on the bus",
+            "A salesperson praises a car they are trying to sell"
+          ],
+          "correctIndex": 2,
+          "explanation": "The consistency principle applies when a person acts similarly in many different situations"
         }
       ]
     }
