@@ -618,7 +618,29 @@
             {
               "id": "socpsy_selffulfilling",
               "title": "Self-fulfilling Prophecies",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_selffulfilling_video",
+                    "videoId": "Cv3VQmRuGmo"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_selffulfilling_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe how nonverbal leakage lead to self-fulfilling prophecies\n\n### You may have heard about a book called The Secret, which argues that you can send your positive thoughts out into the world, and positive things will come back to you. \n\nThere's no evidence to support that idea, or even a theory for how it could possibly be true. \n\n> But nonverbal leakage, or the unintentional transmission of information via nonverbal behaviors, is real, and can lead to what is called a self-fulfilling prophecy. \n\n### Imagine a teacher has an implicit expectation that one child is a good student, and another child is a bad student. \n\nWe can imagine a person schema for each student, one with the attribute smart, and one with the attribute ignorant. \n\nThough consciously the teacher tries to treat each child the same, nonverbal leakage may transmit very different information to each child. \n\n1. The so-called smart child will learn that the teacher has high expectations for him or her, \n2. whereas the so-called ignorant child will learn that the teacher has low expectations for him or her. \n\n### How does knowing that someone believes in you affect your behavior? \n\nWell, it makes you work harder and do better. \n\n### What about knowing that someone doesn't believe in you? \n\nThen you work less hard and perform worse. \n\n> That's the self-fulfilling prophecy. \n\nA teacher's expectation for each student may leak out via nonverbal leakage, and the students may respond in line with those expectations so that, at the end of the term, the so-called good students have better grades than the so-called bad students. \n\n### Let's try another example. \n\nThis one has to do with job interviews. \n\nIf you've ever been interviewed for a job, then you know it can be a nerve-wracking experience. \n\nYou may also have had the experience that some interviewers \n\n* can set you at ease, \n* and others can ramp up your anxiety. \n\n### In which interview setting do you think you will perform better? \n\n> Researchers have found that white job interviewers have different expectations or stereotypes about how fit black and white job candidates are for the job. \n\nThey have higher expectations for white job candidates than black job candidates. \n\nThough most job interviewers try to treat each job candidate equally, these racial expectations can leak out during the job interview and create a self-fulfilling prophecy. \n\n### In an initial study, Word, Zana, and Cooper found that white job interviewers treated Black and white job candidates very differently in terms of four nonverbal behaviors. \n\n1. The white job interviewers sat closer to the white job candidates, \n2. made more eye contact with the white job candidates, \n3. spent more time with them, \n4. and made fewer speech errors with white job candidates. \n\n> Together, these nonverbal behaviors are called immediacy behaviors, so we could say that the white job interviewers were more immediate with white job candidates than Black job candidates. \n\nSo we know that the expectations of white job interviewers leaked out via immediacy behaviors during job interviews. \n\n### Here is where the self-fulfilling prophecy kicks in. \n\n> When we want someone to like us, we mimic them. \n\nIn particular, we mimic their nonverbal behaviors. \n\n### So during a job interview, \n\nwe tend to match the nonverbal behaviors of the job interviewers. This means the Black candidates could have: \n\n1. sat farther away, \n2. made less eye contact, \n3. had shorter interviews, \n4. and made more speech errors \n\nbecause they were trying to mimic the interviewer. \n\n### If that was the case, then they would likely have been judged as less qualified for the job because they were less immediate during the interview. \n\nA second study investigated this possibility. \n\n* In this study, white candidates, white Confederates, interviewed white job applicants, but treated half of them like the Black applicants were treated in the first study, \n\n> i.e. the Confederates sat farther away from them, made less eye contact, spent less time with them, and made more speech errors. \n\nThe results were striking. \n\nThe white participants treated like the Black candidates were in the first study were judged to be less qualified for the job. \n\n### Together, these two studies are a very convincing demonstration of the self-fulfilling prophecy in action. \n\n1. Job interviewer expectations about Black and white job candidates leak out via nonverbal behaviors related to immediacy. \n2. Job candidates mimic these nonverbal behaviors, \n3. and this leads to objectively worse interview performance for Black job candidates because they are mimicking the poor nonverbal behaviors of the interviewer. \n\n## Add these to your notes\n\n1. Describe how nonverbal behaviors can lead to racial discrimination during job interviews\n2. Explain how self-fulfilling prophecies work"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_selffulfilling_quiz",
+                    "quizId": "socpsy_prophecy_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_controlled",
@@ -1934,18 +1956,48 @@
           ],
           "correctIndex": 1,
           "explanation": "fMRI is used to determine where something happens in the brain, while EEG is used to determine when something happens."
-        },
+        }
+      ]
+    },
+    {
+      "id": "socpsy_prophecy_quiz",
+      "title": "Self-Fulfilling Prophecies",
+      "questions": [
         {
-          "id": "socpsy_automaticmeasure_q8",
+          "id": "socpsy_prophecy_q1",
           "prompt": "What is nonverbal leakage?",
           "answers": [
-            "When people intentionally signal their attitudes with gestures",
-            "When nonverbal behaviors unintentionally transmit information",
-            "When reaction times become slower because of distraction",
-            "When physiological measures fail to capture stress"
+            "The intentional use of gestures to persuade someone",
+            "The unintentional transmission of information through nonverbal behaviors",
+            "A way of unconsciously correcting first impressions",
+            "A form of nonverbal priming"
           ],
           "correctIndex": 1,
-          "explanation": "Nonverbal leakage as the unintentional transmission of information through nonverbal behavior. For example, maybe you sit farther away from someone you don't like without realizing you did that."
+          "explanation": "Nonverbal leakage is the unintentional transmission of information via nonverbal behaviors. Imagine a job interview unintentionally transmitting their dislike of minorities through nonverbal behavior like how close they sit to the job candidate."
+        },
+        {
+          "id": "socpsy_prophecy_q2",
+          "prompt": "What is a self-fulfilling prophecy?",
+          "answers": [
+            "A situation in which positive thinking magically changes reality",
+            "A process where expectations leak out and lead others to behave in ways that confirm those expectations",
+            "A tendency to ignore situational factors when making attributions",
+            "A deliberate attempt to discriminate against out-group members"
+          ],
+          "correctIndex": 1,
+          "explanation": "Expectations can leak out through behavior and cause others to respond in ways that make the original expectation come true."
+        },
+        {
+          "id": "socpsy_prophecy_q3",
+          "prompt": "What did Word Zanna and Cooper find about white interviewers' behavior toward white versus Black job candidates?",
+          "answers": [
+            "Interviewers treated both groups identically on all nonverbal behaviors",
+            "Interviewers were more immediate with white candidates than Black candidates",
+            "Interviewers spent more time with Black candidates than white candidates",
+            "Interviewers made more eye contact with Black candidates than white candidates"
+          ],
+          "correctIndex": 1,
+          "explanation": "White interviewers sat closer, made more eye contact, spent more time, and made fewer speech errors with white candidates, showing greater immediacy."
         }
       ]
     }
