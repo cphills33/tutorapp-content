@@ -510,7 +510,29 @@
             {
               "id": "socpsy_dualprocess",
               "title": "Dual Process Models",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_dualprocess_video",
+                    "videoId": "n6rBkP2Z0Ak"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_dualprocess_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe dual process theories\n- Describe the three-stage model of attribution\n\n### Let's start by thinking about first impressions. \n\n> They say, \"First impressions are hard to change, that it's easier to form an impression of a person than it is to change our impression of that person.\" \n\nOr, in the language of attribution theory and person schemas, this saying seems to suggest that \n\n> once we've made an initial attribution about the cause of someone's behaviour, it's hard to change that attribution. \n\n### Imagine you're talking to a person who keeps fidgeting and biting their nails and looking around during the conversation. \n\nAccording to the *fundamental attribution error*, your first impression of this person will be to assume you are talking with an anxious person. \n\n> In other words, you will make an internal attribution. \n\n### But what if it turns out that the person's anxious behaviour is actually caused by the situation? \n\nIf you two are having a conversation about a provocative topic like public humiliation, hidden secrets, or your sex lives, then you need to change your first impression. \n\nYou need to use the *discounting principle* to subtract out the effect of the situation on your conversation partner's behaviour. \n\n> In other words, you need to change your explanation for their anxious behaviour from an internal attribution to an external one. \n\n### But, as the saying goes, changing a first impression is hard to do. \n\nTo explain why, I'm going to introduce the idea of dual process models. \n\n### In dual process models, there are two modes of thinking. \n\nDepending on the specific theory, these modes have different names. \n\n* Thinking fast versus thinking slow, \n* or automatic versus controlled, \n* or implicit versus explicit, \n* or even conscious versus non-conscious. \n\n> In all these models, there is always one mode that is quick and easy to use, and one mode that takes longer and more effort to use. \n\nPerhaps you can already see how dual process models help us understand why it is so hard to change a first impression. \n\n### Psychologists have used dual process theories to create a three-stage model of attribution. \n\n1. In the first stage, we identify a behaviour a person is performing. \n2. In the second stage, we make an internal attribution about the cause of that behaviour. This is an automatic process. It happens quickly and easily. \n3. Finally, in the third stage, we make an external attribution about the cause of the behaviour. This is an effortful process. \n\n### How do we know it's an effortful process? \n\nWell, a really clever study by Gilbert, Palom, and Kroll from 1988 demonstrated that the third stage doesn't take place \n\n> if we are distracted or we don't have the mental resources to focus on executing the discounting principle and making an external attribution. \n\n* They had some participants watch an anxious person discuss a bland topic, like their ideal vacation. \n* In this scenario, participants should make an internal attribution because there are no external factors to explain why he or she is acting anxiously. \n* Other participants, however, watch an anxious person discuss provocative topics like public humiliation, hidden secrets, and their sex lives. \n* In this scenario, participants should use their discounting principle and make an external attribution. \n\n1. Half of participants managed to do this. \n2. The other half, though, were required to remember a nine-digit number while they watched the video. \n\n### Remembering a nine-digit number takes effort. \n\nOur minds can't perform two effortful tasks at once, so these participants were unable to reach the third stage of the three-stage model of attribution. \n\nThey couldn't undertake the *effortful process* of taking into account \n\n1. situational factors \n2. and making an external attribution \n\nbecause their mind was already busy with the effortful process of remembering a nine-digit number. \n\n### If you remember the actor-observer differences discussed in a previous video, \n\nthen you may have already guessed that the three-stage model of attribution is different when we are inferring the causes of our own behaviour. When thinking about ourselves, making an external attribution is easy and automatic, and the third effortful stage is when we make an internal attribution. \n\n## Add these to your notes\n\n1. Describe dual-process models\n2. Explain the three-stage model of attribution"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_dualprocess_quiz",
+                    "quizId": "socpsy_dualprocess_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_automatic",
@@ -1630,6 +1652,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Individualism prioritizes analytic reasoning, whereas collectivism uses holistic reasoning that considers multiple influences."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_dualprocess_quiz",
+      "title": "Dual Process models",
+      "questions": [
+        {
+          "id": "socpsy_dualprocess_q1",
+          "prompt": "What do dual process models propose?",
+          "answers": [
+            "There is only one stable way people think about others",
+            "There are two modes of thinking-one quick and one slow",
+            "There are two modes of thinking-one conscious and one intentional",
+            "People always make external attributions first"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dual process models include two modes of thinking, one that is quick and easy to use and one that takes longer and more effort."
+        },
+        {
+          "id": "socpsy_dualprocess_q2",
+          "prompt": "Which pair of labels best describe a dual-process distinction?",
+          "answers": [
+            "Random versus nonrandom",
+            "Internal versus external",
+            "Automatic versus controlled",
+            "Reliable versus unreliable"
+          ],
+          "correctIndex": 2,
+          "explanation": "Thinking fast versus thinking slow, or automatic versus controlled, or implicit versus explicit, or even conscious versus non-conscious."
+        },
+        {
+          "id": "socpsy_dualprocess_q3",
+          "prompt": "What happens in the third stage of the three-stage model of attribution when forming impressions of others?",
+          "answers": [
+            "People automatically make an internal attribution",
+            "People effortfully make an external attribution",
+            "People effortfully make an internal attribution",
+            "People automatically make an external attribution"
+          ],
+          "correctIndex": 1,
+          "explanation": "The third stage is making an external attribution, and  this is an effortful process."
         }
       ]
     }
