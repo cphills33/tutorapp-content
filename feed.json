@@ -483,7 +483,29 @@
             {
               "id": "socpsy_culture",
               "title": "Culture and the Not so Fundamental Attribution Error",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_culture_video",
+                    "videoId": "eqoB53TsGV4"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_culture_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the two culture types\n- Define culture\n- Compare and contrast individualism and collectivism\n\n### When I think about trying to define what culture is, \n\nI can't help but think of the quote by Marshall McLuhan that \n\n> \"Water is unknown to a fish until it discovers air.\" \n\n### When we talk about culture, \n\nwe're often talking about things that are so ubiquitous we don't even notice them, things that we take for granted so much that we think that's the only way things could ever be, and that that is the natural or fundamental way. \n\nThis is part of the reason that *cross-cultural psychology* is so important. It helps us to identify some of the assumptions we have about human nature. \n\n### Imagine a school of fish in which one fish is out in front of the others. \n\n> Why is that fish out in front of the others?\n\n1. Will you make an internal attribution (the fish is fast! A leader1)\n2. Will you make an external attribution (The others are slow. They are followers!)\n\n### What is perceptually salient for you? \n\n* Is it the individual fish out in front of the others \n* or external factors like the other fish? \n\n1. Is fish A the leader \n2. or are the other fish too slow? \n\n### Now imagine another school of fish. \n\n> This time a fish is behind the others.\n\n### Why?\n\nAre you making an internal or an external attribution about the cause of this behavior? \n\n* Is fish A perceptually salient for you \n* or are the other fish? \n\n1. Is fish A too slow \n2. or are the others too fast? \n\n### Are you focused on the individual or the group? \n\n*In North America*, most people tend to focus on the individual and make an internal attribution. This is, as you know, the* fundamental attribution error* at work. \n\nHowever,* in Japan*, most people tend to focus on the group and make an external attribution. \n\n### So the fundamental attribution error isn't a fundamental aspect of human nature. \n\nIt's actually something taught by the *culture* in North America. \n\n### In this class, I will be using the following definition of culture. \n\n> The enduring behaviors, ideas, attitudes, and traditions shared by a large group of people and transmitted from one generation to the next. \n\nIn other words, culture is what our children learn, whether we explicitly teach it to them or they pick it up from observing us and interacting with others. \n\n1. What our children learn, what we learn in North America, is to focus on the individual, or what is called the focal object. \n\nThat's what fish A is. Fish A is the focal object, and so we tend to explain the behavior of fish A by appealing to internal attributions. \n\n### This tendency to focus on the focal object is called context-independent thinking. \n\nThis is part of what it means to live in an *individualistic* culture. \n\n> Individualism promotes the concept of giving priority to one's own goals over group goals and defining one's own identity in terms of personal attributes rather than group identifications. \n\n### This has consequences for our self-schemas. \n\nFor example, in North America, we tend not to represent others as being part of ourselves. We define ourselves in terms of individual traits and goals. We value achievement and individual rights. We value rejecting conformity. \n\n> We say things like, \"I am a good student,\" \"I am a kind person,\" \"I am good at basketball.\" \n\nIn addition, individualism places a priority on analytic reasoning, which emphasizes the use of rules and insists contradictory statements cannot be true. \n### Individualism likes things to be true or not true. \n\nThere isn't much room for doubt or uncertainty. \n\n### Collectivist cultures are different. \n\n> Collectivism promotes the concept of giving priority to the goals of one's group, often one's extended family or work group, and defining one's identity accordingly. \n\nPeople in these cultures define themselves in terms of their connections with others, solidarity with the group, and they reject egotism. \n\n> They say, \"I am a brother,\" \"I am Joe's friend,\" \"I am a father,\" \"I am a son.\" \n\nIn their self-schemas, they represent others as part of themselves. They use holistic reasoning, which considers all possible influences and leaves room for doubt. \n\nAnd importantly, to our discussion of the fundamental attribution error, they are context-dependent. \n\nThis means they attend to the surroundings and the gestalt, the overall picture. \n\n## Add these to your notes\n\n1. The definitions of culture, individualism, and collectivism\n2. Why the Fundamental Attribution Error isn't so fundamental"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_culture_quiz",
+                    "quizId": "socpsy_culture_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_dualprocess",
@@ -1554,6 +1576,60 @@
           ],
           "correctIndex": 2,
           "explanation": "When an out-group member does something good, people tend to make an external attribution so that their own group still looks superior."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_culture_quiz",
+      "title": "Culture",
+      "questions": [
+        {
+          "id": "socpsy_culture_q1",
+          "prompt": "What is culture?",
+          "answers": [
+            "A set of temporary preferences shared by a small group",
+            "The enduring behaviors ideas attitudes and traditions shared by a large group and transmitted across generations",
+            "A collection of laws created by governments",
+            "Art, music, movies, and poetry"
+          ],
+          "correctIndex": 1,
+          "explanation": "Culture is the enduring behaviors, ideas, attitudes, and traditions shared by a large group of people and transmitted from one generation to the next."
+        },
+        {
+          "id": "socpsy_culture_q2",
+          "prompt": "What does individualism promote?",
+          "answers": [
+            "Priority for group goals and identity based on relationships",
+            "Priority for one's own goals and identity defined by personal attributes",
+            "Holistic reasoning and acceptance of contradiction",
+            "Defining the self mainly through extended family roles"
+          ],
+          "correctIndex": 1,
+          "explanation": "Individualism is giving priority to one's own goals over group goals and defining identity in terms of personal attributes."
+        },
+        {
+          "id": "socpsy_culture_q3",
+          "prompt": "What does collectivism promote?",
+          "answers": [
+            "Priority for personal achievement over family and work groups",
+            "Priority for group goals and identity defined through connections to others",
+            "Ignoring context and focusing only on the focal object",
+            "Analytic reasoning that rejects contradiction"
+          ],
+          "correctIndex": 1,
+          "explanation": "Collectivism is giving priority to the goals of one's group and defining identity accordingly."
+        },
+        {
+          "id": "socpsy_culture_q4",
+          "prompt": "Which pair correctly matches the reasoning styles?",
+          "answers": [
+            "Individualism with holistic reasoning and collectivism with analytic reasoning",
+            "Individualism with analytic reasoning and collectivism with holistic reasoning",
+            "Both individualism and collectivism with analytic reasoning",
+            "Both individualism and collectivism with holistic reasoning"
+          ],
+          "correctIndex": 1,
+          "explanation": "Individualism prioritizes analytic reasoning, whereas collectivism uses holistic reasoning that considers multiple influences."
         }
       ]
     }
