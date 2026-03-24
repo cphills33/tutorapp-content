@@ -317,7 +317,7 @@
                   "type": "youtube",
                   "payload": {
                     "id": "socpsy_externalvalidity_video",
-                    "videoId": "n7jhIyL-hh8",
+                    "videoId": "ZEPWBULj8D4",
                     "title": "External Validity"
                   }
                 },
@@ -348,6 +348,20 @@
                     "videoId": "81oemwlD_lE",
                     "title": "Social Cognition"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_socialcognition_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define social cognition\n- Define person-memory\n\n### The goal of this video is to define social cognition by placing it within social psychology and describing its relationship to cognitive psychology. \n\nBut first I want to talk about our memory for persons, or person memory. \n\nI want to talk about some of the ways we:\n\n*  form impressions of people,\n* how those impressions are stored in our memory, \n* and how they are retrieved from memory. \n\nLouis CK has a weird bit where he says he stereotyped gay people as promiscuous, and he formed an impression of a particular gay person from his past that is always trying to sleep with him. \n\nYears later, when he retrieved this memory of that person, it still contained the attribute \"promiscuous.\" He still believed that that person was trying to sleep with him all the time. \n\nHe had this impression of a person, which was based on a stereotype, despite the fact that when he examined the evidence, there was no reason to think this person was trying to sleep with him all the time. \n\nAs a social psychologist, this is fascinating to me because \n\n* I'm interested in people, \n* how we think of them, \n* and how we treat them. \n\nAnd what this story makes clear is that if we want to understand how we form impressions of people and how those impressions are retrieved from memory, then \n\n### we need to learn about how memories are formed and retrieved in general. \n\n> This is the explicit connection between social and cognitive psychology, applying what we know about how learning and memory works to the study of how we learn about and remember people. \n\nThat's also a pretty good definition of social cognition. Framed like this, I think you won't be surprised to learn that social cognition was originally called \"person-memory.\" \n\n### A basic principle of social cognition, or person memory, is that we don't just encode, store, or retrieve information in an objective manner. \n\nOur current biases, goals, and environment can influence how we \n\n1. encode, \n2. store, \n3. and retrieve information. \n\nWhich is to say that when we form an impression of a person, we don't do that in an objective manner. \n\n> Instead, our prejudices and stereotypes color how we think of that person. \n\n## Add these to your notes\n\n1. The definition of social cognition"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_socialcognition_quiz",
+                    "quizId": "socpsy_socialcognition_quiz"
+                  }
                 }
               ]
             },
@@ -361,6 +375,20 @@
                     "id": "socpsy_schemas_video",
                     "videoId": "jZewQBrPoxE",
                     "title": "Schemas"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_schemas_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define what a schema is\n- State the two rules for using schemas\n\n### The purpose of this video is to give you a quick introduction to a very important concept in social psychology, schemas.\n\n> Schemas are mental structures that represent knowledge about a concept or type of stimulus.\n\nThey often include attributes and the relationship among those attributes.\n\nA stereotype might include a negative stereotype.\n\n### But schemas about social categories can be very complex and include a number of other attributes.\n\nFor example, a schema or mental knowledge structure would likely also include:\n\n1. personality traits, \n2. behaviors, \n3. physical traits, as in what a person looks like, including their gender, race, ethnicity, height, weight, etc.\n4. attitudes (evaluations)\n5. Your connection to a group\n\n### \nWe can create schemas about almost anything.\nFor example, here is what's called a \"role schema\" about social psychologists.\n\n* For personality traits, let's say they are \"outgoing\" and \"agreeable.\"\n* For behaviors, let's say they like to read.\n* For physical traits, according to stereotypes, university professors are \"older\" and \"white male,\" so let's put that here.\n* For attitudes or evaluations, let's put a positive evaluation in part because I identify as a social psychologist,\n* and I will include a link between this group and myself.\n\nYou can also have schemas about specific people. For example, you probably have a schema for your best friend.\n\nYou can also have schemas about events. What types of attributes or things are associated with exam day versus a regular lecture day?\n\n### Importantly, we can also have self-schemas. \n\nThese are mental knowledge structures about ourselves.\n\n* What social categories do we associate with ourselves? \n* What personality traits? \n* What behaviors? \n* What physical traits?\n* What roles do we play? \n* What events do we feel a part of? \n* Do we like ourselves?\n\n### We use schemas because they simplify our world. \n\nInstead of getting to know someone as an individual, it is much easier and quicker to simply place them in a category and use that category's schema to understand this person.\n\nIt is something we all do.\n\n### But using a schema in that way can distort perceptions and memories.\n\n> Unfortunately, those distorted memories can persist even if we stop stereotyping the group.\n\n### And perhaps the most chilling effect of schemas is that they can create self-fulfilling prophecies.\n\nWe'll talk about that in a later module, but for now, just keep in mind that people can live up or down to our expectations,\nand we can drive others to act in accordance with our own expectations for them.\n\n### Now that you know what a schema is, you might wonder what determines which schemas we use. \n\nThere are potentially millions of different schemas we could use at any moment. \n\n1. The first rule is we will use a schema that is relevant. This seems obvious but it's important. \n2. The second rule is we will a schema that is salient or accessible or active. In other words, we use schemas that are on our minds or were recently in our minds. \n\n> Putting both rules together, we use schemas that are relevant and accessible/salient. \n\n## Add these to your notes\n\n1. The definition of social cognition\n2. The two rules for using schemas"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_schemas_quiz",
+                    "quizId": "socpsy_schemas_quiz"
                   }
                 }
               ]
@@ -1047,6 +1075,90 @@
           ],
           "correctIndex": 2,
           "explanation": "In this case the more accurate statement is that we do not know whether the findings generalize to men."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_socialcognition_quiz",
+      "title": "Social Cognition",
+      "questions": [
+        {
+          "id": "socpsy_socialcognition_q1",
+          "prompt": "What is social cognition?",
+          "answers": [
+            "The study of how people are biologically wired for social behavior",
+            "Applying what we know about learning and memory to how we learn about and remember people",
+            "The study of group decision making across cultures",
+            "The statistical analysis of stereotypes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Social cognition as applying what we know about learning and memory to the study of how we learn about and remember people."
+        },
+        {
+          "id": "socpsy_socialcognition_q2",
+          "prompt": "What was social cognition originally called?",
+          "answers": [
+            "Trait inference",
+            "Schema theory",
+            "Person-memory",
+            "Social perception"
+          ],
+          "correctIndex": 2,
+          "explanation": "Social cognition was originally called person-memory."
+        },
+        {
+          "id": "socpsy_socialcognition_q3",
+          "prompt": "Which set of three questions are central to social cognition?",
+          "answers": [
+            "How we observe, imitate, and reward persons",
+            "How we encode, store, and retrieve information about persons",
+            "How we sample, randomize, and analyze persons",
+            "How we like, dislike, and avoid persons"
+          ],
+          "correctIndex": 1,
+          "explanation": "The lesson emphasizes three core issues: how we encode, store, and retrieve information about persons."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_schemas_quiz",
+      "title": "Schemas",
+      "questions": [
+        {
+          "id": "socpsy_schemas_q1",
+          "prompt": "What is a schema?",
+          "answers": [
+            "A statistical rule for analyzing social behavior",
+            "A mental structure that represents knowledge about a concept or type of stimulus",
+            "A temporary emotional reaction to another person",
+            "A method for randomly assigning participants to groups"
+          ],
+          "correctIndex": 1,
+          "explanation": "Schemas are mental structures that represent knowledge about a concept or type of stimulus. There are many types of schemas (role, person, event, etc.)"
+        },
+        {
+          "id": "socpsy_schemas_q2",
+          "prompt": "Which of the following is one of the rules for using schemas?",
+          "answers": [
+            "Use the most complex schema available",
+            "Use the most negative schema available",
+            "Use a schema that is relevant",
+            "Use a schema that was learned first in childhood"
+          ],
+          "correctIndex": 2,
+          "explanation": "People use  schemas that are relevant."
+        },
+        {
+          "id": "socpsy_schemas_q3",
+          "prompt": "Which of the following is one of the rules for using schemas?",
+          "answers": [
+            "Use a schema that is salient",
+            "Use a schema that has the most attributes",
+            "Use a schema only if it is self-related",
+            "Use a schema that has been experimentally tested"
+          ],
+          "correctIndex": 0,
+          "explanation": "People use schemas that are salient, accessible, or active."
         }
       ]
     }
