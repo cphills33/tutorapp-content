@@ -591,7 +591,29 @@
             {
               "id": "socpsy_automaticmeasures",
               "title": "Measuring Automatic Processes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_automaticmeasures_video",
+                    "videoId": "VmU_tbQYXxg"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_automaticmeasures_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define the four horsemen of automaticity\n- Describe how researchers measure automatic processes\n\n### Let's start with Barge's four horsemen of automaticity. \n\n1. Intention, \n2. control, \n3. awareness, \n4. and efficiency. \n\n### The first thing to notice is that a process doesn't need all four horsemen to be considered automatic. \n\nJust one is enough. \n\nSo instead of talking about processes as automatic or not automatic, we can start talking about the way or ways in which a particular process may be automatic. \n\n### Let's talk about the first two horsemen, intention and control. \n\n> Intention refers to whether you have the ability to start a process. \n\n* Can you choose to do it? \n* Can you initiate the process? \n\n> Imagine a loud noise behind you and you turn around. \n\nYou didn't choose to initiate that process even though you were aware of it as it happened. \n\n> Control, on the other hand, refers to whether you can stop a process. \n\nThink about micturating. \n\nYou can choose to start peeing, but once you start, it's much harder to stop. \n\nSometimes you might be able to, but often this is a process that you don't have control over in the sense that you can't stop it. \n\n### Awareness refers to just what you think it would. \n\n> Are you consciously aware of the process? \n\nThink about breathing or your heart rate. \n\nYou can become aware of those processes like when someone like me tells you to think about them, but most of the time we don't think about breathing or our heart rate. \n\n> Those processes generally do not enter our conscious awareness. \n\n### Efficiency refers to the amount of mental resources the process requires. \n\n* Is it a little? \n* Is it a lot? \n\nA good way to think about this horseman is as if you are distracted, can the process still run? \n\n* Can you enjoy music while cleaning, studying, driving?\n* What about driving? \n* Can you use your phone while driving? \n* What about holding a conversation with someone else in the car? \n\nTo the extent that you can do something while distracted, that is how efficient that process is. \n\n### Now let's turn to how researchers attempt to measure processes that are not intentional, cannot be controlled, or participants have no aware of, but are efficient and can run amidst distraction. \n\nOne of the most common ways of measuring automatic processes is with reaction time tasks. \n\nThere are many types of reaction time tasks, but I will highlight four of them here. I won't go into the details of how they work, but you should understand that they are reaction time tasks used to measure automatic processes. \n\n### Lexical Decision tasks measure how quickly participants can determine whether a string of characters is a word or not. \n\nThe general principle is that if your schema for a concept is active, like say your schema for U and F, then you should be quicker to identify words related to that schema, in this case U and F. \n\nOr words rather than non-words. \n\nThe active schema facilitates how fast you respond. \n\n* Like priming tasks, participants are quickly shown a word or image belonging to a specific schema, again, say U and F. \n* This is called priming. \n* Then they are asked to categorize another stimulus. If this stimulus is related to the primed schema, the participants will respond faster. \n\n> The Stroop task asks participants to ignore the meaning of words and simply say the color of the word that it's printed in. \n\nThis is difficult if say the word red is printed in blue colors. \n\nIt can also be difficult if the word is associated with a schema that is active in your mind at that moment. \n\n### Imagine your schema for U and F is active and the word \"swoop\" is printed in yellow letters. \n\nIt will be harder to ignore the word \"swoop\" and you will take a few minutes longer or a few moments longer to respond with yellow. \n\n### The most common reaction time task though is the Implicit Association Task, or the IAT. \n\nWe will spend a lot more time on this task in the future, so I won't go into detail here. \n\n### There are also physiological and neuroscientific measures of automatic processes. \n\nWe can measure:\n\n* heart rate, \n* or ECG, \n* stress, or levels of the hormone cortisol, \n* and we can also measure brain activity using devices like fMRI, EEG, and MEG. \n\n> fMRI is used to determine where something happens in the brain, while EEG is used to determine when something happens in the brain. \n\nNeither tool can do both. \n\n> However, MEG, which is more rare and expensive, can do both. \n\n### We can also observe nonverbal behaviors to assess automatic processes. \n\n> Nonverbal behaviors are considered automatic because we often are not aware of them, and we often do not intend to start performing them. \n\nFor example, nonverbal behaviors like:\n\n*  how far we sit from someone, \n* eye contact, \n* whether we orient our body to face someone, \n* and how we lean toward or away from someone, \n\nare all nonverbal behaviors that provide information about how much we like another person. \n\n### In fact, there is a term for this transmission of information in this way. Nonverbal Leakage. \n\nOur nonverbal behaviors unintentionally transmit information. \n\nOne reason I like studying automatic processes is because there are so many creative ways to measure these processes, and it's always possible to think of a new way which can shed new light on an interesting process.\n\n## Add these to your notes\n\n1. Define the four horseman of automaticity\n2. Describe four ways we can measure automatic processes"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_automaticmeasures_quiz",
+                    "quizId": "socpsy_automaticmeasure_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_selffulfilling",
@@ -1822,6 +1844,108 @@
           ],
           "correctIndex": 1,
           "explanation": "Making a thoughtful list of reasons for or against the relationship had no predictive value."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_automaticmeasure_quiz",
+      "title": "Measuring Automatic Processes",
+      "questions": [
+        {
+          "id": "socpsy_automaticmeasure_q1",
+          "prompt": "What are Bargh's four horsemen of automaticity?",
+          "answers": [
+            "Attention memory salience and priming",
+            "Intention control awareness and efficiency",
+            "Accuracy speed emotion and effort",
+            "Schemas stereotypes attitudes and norms"
+          ],
+          "correctIndex": 1,
+          "explanation": "The four horsemen of automaticity are intention, control, awareness, and efficiency."
+        },
+        {
+          "id": "socpsy_automaticmeasure_q2",
+          "prompt": "How many of the four horsemen does a process need to qualify as automatic?",
+          "answers": [
+            "All four",
+            "Three of the four",
+            "Two of the four",
+            "Just one"
+          ],
+          "correctIndex": 3,
+          "explanation": "A process does not need all four horsemen to be considered automatic; one is enough. So instead of thinking of processes are automatic versus not automatic. Think of them as, this process is automatic in the sense that it is (unintentional or efficient or outside awareness or cannot be stopped)"
+        },
+        {
+          "id": "socpsy_automaticmeasure_q3",
+          "prompt": "What does intention refer to in the four horsemen of automaticity?",
+          "answers": [
+            "Whether you can stop a process once it starts",
+            "Whether you are consciously aware of a process",
+            "Whether you have the ability to start a process",
+            "Whether the process can occur while distracted"
+          ],
+          "correctIndex": 2,
+          "explanation": "Intention is whether you have the ability to start or initiate a process."
+        },
+        {
+          "id": "socpsy_automaticmeasure_q4",
+          "prompt": "What does control refer to in the four horsemen of automaticity?",
+          "answers": [
+            "Whether you can stop a process",
+            "Whether you can remember a process",
+            "Whether a process is physiologically measurable",
+            "Whether a process takes place in the brain"
+          ],
+          "correctIndex": 0,
+          "explanation": "Control is whether you can stop a process once it has started."
+        },
+        {
+          "id": "socpsy_automaticmeasure_q5",
+          "prompt": "What does awareness refer to in the four horsemen of automaticity?",
+          "answers": [
+            "Whether you are consciously aware of the process",
+            "Whether the process is accurate",
+            "Whether the process involves language",
+            "Whether the process requires priming"
+          ],
+          "correctIndex": 0,
+          "explanation": "Awareness is about whether you are consciously aware of the process."
+        },
+        {
+          "id": "socpsy_automaticmeasure_q6",
+          "prompt": "What does efficiency refer to in the four horsemen of automaticity?",
+          "answers": [
+            "Whether a process is socially desirable",
+            "Whether a process happens in the heart rather than the brain",
+            "How much mental resources a process requires and whether it can run while distracted",
+            "Whether a process is initiated intentionally"
+          ],
+          "correctIndex": 2,
+          "explanation": "Efficiency is how many mental resources a process requires and whether it can continue under distraction."
+        },
+        {
+          "id": "socpsy_automaticmeasure_q7",
+          "prompt": "What is the difference between fMRI and EEG?",
+          "answers": [
+            "fMRI measures when something happens in the brain and EEG measures where it happens",
+            "fMRI measures where something happens in the brain and EEG measures when it happens",
+            "Both measure both where and when equally well",
+            "Neither can be used to study automatic processes"
+          ],
+          "correctIndex": 1,
+          "explanation": "fMRI is used to determine where something happens in the brain, while EEG is used to determine when something happens."
+        },
+        {
+          "id": "socpsy_automaticmeasure_q8",
+          "prompt": "What is nonverbal leakage?",
+          "answers": [
+            "When people intentionally signal their attitudes with gestures",
+            "When nonverbal behaviors unintentionally transmit information",
+            "When reaction times become slower because of distraction",
+            "When physiological measures fail to capture stress"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nonverbal leakage as the unintentional transmission of information through nonverbal behavior. For example, maybe you sit farther away from someone you don't like without realizing you did that."
         }
       ]
     }
