@@ -402,7 +402,29 @@
             {
               "id": "socpsy_attribution",
               "title": "Attribution Theory",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_attribution_video",
+                    "videoId": "j9wEUoMmUo"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_attribution_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Differentiate between internal and external attributions\n- Define attribution theory\n\n### Attribution theory is the scientific study of how we infer the causes of other people's behavior. \n\nImagine you walk into your apartment and see your significnat other holding a knife, your cat covered in red liquid, and a red mess all over the floor.\n\n### What should you infer is the cause of your significant other's strange behavior?\n\n* Are they secretly a cat killer, \n* or did a series of unfortunate events lead to this final predicament? \n\nWe should understand that circumstances external to our significant other led to that disturbing scene. \n\n### But will we?\n\n> What would most people do in this situation? \n\nLet's consider another example. \n\n### Imagine two friends travel to Orlando to visit Harry Potter World at Universal. \n\nIn attribution theory, the questions we ask are: \n\n* Why are they doing this? \n* What is the cause of their behavior? \n\n### There are two general reasons they might be going on this trip. \n\n1. The first is that they love Harry Potter. We can imagine putting the attribute \"loves Harry Potter\" on their person schemas. \n2. The second is that some external factor is causing them to go there. \n\nFor example, maybe one of them loves Harry Potter, but the other is going because their friend wanted them to come along. \n\n### In the language of attribution theory, \n\nwe would say that we have made an internal attribution for the person who is going because they love Harry Potter. \n\n> An internal attribution is when we infer that a person's behavior is caused by something internal, like a personal attitude, character, or personality. \n\nHowever, we would say that we have made an external attribution for the person who is going because their friend wanted them to. \n\n> An external attribution is when we infer that a person's behavior is caused by something external, like the situation. \n\n### We assume that most people would act the same way in the same situation. \n\nWho wouldn't go on an adventure with their friend if the situation allowed it? \n\n## Add these to your notes\n\n1. The definition of internal attribution\n2. The definition of external attribution\n3. The definition of attribution theory"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_attribution_quiz",
+                    "quizId": "socpsy_attribution_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_FAE",
@@ -1230,6 +1252,72 @@
           ],
           "correctIndex": 0,
           "explanation": "People use schemas that are salient, accessible, or active."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_attribution_quiz",
+      "title": "Attribution Theory",
+      "questions": [
+        {
+          "id": "socpsy_attribution_q1",
+          "prompt": "What is attribution theory?",
+          "answers": [
+            "The scientific study of how people remember social events",
+            "The scientific study of how we infer the causes of other people's behavior",
+            "The scientific study of how schemas become stereotypes",
+            "The scientific study of how attitudes change over time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Attribution theory is the scientific study of how we infer the causes of other people's behavior. To what do we attribute their behavior?"
+        },
+        {
+          "id": "socpsy_attribution_q2",
+          "prompt": "What core question does attribution theory ask?",
+          "answers": [
+            "How accurately can people recall a conversation?",
+            "Why is this person doing this?",
+            "How large is the effect size in the study?",
+            "Which attributes are useful?"
+          ],
+          "correctIndex": 1,
+          "explanation": "Attribution theory asks why people are doing something and what is causing their behavior."
+        },
+        {
+          "id": "socpsy_attribution_q3",
+          "prompt": "What is an internal attribution?",
+          "answers": [
+            "Inferring that behavior is caused by something internal such as an attitude character or personality",
+            "Inferring that behavior is caused entirely by the physical environment",
+            "Inferring that behavior is random and has no cause",
+            "Inferring that behavior is caused by internal validity"
+          ],
+          "correctIndex": 0,
+          "explanation": "An internal attribution is inferring that a person's behavior is caused by something internal, such as a personal attitude, character, or personality."
+        },
+        {
+          "id": "socpsy_attribution_q4",
+          "prompt": "What is an external attribution?",
+          "answers": [
+            "Inferring that behavior is caused by a personal trait",
+            "Inferring that behavior is caused by something external such as the situation",
+            "Inferring that behavior is caused by biology alone",
+            "Inferring that behavior is caused by external validity"
+          ],
+          "correctIndex": 1,
+          "explanation": "An external attribution as inferring that a person's behavior is caused by something external, like the situation."
+        },
+        {
+          "id": "socpsy_attribution_q5",
+          "prompt": "Which option best distinguishes internal from external attributions?",
+          "answers": [
+            "Internal focuses on the situation and external focuses on attitude",
+            "Internal focuses on personality or attitude and external focuses on situational causes",
+            "Internal and external attributions mean the same thing",
+            "Internal focuses on group behavior and external focuses on individual behavior"
+          ],
+          "correctIndex": 1,
+          "explanation": "The source distinguishes internal attributions as caused by personal attitudes, character, or personality, and external attributions as caused by the situation."
         }
       ]
     }
