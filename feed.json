@@ -238,6 +238,20 @@
                     "videoId": "Pw5GEEhw8S4",
                     "title": "Statistical Validity"
                   }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_statisticalvalidity_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define statistical validity\n- Use rules of thumb to roughly determine how many participants a study should have\n\n### Though statistical validity is quite broad because it refers to the appropriateness of the study's conclusions based on statistical analyses, \n\nI would argue that there are two main factors that contribute to it. \n\n1. The first is simply using the appropriate statistical test for your research question and the types of variables in your study. \n\nIn this class, we won't worry about that though. We will always assume that peer reviewers took care of this. \n\n### However, the second is something we can easily adopt into our toolkit for interrogating studies. \n\n2. Did the researchers recruit enough participants? \n\nTo illustrate one reason this is important, let's go back to the video on experimental method and the discussion of random assignment. If you remember, I argued that using random assignment we can create two groups of people that are identical. \n\n### But is that really true? \n\nIf there were just two people in the experiment, one in group A and the other in group B, are groups A and B identical?\n\n> Not likely because no two people are alike. But how many people are necessary to ensure the two groups are equal? \n\n* Five? \n* Ten? \n* Twenty? \n\n### One answer to this question is simply, \"The more the better.\" \n\nThe more people in each group, the less likely it is that the groups systematically differ on some variable. \n\n> To answer this question, researchers think about how big of an effect they expect their independent variable to have on their dependent variable. \n\nFor example, if researchers expect the independent variable to have a large effect, then only 26 participants per group are necessary. That number of participants gives them an 80% chance of detecting a large effect. \n\n### This is called the statistical power of the study. \n\nHowever, if researchers expect the independent variable to have a medium effect, then approximately 64 participants per group are necessary to give them an 80% chance of detecting the effect. \n\nIt turns out that most research in social psychology has a slightly less than medium effect size. \n\n> So social psychologists should generally be aiming for about 86 participants per group in their studies if they would like an 80% chance of detecting the effect they're interested in. \n\nNow let's imagine researchers expect the independent variable to have only a small effect on the dependent variable. In that scenario, researchers need a whopping 394 participants in each group to give themselves an 80% chance of detecting the effect. \n\nSo as you can imagine, researchers don't often have the resources to investigate small effects. \n\nYou can use these handy rules to determine whether a study had enough power or had enough participants to detect the effect the researchers were interested in. \n\n| Effect size | Minimum participants needed for 80% statistical power |\n|---|---:|\n| Large | 26 per group |\n| Medium | 64 per group |\n| Slightly less than medium | 86 per group |\n| Small | 394 per group |\n\n\n## Add these to your notes\n\n1. The definition of statistical definition\n2. The statistical power rules of thumb"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_statisticalvalidity_quiz",
+                    "quizId": "socpsy_statvalidity_quiz"
+                  }
                 }
               ]
             },
@@ -785,6 +799,60 @@
           ],
           "correctIndex": 1,
           "explanation": "Comparing how the variable was operationalized against the construct definition lets you evaluate how well the variable was measured."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_statvalidity_quiz",
+      "title": "Statistical Validity",
+      "questions": [
+        {
+          "id": "socpsy_statvalidity_q1",
+          "prompt": "Why are more participants per group/condition in a study generally better?",
+          "answers": [
+            "Because larger groups make it less likely the groups systematically differ on some variable",
+            "Because more participants automatically prove causality",
+            "Because larger groups eliminate the need for random assignment",
+            "Because more participants make every effect large"
+          ],
+          "correctIndex": 0,
+          "explanation": "More people in each group makes it less likely the groups systematically differ on some variable."
+        },
+        {
+          "id": "socpsy_statvalidity_q2",
+          "prompt": "What is statistical power?",
+          "answers": [
+            "The degree to which a theory is persuasive",
+            "The chance of detecting an effect of a given size",
+            "The number of variables in a study",
+            "The ability to generalize across contexts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Statistical power is probability of getting a low p-value when you run your study. It is related to your expected effect size (small/medium/large) and the sample size"
+        },
+        {
+          "id": "socpsy_statvalidity_q3",
+          "prompt": "According to Dr. Phills' rules of thumb, how many participants per group are needed to detect a medium effect with 80% power?",
+          "answers": [
+            "26",
+            "64",
+            "86",
+            "394"
+          ],
+          "correctIndex": 1,
+          "explanation": "A medium effect requires approximately 64 participants per group for 80% power. Small requires 394. Large requires 26."
+        },
+        {
+          "id": "socpsy_statvalidity_q4",
+          "prompt": "Which statement best the practical use of Dr. Phills' statistical power rules of thumb?",
+          "answers": [
+            "They help determine whether a study had enough participants to detect the effect the researchers were interested in",
+            "They prove the correct statistical test was used",
+            "They guarantee groups are identical in every way",
+            "They show whether a study has high external validity"
+          ],
+          "correctIndex": 0,
+          "explanation": "These rules can be used to judge whether a study had enough power or enough participants to detect the effect of interest."
         }
       ]
     }
