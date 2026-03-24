@@ -537,12 +537,56 @@
             {
               "id": "socpsy_automatic",
               "title": "Automatic Processes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_automatic_video",
+                    "videoId": "lu2ImIoz4XY"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_automatic_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the situations in which automatic processes lead to better decisions\n\n### Many great minds have spoken about the value of automatic processes or non-conscious processes or of just using your gut. \n\nHenry Ford said, \n\n> \"The air is full of ideas. They are knocking you in the head all the time. You only have to know what you want, then forget it and go about your business. Suddenly the idea will come through. It was there all the time.\" \n\nGrant Wood said, \n\n> \"All the really good ideas I ever had came to me while I was milking a cow.\" \n\n### The common theme is that sometimes our best thinking on a problem takes place when we use our gut or aren't thinking about the problem. \n\nHere's an example of that. \n\n* If you are dating someone right now, I want you to write down on a sheet of paper a number from 1 to 7 that represents how happy you are with the relationship. \n\n### Go ahead, use your gut and write down the number. \n\nYou got it? Believe it or not, that number is a great predictor of whether you will still be dating a few months from now. \n\n### Now, if I had asked you to make a thoughtful list of all the reasons your relationship is good or bad, that would actually be of no predictive value at all. \n\nOne reason for the apparent advantage of the unconscious is processing capacity. \n\n1. Our conscious minds can think about 7 units of information at once and can process about 50 bits of information per second, which translates to about one small sentence per second. \n\n2. However, our unconscious minds are estimated to be able to process over 11 million bits of information per second. \n\n### Here's another example of when going with your gut has an advantage. \n\nHow do you choose which courses to take each semester? \n\n* Do you look at the list of available courses for a few minutes and then go with your gut? \n* Or do you carefully analyze the reasons for and against each course and then make a decision? \n\nOnce again, research has found an advantage for the gut in that students who simply evaluated courses made better selections. \n\n### The reason for this is that the students who carefully analyzed the courses focused on a limited number of attributes about each course. \n\nOf course they did. The conscious mind has a limited processing capacity. \n\n1. If they happened to focus on the relevant attributes, then they made a good selection. \n2. But if they happened to focus on irrelevant attributes, then they made a poor selection. \n\n### Have you ever chosen an apartment to live in? \n\n* Did you use your gut? \n* Did you reason it out? \n* Or maybe someone told you to sleep on it? \n\n### Research has shown an advantage for sleeping on decisions as well. \n\nResearchers asked participants to rate 4 possible apartments and they provided 12 pieces of information about each one. \n\n12, of course, is just beyond the number of items we can hold in our conscious minds at one time. \n\n* One apartment was the best. Participants were provided 8 positive pieces of information about it. \n* One apartment was the worst. Participants were provided 4 pieces of positive information about it. \n* The others were in the middle. \n\n1. One third of participants went with their gut and evaluated the apartments immediately. \n2. One third of participants used their conscious minds to evaluate the apartments for 3 minutes and then evaluated them. \n3. The remaining third used their unconscious minds to evaluate the apartments. \n\nThey were shown the apartments and then distracted with another task that occupied their conscious minds for 3 minutes and then evaluated the apartments. \n\n### Believe it or not, the unconscious thinkers provided the largest differences between the best and worst apartments in their evaluations. \n\nSo sleeping on it was the best strategy. \n\n### But does sleeping on it lead to being the happiest with our decisions? \n\nMaybe we make a worse choice when we are making a rational list of pros and cons, but maybe we are ultimately happier with that choice? \n\n* In one experiment, researchers had participants choose one of 5 posters to take home with them. \n* Some participants made the choice with their gut and selected a poster right away. \n* Others were conscious thinkers and thought for 9 minutes about which poster they'd like. \n* Other participants were distracted for 9 minutes and then made a choice. These were the unconscious thinkers. \n\n> The unconscious thinkers were both the most satisfied with their choice, but also demanded the most money from the researchers in order to sell the poster back. \n\nNow I hope after this video you have an idea of the power of the automatic or the non-conscious or implicit processes that influence our behavior and decisions. \n\n## Add these to your notes\n\n1. Describe the specific situations in which automatic processes can lead to better decisions"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_automatic_quiz",
+                    "quizId": "socpsy_automatic_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_automaticweakness",
               "title": "Weaknesses of Automatic Processes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_automaticweakness_video",
+                    "videoId": "PoKDJabPmuQ"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_automaticweakness_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Recognize the three heuristics\n- Describe some of the weaknesses of automatic processes\n\n\n### Consider these two patterns of words\n\n1. _ _ _ _ _ N _\n2. _ _ _ _ I N G\n\n1. One ends with blank and blank. \n2. The other ends with -ing. \n\nI want you to think about which pattern is more common in English. \n\n> Take a second and write down your response. \n\n### Most people can quickly think of many words that end in -ing. \n\nIf you're thinking fast or automatically or implicitly, you might stop your analysis of this problem right there. \n\nYou might say, \n\n> \"Because I can easily think of many words that end in -ing, but it's a little harder to think of many words that end in blank and blank, words that end in -ing must be more common.\" \n\n### If you did that, though, you would have fallen prey to the availability heuristic. \n\n> The availability heuristic refers to our tendency to assess the frequency, likelihood, or probability of an event by how easily the event can be remembered or brought to mind. \n\nIf you think slow or consciously or deliberately, you of course notice that all blank and blank words are also -ing words. So logically, there must be many more blank and blank words than -ing words because there is at least one that ends in blank and blank but isn't an -ing word. \n\n### But because it's so easy to think of -ing words, we can add -ing to almost any verb. \n\nIt feels like they are more common. \n\nOkay, try this. \n\n> One day in a large hospital, eight births are recorded by gender in order of their arrival. \n\nWhich of the following orders is most likely? \n\n1. All boys, four boys and then four girls, \n2. or a random-looking sequence of boys and girls? \n\nTake a moment and write down which sequence you think is the most likely. \n\n* If you're thinking fast, you may choose the third sequence because it looks the most random and you know the order of births should look random. \n* But if you chose that sequence, then you've fallen prey to what is known as the representative heuristic. \n\n> This is the tendency to assess the likelihood of an event based on stereotypes or expectations of similar occurrences. \n\n1. Thinking fast, we expect the order of births to switch back and forth between boys and girls and so we choose the sequence that looks the most like that. \n2. But thinking slow, we can recognize that all three sequences are equally likely. \n\nThis is because each birth is an independent event and the odds in any specific order are the same. \n\n### Yes, sequence one has a very low chance of being correct, but sequence two has that same low chance. \n\nOkay, last one. Consider this. \n\n> A newly hired engineer for a computer firm in Eugene has four years of experience in good all-around qualifications. When asked to estimate the new hire starting salary, my assistant estimated a salary of $28,000. \n\n### What is your estimate? \n\nTake a moment and write down what you believe is the appropriate starting salary for an engineer in Eugene with four years of experience and good all-around qualifications, keeping in mind that my assistant thinks the starting salary should be $28,000. \n\n1. Thinking fast, you might assume that $28,000 is way too low, but assume my assistant knows a little something about the job market and shows an estimate higher than $28,000 but not that much higher, maybe $10,000 to $20,000 higher. \n\nIf you did that, then you have fallen prey to the anchoring and adjustment heuristic. \n\n> This refers to our tendency to be influenced by the initial values or anchor and then to adjust our final decisions based on that anchor. \n\n1. Thinking slow, you would consider other factors like my assistant is probably motivated to give a low starting salary figure and you would put in the conscious effort to ignore that low number. You would think about what engineers should make along with the cost of living in Eugene and suggest a much higher number for a starting salary. \n\nSo hopefully after seeing these three heuristics in action, you understand that though automatic processes are fast and can lead to better decision making in certain situations, there are also many downsides to them as well, including these heuristics.\n\n## Add these to your notes\n\n1. Describe the representative heuristic\n2. Describe the availability. heuristic\n3. Describe the anchoring and adjustment heuristic"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_automaticweakness_quiz",
+                    "quizId": "socpsy_automaticweakness_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_automaticmeasures",
@@ -1681,7 +1725,7 @@
             "Reliable versus unreliable"
           ],
           "correctIndex": 2,
-          "explanation": "Thinking fast versus thinking slow, or automatic versus controlled, or implicit versus explicit, or even conscious versus non-conscious."
+          "explanation": "Thinking fast versus thinking; slow, or automatic versus controlled;, or implicit versus explicit;, or even conscious versus non-conscious."
         },
         {
           "id": "socpsy_dualprocess_q3",
@@ -1694,6 +1738,90 @@
           ],
           "correctIndex": 1,
           "explanation": "The third stage is making an external attribution, and  this is an effortful process."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_automaticweakness_quiz",
+      "title": "Weaknesses of automatic processes",
+      "questions": [
+        {
+          "id": "socpsy_automaticweakness_q1",
+          "prompt": "What is the availability heuristic?",
+          "answers": [
+            "Assessing frequency or likelihood by how easily examples come to mind",
+            "Assessing likelihood by how random something looks",
+            "Assessing value by comparing pros and cons",
+            "Assessing people based on group membership"
+          ],
+          "correctIndex": 0,
+          "explanation": "The availability heuristic is the tendency to assess frequency, likelihood, or probability based on how easily something can be remembered or brought to mind."
+        },
+        {
+          "id": "socpsy_automaticweakness_q2",
+          "prompt": "Why do people often mistakenly think words ending in -ing are more common?",
+          "answers": [
+            "Because -ing words are objectively more numerous than words ending in n and g",
+            "Because it is easier to think of examples of -ing words, which triggers the availability heuristic",
+            "Because English grammar requires more -ing words",
+            "Because it is easier to think of examples of -ing words, which triggers the representativeness heuristic"
+          ],
+          "correctIndex": 1,
+          "explanation": "People often judge -ing words as more common because such examples come to mind easily, illustrating the availability heuristic."
+        },
+        {
+          "id": "socpsy_automaticweakness_q3",
+          "prompt": "What is the representative heuristic?",
+          "answers": [
+            "Basing judgments on an initial number and adjusting from it",
+            "Assessing likelihood based on stereotypes or expectations of similar occurrences",
+            "Remembering dramatic events better than ordinary ones",
+            "Making choices by focusing only on goals"
+          ],
+          "correctIndex": 1,
+          "explanation": "The representative heuristic as the tendency to assess the likelihood of an event based on stereotypes or expectations of similar occurrences."
+        },
+        {
+          "id": "socpsy_automaticweakness_q4",
+          "prompt": "What is the anchoring and adjustment heuristic?",
+          "answers": [
+            "The tendency to favor information that confirms prior beliefs",
+            "The tendency to be influenced by an initial value and then adjust from it",
+            "The tendency to judge frequency by memory ease",
+            "The tendency to assume events with similar features have similar causes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Anchoring and adjustment heuristic is the tendency to be influenced by an initial value or anchor and then adjust final judgments based on it."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_automatic_quiz",
+      "title": "Strengths of automatic processses",
+      "questions": [
+        {
+          "id": "socpsy_automatic_q1",
+          "prompt": "In what kind of situations can automatic or gut-based processes lead to better decisions?",
+          "answers": [
+            "Only when decisions are simple and involve very little information",
+            "When decisions involve more information than conscious thought can easily handle",
+            "Only when there is no time pressure at all",
+            "Only when people have explicit rules to follow"
+          ],
+          "correctIndex": 1,
+          "explanation": "Automatic processes can be advantageous when decisions involve many attributes or more information than conscious thought can easily process."
+        },
+        {
+          "id": "socpsy_automatic_q2",
+          "prompt": "What happened when people made a thoughtful list of all the reasons their relationship was good or bad?",
+          "answers": [
+            "It became a better predictor than the gut rating",
+            "It had no predictive value at all",
+            "It improved memory for the relationship",
+            "It made people more satisfied with the relationship"
+          ],
+          "correctIndex": 1,
+          "explanation": "Making a thoughtful list of reasons for or against the relationship had no predictive value."
         }
       ]
     }
