@@ -270,7 +270,7 @@
                   "type": "text",
                   "payload": {
                     "id": "socpsy_statisticalvalidity2_text",
-                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Learn three reasons a p-value might not be valie\n- Describe one purpose of a pre-registration document\n- Define Type 1  and Type 2 errors\n\n### This is a video about one aspect of statistical validity. \n\n> P-values. \n\nNow usually when I ask students what they think that means, their first answer is whether the p-value less than 0.05. \n\n* If it is, we reject the null hypothesis. \n* If it isn't, we don't. \n\n### But that's not what I mean today when I talk about statistical validity. \n\nI'm talking about not about whether a p-value is low enough. \n\n> I'm talking about whether the p-value itself is valid. \n\nThink about it like this. You ran a study. You calculated a p-value. *But should you trust that p-value?* \n\n### Should you use that p-value as the basis for the decision to reject the null hypothesis? \n\nHere's three reasons you might not. \n\n1. First, maybe you ran the wrong test. \n\nThink about someone who runs an experiment with two groups. They should do a t-test, right? But what if instead of a t-test, they do a correlational analysis? That p-value shouldn't be used as the basis to reject the null hypothesis that there are no differences between those two groups. \n\n## Because they ran the wrong test, that p-value is invalid in the sense that it shouldn't be used to reject that specific null hypothesis. \n\n2. A second reason a p-value might not be valid is if it's based on a small number of observations. \n\n* Do you have 10 people in your study? \n* Or 100? \n* Or 1000? \n\nThe more people in your study, the less likely that p-value will change if you keep adding more people to your study. This is because when you have a small sample, each additional observation adds a lot of information proportionally. \n\n* Going from 10 to 11, that 11th observation might change things a lot. The p-value could go from very low to very high. \n* But going from 1000 to 1001, well that p-value isn't going to change much at all. \n\n### So you shouldn't trust a p-value that is based on a small number of observations. \n\nBecause that p-value is likely to change if you were to keep making observations. \n\n3. Now let's talk about a third reason you shouldn't trust a p-value. \n\nWe just covered how more observations is better, right? So you might be tempted to run a small number of people in your experiment, check your p-value, then run some more, check again, run more, check again, until either you get a low p-value or things seem to stabilize. \n\n### But you can't do that. \n\nEvery time you calculate that p-value, you are increasing your type 1 error rate. *This is the chance that you reject the null even though the null is true*. \n\n> Or said another way, this is the chance that you conclude your hypotheses were supported even though, in reality, they are false. \n\n### It's easy to say you won't do this, but how can you prove it? \n\nWhen someone reads your paper, they don't know how many times you stopped data collection to calculate a p-value. *For this, you need a way to publicly declare you won't do this before you run the study.* \n\nYou need a way to tell the world that you will stop data collection after 200 participants or on a particular date, like maybe the last day of the semester at your school. \n\n### The way you do that is with something called a pre-registration. \n\nThis is a document that you create and upload to the internet. It has a date stamp on it and you can't change it. \n\nSo another way a p-value is valid is if there is a pre-registration with a declared stopping rule. We're stopping after 150 participants or we're stopping on the last day of class. \n\n## Add these to your notes\n\n1. The three reasons a p-value might not be valie\n2. Describe one purpose of pre-registration document\n3. Define Type 1 and Type 2 error rates"
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Learn three reasons a p-value might not be valid\n- Describe one purpose of a pre-registration document\n- Define Type 1  and Type 2 errors\n\n### This is a video about one aspect of statistical validity. \n\n> P-values. \n\nNow usually when I ask students what they think that means, their first answer is whether the p-value less than 0.05. \n\n* If it is, we reject the null hypothesis. \n* If it isn't, we don't. \n\n### But that's not what I mean today when I talk about statistical validity. \n\nI'm not talking about whether a p-value is low enough. \n\n> I'm talking about whether the p-value itself is valid. \n\nThink about it like this. You ran a study. You calculated a p-value. *But should you trust that p-value?* \n\n### Should you use that p-value as the basis for the decision to reject the null hypothesis? \n\nHere's three reasons you might not. \n\n1. First, maybe you ran the wrong test. \n\nThink about someone who runs an experiment with two groups. They should do a t-test, right? But what if instead of a t-test, they do a correlational analysis? That p-value shouldn't be used as the basis to reject the null hypothesis that there are no differences between those two groups. \n\n## Because they ran the wrong test, that p-value is invalid in the sense that it shouldn't be used to reject that specific null hypothesis. \n\n2. A second reason a p-value might not be valid is if it's based on a small number of observations. \n\n* Do you have 10 people in your study? \n* Or 100? \n* Or 1000? \n\nThe more people in your study, the less likely that p-value will change if you keep adding more people to your study. This is because when you have a small sample, each additional observation adds a lot of information proportionally. \n\n* Going from 10 to 11, that 11th observation might change things a lot. The p-value could go from very low to very high. \n* But going from 1000 to 1001, well that p-value isn't going to change much at all. \n\n### So you shouldn't trust a p-value that is based on a small number of observations. \n\nBecause that p-value is likely to change if you were to keep making observations. \n\n3. Now let's talk about a third reason you shouldn't trust a p-value. \n\nWe just covered how more observations is better, right? So you might be tempted to run a small number of people in your experiment, check your p-value, then run some more, check again, run more, check again, until either you get a low p-value or things seem to stabilize. \n\n### But you can't do that. \n\nEvery time you calculate that p-value, you are increasing your type 1 error rate. *This is the chance that you reject the null even though the null is true*. \n\n> Or said another way, this is the chance that you conclude your hypotheses were supported even though, in reality, they are false. \n\n### It's easy to say you won't do this, but how can you prove it? \n\nWhen someone reads your paper, they don't know how many times you stopped data collection to calculate a p-value. *For this, you need a way to publicly declare you won't do this before you run the study.* \n\nYou need a way to tell the world that you will stop data collection after 200 participants or on a particular date, like maybe the last day of the semester at your school. \n\n### The way you do that is with something called a pre-registration. \n\nThis is a document that you create and upload to the internet. It has a date stamp on it and you can't change it. \n\nSo another way a p-value is valid is if there is a pre-registration with a declared stopping rule. We're stopping after 150 participants or we're stopping on the last day of class. \n\n## Add these to your notes\n\n1. The three reasons a p-value might not be valid\n2. Describe one purpose of pre-registration document\n3. Define Type 1 and Type 2 error rates"
                   }
                 },
                 {
@@ -278,6 +278,33 @@
                   "payload": {
                     "id": "socpsy_statisticalvalidity2_quiz",
                     "quizId": "socpsy_statvalidity2_quiz"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_internalvalidity",
+              "title": "Internal Validity",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_internalvalidity_video",
+                    "videoId": "n7jhIyL-hh8"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_internalvalidity_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define internal validity\n- Define confounding variables\n\n### The purpose of this video is to highlight one threat to internal validity that isn't mitigated by random assignment. \n\nIf you remember, internal validity refers to our confidence that our manipulation of the independent variable is truly responsible for the observed changes in the dependent or measured variable. \n\n> One thing that can dampen our confidence that the IV is responsible for changes in the DV is if another variable varies along with the IV. \n\nThis is called a *confounding variable* because it becomes mixed up with the independent variable and makes it difficult to distinguish the effect of the independent variable from the confounding variable. \n\n### Here is an example of a confounding variable in action. \n\nImagine researchers wanted to investigate how the attractiveness of an author influences the evaluation of an essay. \n\n* These researchers manipulate attractiveness of the author by showing participants a photo of an essay's author and then asking them to evaluate the essay. \n* In this example, author attractiveness is the IV because it is manipulated and evaluation of the essay is the DV because it is measured. \n\nImagine participants are shown one of four photos of the ostensible author. Two of the authors are more photogenic than the others.\n\n### But there coule be many confounding variables. \n\n1. For example, maybe the photos of the more attractive authors also appear to be younger. I could imagine giving younger authors a better evaluation on their essay than older authors. T\n2. Maybe the photos of the more attractive authors are also professionally done and touched up. \n3. Maybe the photos of the more attractive authors are also more recent.\n\n### All of these variables, age, professionally done, recency, all of them are compounded with attractiveness. \n\nSo if the researchers observe differences in the DV, if participants evaluate essays written by the ostensibly more attractive authors more positively, they will not be able to conclude that this is because of the IV because attractiveness has been confounded. \n\n## Add these to your notes\n\n1. The definition of internal validity\n2. The definition of confounding variable\n3. Explain how a confounding variable weakens internal validity"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_internalvalidity_quiz",
+                    "quizId": "socpsy_internalvalidity_quiz"
                   }
                 }
               ]
@@ -934,6 +961,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Preregistration lets researchers publicly declare in advance when data collection will stop, such as after a certain number of participants or on a certain date. This provides proof that the researchers didn't keep collecting data until their p-value was low enough."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_internalvalidity_quiz",
+      "title": "Internal Validity",
+      "questions": [
+        {
+          "id": "socpsy_internalvalidity_q1",
+          "prompt": "What does internal validity refer to?",
+          "answers": [
+            "Whether findings generalize to other settings",
+            "Confidence that the manipulation of the IV is responsible for changes in the DV",
+            "How well a measure captures a construct",
+            "Whether participants were randomly sampled"
+          ],
+          "correctIndex": 1,
+          "explanation": "Internal validity is our confidence that the manipulation of the independent variable is truly responsible for observed changes in the dependent variable. We want to make sure that only difference between groups is the one thing we are manipulating."
+        },
+        {
+          "id": "socpsy_internalvalidity_q2",
+          "prompt": "What kind of variable weakens internal validity when it varies along with the independent variable?",
+          "answers": [
+            "A mediator",
+            "A dependent variable",
+            "A confounding variable",
+            "A random variable"
+          ],
+          "correctIndex": 2,
+          "explanation": "Internal validity is weakened when another variable varies along with the independent variable, creating a confound."
+        },
+        {
+          "id": "socpsy_internalvalidity_q3",
+          "prompt": "Which statement best explains how a confounding variable weakens internal validity?",
+          "answers": [
+            "It makes it harder to know whether the IV or another variable caused changes in the DV",
+            "It guarantees the null hypothesis will be rejected",
+            "It increases the number of participants in the study",
+            "It ensures the measure has construct validity"
+          ],
+          "correctIndex": 0,
+          "explanation": "A confound weakens internal validity because it prevents researchers from confidently attributing changes in the DV to the IV."
         }
       ]
     }
