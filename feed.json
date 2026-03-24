@@ -398,7 +398,78 @@
         {
           "id": "socpsy_2",
           "title": "Perceptions of others and ourselves",
-          "pages": []
+          "pages": [
+            {
+              "id": "socpsy_attribution",
+              "title": "Attribution Theory",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_FAE",
+              "title": "Fundamental Attribution Error",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_UAE",
+              "title": "Ultimate Attribution Error",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_culture",
+              "title": "Culture and the Not so Fundamental Attribution Error",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_dualprocess",
+              "title": "Dual Process Models",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_automatic",
+              "title": "Automatic Processes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_automaticweakness",
+              "title": "Weaknesses of Automatic Processes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_automaticmeasures",
+              "title": "Measuring Automatic Processes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_selffulfilling",
+              "title": "Self-fulfilling Prophecies",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_controlled",
+              "title": "Measuring Controlled Processes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_shooter",
+              "title": "The shooter task",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_selfesteem",
+              "title": "Self-esteem",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_impexpselfesteem",
+              "title": "Implicit vs explicit self-esteem",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_affectiveforecast",
+              "title": "Affective forecasting",
+              "blocks": []
+            }
+          ]
         },
         {
           "id": "socpsy_3",
