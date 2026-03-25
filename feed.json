@@ -840,7 +840,29 @@
             {
               "id": "socpsy_measureexp",
               "title": "Measuring Explicit Attitudes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_measureexp_video",
+                    "videoId": "P1HRff2nux0"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_measureexp_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- describe three methods for measuring explicit attitudes\n- state two reasons we cannot always only ask about explicit attitudes\n\n### Using a dual process model framework, \n\nexplicit methods of measuring attitudes allow participants to use their controlled processes to respond. \n\nGoing all the way back to Thurstone in 1928, what is still one of the most popular ways to measure attitudes is to directly ask participants. \n\n* For example, we could directly ask people their opinion about food, sports, movies, people, social categories, etc. \n* Another method we have also previously discussed is to use feeling thermometers. People simply indicate how warm or favourable they feel toward an attitude object, which could be a person, object, or idea. \n* A third method for directly asking about attitudes is to use what is called a semantic differential. The way I remember this type of scale is to recall that semantic refers to words, and differential is some sort of comparison. So a semantic differential scale involves two opposing words. \n\n> Do you believe Black people are closer to good or bad, pleasant or unpleasant, etc. \n\n### However, sometimes you can't ask a person's attitude directly because participants will tell you more than they know. \n\nFor example, do you agree or disagree with the Attorney General's interpretation of the 15th Amendment? \n\nYou can answer that question, but that doesn't mean you actually know either \n\n* what the 15th Amendment is, \n* or what the AG's interpretation of it is, \n* and what your attitude is toward that. \n\nBut you can still give an answer. \n\nSo it's really important for researchers not to ask questions that force participants to give answers they don't know. \n\n### On the other hand, there are times where you do know the truth, but you don't want to tell it. \n\nIn this case, we try to ask indirectly. This is the case for what we call \"sensitive attitudes.\" These are attitudes toward \n\n* social categories, \n* religion, \n* sex, \n* political parties. \n\nConsider these direct attempts at asking a participant's attitude or evaluation of Black people. \n1. What is your evaluation of Black people? 1 to 7. \n2. How warm or favorable do you feel toward Black people? \n3. How good or bad are Black people?  \n\nAll are great ways to directly ask the question, but social norms may prevent a person from answering honestly. \n\nTherefore, Social psychologists have developed indirect questions. \n\nFor example, here is a sample question from what's called the Modern Racism Scale. \n\n1. The government should not help make any special effort to help Black people because they should help themselves. \n\nThis question doesn't directly ask about your evaluation of Black people, and provides a socially acceptable reason for responding in a manner that is negative toward Black people. \n\nThat 'socially acceptable' reason is conservative political ideology.\n\nSo an indirect method of measuring attitudes can sometimes be more accurate. \n\n## Add these to your notes\n\n1. An example of using feeling thermometers (how warm you feel toward an attitude object) to measure explicit attitudes\n2. An example of using semantic differentials to measure explicit attitudes\n3. An example of question measuring sensitive attitudes using the logic of the Modern Racism Scale but about another social category beside Black people\n4. Two reasons we can't always just ask people about their attitudes"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_measureexp_quiz",
+                    "quizId": "socpsy_measureexp_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_expattbeh",
@@ -2535,7 +2557,7 @@
         },
         {
           "id": "socpsy_welcome3_q2",
-          "prompt": "W did Allport and other researchers consider attitudes indispensable?",
+          "prompt": "Why did Allport and other researchers consider attitudes indispensable?",
           "answers": [
             "Because attitudes are stronger than attributions",
             "Because attitudes predict behavior",
@@ -2610,6 +2632,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Wicker's meta-analysis found little evidence that attitudes were strong predictors of behavior."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_measureexp_quiz",
+      "title": "Measuring Explicit Attitudes",
+      "questions": [
+        {
+          "id": "socpsy_measureexp_q1",
+          "prompt": "What is a feeling thermometer?",
+          "answers": [
+            "A task where people categorize positive and negative words",
+            "A scale where people indicate how warm or favorable they feel toward an attitude object",
+            "A measure of physiological arousal toward a target",
+            "A list of reasons for and against an attitude object"
+          ],
+          "correctIndex": 1,
+          "explanation": "A feeling thermometer asks people how warm or favorable they feel toward a person, object, or idea."
+        },
+        {
+          "id": "socpsy_measureexp_q2",
+          "prompt": "What is a semantic differential?",
+          "answers": [
+            "A scale using two opposing words such as good versus bad",
+            "A reaction time task measuring accessibility",
+            "A question asking participants to estimate social consensus",
+            "A measure of nonverbal behavior during interviews"
+          ],
+          "correctIndex": 0,
+          "explanation": "A semantic differential scale uses two opposing words, such as good-bad or pleasant-unpleasant."
+        },
+        {
+          "id": "socpsy_measureexp_q3",
+          "prompt": "What is the logic behind using Modern Racism Scale-style questions?",
+          "answers": [
+            "They directly ask whether a person dislikes a group",
+            "They provide a socially acceptable non-racist reason for expressing a negative attitude",
+            "They measure only explicit warmth toward a group",
+            "They avoid asking about social groups entirely"
+          ],
+          "correctIndex": 1,
+          "explanation": "Modern Racism Scale-style items do not ask directly about evaluation and instead provide a socially acceptable reason for a negative response."
         }
       ]
     }
