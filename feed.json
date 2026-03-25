@@ -813,7 +813,29 @@
             {
               "id": "socpsy_history",
               "title": "History of Attitudes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_history_video",
+                    "videoId": "NAofjzDDlv8"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_history_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- define attitudes in multiple ways\n\n### Today, when we talk about attitudes and social psychology, we are talking about evaluations. \n\nOn the previous page, I suggested that attitudes or evaluations are important because they help us predict behavior and research has actually shown us that they provide valuable information about a variety of processes, including \n\n* how we visually process others, \n* how we make the decision to vote, \n* how we choose our friends, \n* and even how we decide what to buy. \n\n### In addition, implicit attitudes or automatic evaluations predict spontaneous or nonverbal behaviors during interracial interactions. \n\nNow, though most early definitions described attitudes in terms of how they were thought to influence behaviors, other definitions have actually included behavior in the definition.\n\nAnd in fact, one of the first uses of the word attitude in psychology was in reference to a behavior. In the 1800s, Galton defined attitudes as \n\n > bodily inclination toward or away from someone. \n\nHe believed he could determine how much people liked one another at a dinner party by observing how they leaned toward or away from one another. \n\n### The famous Tripartite Theory of Attitudes by Rosenberg and Hovland also argues that behavior is one component of attitudes, along with cognitions and affect. \n\nMore recently, Eagly and Chaikin argued in the 1990s that \n\n> attitudes consist of an evaluative and a behavioral component. \n\nAttitudes are expected to positively correlate with behavior such that \n\n1. positive attitudes should be related to behaviors that approach, support, or enhance the attitude object, and \n2. negative attitudes should be related to behaviors that avoid, oppose, or hinder the object. \n\n### However, in 1928, \n\nthe psychologist Thurstone published an article arguing that attitudes could be measured by asking people their \n\n> opinions or evaluations of people, objects, or ideas. \n\nAnd from there, the evaluative component of attitudes and the idea of these evaluations as attitudes that could predict behavior began to take center stage. \n\n### But the relationship between attitudes and behavior isn't so simple. \n\nA classic example of the complex relationship between attitudes and behavior comes from an early study by Lapierre, who in 1934 examined the attitudes and subsequent behavior of hotel proprietors toward Chinese people. \n\n> Although 92% of hotel proprietors who returned a mailed questionnaire indicated that they would refuse service to potential Chinese customers, only one out of a sample of 250 actually did refuse the business of a visiting Chinese couple. \n\nThus, even strongly expressed negative attitudes may not be predictive of behavior. \n\n### In fact, by 1969, \n\na meta-analysis by Wicker found there was little evidence that attitudes were strong predictors of behaviors. \n\nSo although attitudes are important because they predict behavior, the story isn't always so simple. \n\n## Add these to your notes\n\n1. The tripartite definition of attitudes\n2. Eagly and Chaikin's definition of attitudes\n3. Look up how racist Galton was and just keep that in mind when thinking about the foundation of psychology\n4. Summarize Wicker and LaPiere's work"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_history_quiz",
+                    "quizId": "socpsy_atthist_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_measureexp",
@@ -2521,7 +2543,73 @@
             "Because attitudes evolve over time"
           ],
           "correctIndex": 1,
-          "explanation": "The source says attitudes are indispensable because measuring them is often thought to be a great way to predict someone's behavior."
+          "explanation": "Attitudes are indispensable because measuring them is often thought to be a great way to predict someone's behavior."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_atthist_quiz",
+      "title": "History of Attitudes",
+      "questions": [
+        {
+          "id": "socpsy_atthist_q1",
+          "prompt": "What are the three components in the tripartite theory of attitudes?",
+          "answers": [
+            "Behavior cognitions and affect",
+            "Approach avoidance and evaluation",
+            "Implicit explicit and behavioral tendencies",
+            "evaluations, attributions, and stereotypes"
+          ],
+          "correctIndex": 0,
+          "explanation": "The tripartite theory of attitudes argues that behavior, cognitions, and affect are components of attitudes."
+        },
+        {
+          "id": "socpsy_atthist_q2",
+          "prompt": "According to Eagly and Chaikin what components do attitudes consist of?",
+          "answers": [
+            "An evaluative and a behavioral component",
+            "An evaluative component and an attribution component",
+            "A behavioral component and a stereotype compondent",
+            "A cognitive and physiological component"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eagly and Chaikin argued that attitudes consist of an evaluative and a behavioral component."
+        },
+        {
+          "id": "socpsy_atthist_q3",
+          "prompt": "What did Thurstone argue about attitudes in 1928?",
+          "answers": [
+            "Attitudes should only be studied through behavior",
+            "Attitudes could be measured by asking people their opinions or evaluations of people objects or ideas",
+            "Attitudes are too complex to measure directly",
+            "Attitudes are identical to stereotypes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Thurstone argued that attitudes could be measured by asking people for their opinions or evaluations of people, objects, or ideas."
+        },
+        {
+          "id": "socpsy_atthist_q4",
+          "prompt": "What did LaPiere's 1934 study show us about the relation between attitudes and behavior?",
+          "answers": [
+            "Hotel proprietors' stated attitudes always matched their behavior",
+            "Most hotel proprietors refused service to a visiting Chinese couple",
+            "Strongly expressed negative attitudes did not necessarily predict actual behavior",
+            "Chinese customers were refused at exactly the rate expected from survey responses"
+          ],
+          "correctIndex": 2,
+          "explanation": "Although many hotel proprietors reported they would refuse service to Chinese customers, almost none actually did so, showing a weak attitude-behavior link."
+        },
+        {
+          "id": "socpsy_atthist_q5",
+          "prompt": "What conclusion should we draw from Wicker's 1969 meta-analysis?",
+          "answers": [
+            "Attitudes are always strong predictors of behavior",
+            "There was little evidence that attitudes were strong predictors of behavior",
+            "Behavior is irrelevant to attitudes",
+            "Implicit attitudes are weaker than explicit attitudes in every context"
+          ],
+          "correctIndex": 1,
+          "explanation": "Wicker's meta-analysis found little evidence that attitudes were strong predictors of behavior."
         }
       ]
     }
