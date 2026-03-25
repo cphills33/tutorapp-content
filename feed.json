@@ -975,7 +975,59 @@
             {
               "id": "socpsy_socembod",
               "title": "Social Embodiment",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_socembod_video",
+                    "videoId": "Qu0SK3Gs83k"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_socembod_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define cognitive dissonance\n- Define insufficient justification\n- Define post-decisional dissonance\n\n### Remember telling more than you know? \n\nThis is the type of situation in which an experimenter has asked you a question that you don't know the answer to, but you come up with an answer anyway. \n\nWell, I'm going to talk about one way we come up with those answers, *self-perception*. \n\n* Let's imagine someone asked me how much I like the show Black-ish. \n* I would think about how often I've watched the show and realize I've seen every episode. \n* And, I'm not just watching because my significant other or other people in my family like it. \n* So I conclude that I really do like it. \n\n> But if I only watched Black-ish because my son likes to watch it, then I wouldn't conclude I really like it. \n\nSo if I don't have another justification for the behavior, then I change my attitude to match it. \n\nThis is a *controlled* process. \n\nBut behavior can influence our attitudes without us even noticing. \n\nNow, here's another way our self-perceptions can influence our attitudes. \n\nTry this. \n\n* Hold a pen in your lips. \n\nGot it? \n\n* Now read this comic:"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_socembod_comic1",
+                    "url": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/08/calvin-and-hobbes-calvin-unintentionally-grapples-with-consequentialism-while-pondering-on-morals.jpg?q=49&fit=crop&w=825&dpr=2",
+                    "caption": "Calvin and hobbes on morals"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_socembod_text2",
+                    "markdown": "Now try this. \n\n* Hold a pen in your teeth. \n\nGot it? \n\n* Now read this comic:"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_socembod_comic2",
+                    "url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/07/calvin-and-hobbes-comics-about-summer-feature-image.jpg",
+                    "caption": "Calvin and hobbes on summer"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_socembod_text3",
+                    "markdown": "### Which comic was funnier to you? \n\n> According to research, people will tend to find the second comic funnier, because while they read it, the muscles around their mouths were in a smiling position. \n\nThere is a close relationship between *bodily feedback and higher cognitions*. \n\n* If we're smiling, our brains take that as a signal that something is funny. \n\n> This is called social embodiment. \n\nIt is the idea that our actions and body movements can directly influence our thoughts and attitudes. \n\nImportantly, these social embodiment effects take place without our conscious awareness. \n\n* They are an automatic process. \n\nA similar effect happens if we are nodding or shaking our head. \n\nIf a researcher asks you to place a pair of headphones on and test how comfortable they are by nodding or shaking your head, you may be in a social embodiment experiment. \n\n* Imagine you were nodding your head like the experimenter asked you to, and you were presented with a pen. \n* The experimenter asks you, \"Do you prefer this pen, or do you want another pen?\" \n* Researchers found that, while nodding your head, you preferred the pen presented to you, because you were already making the body movements associated with saying \"yes.\" \n* But if you were shaking your head, then you would prefer a different pen, because you were already making the body movements associated with saying \"no.\" \n\nSocial embodiment doesn't just work for head movements, though. \n\n> Arm movements have a similar effect. \n\n1. What arm muscles are used when you pull someone towards yourself and hug them? \n2. What about when you push someone away? \n\n> It turns out that arm flexion, the muscles you move when you pull something towards yourself, makes you like them more. \n\n> And arm extension, the muscles you use when you push someone away from yourself, makes you like things less. \n\nSo you don't just hug someone because you like them. You like them because you hugged them.\n\n## Add these to your notes\n\n1. Define social embodiment and list several types of bodily movements related to higher cognitions\n2. Describe how social embodiment changes attitudes"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_socembod_quiz",
+                    "quizId": "socpsy_socem_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_overjust",
@@ -2954,6 +3006,48 @@
           ],
           "correctIndex": 0,
           "explanation": "Post-decisional dissonance is attitude change after a choice, where chosen items become more attractive and rejected items less attractive."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_socem_quiz",
+      "title": "Social Embodiment",
+      "questions": [
+        {
+          "id": "socpsy_socem_q1",
+          "prompt": "What is social embodiment?",
+          "answers": [
+            "The idea that people always know why they hold an attitude",
+            "The idea that actions and body movements can directly influence thoughts and attitudes",
+            "The idea that attitudes are formed through verbal reasoning",
+            "The idea that social norms determine every attitude"
+          ],
+          "correctIndex": 1,
+          "explanation": "Social embodiment is the idea that our actions and body movements can directly influence our thoughts and attitudes."
+        },
+        {
+          "id": "socpsy_socem_q2",
+          "prompt": "What broader principle does the pen-in-teeth example illustrate?",
+          "answers": [
+            "The availability heuristic",
+            "The relationship between bodily feedback and higher cognitions",
+            "The theory of planned behavior",
+            "The fundamental attribution error"
+          ],
+          "correctIndex": 1,
+          "explanation": "The pen-in-teeth example while reading a comic shows a close relationship between bodily feedback and higher cognitions."
+        },
+        {
+          "id": "socpsy_socem_q3",
+          "prompt": "What effect does arm flexion have on attitudes?",
+          "answers": [
+            "It makes you like things less",
+            "It has no effect on attitudes",
+            "It makes you like things more",
+            "It only affects memory not liking"
+          ],
+          "correctIndex": 2,
+          "explanation": "Arm flexion, the movement used to pull something toward yourself, makes you like things more."
         }
       ]
     }
