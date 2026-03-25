@@ -867,7 +867,29 @@
             {
               "id": "socpsy_expattbeh",
               "title": "Explicit Attitude Behavior Link",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_expattbeh_video",
+                    "videoId": "9yb4t0CZznk"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_expattbeh_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the theory of planned behavior\n- Understand how strong vs weak and general vs specific attitudes are related to behavior\n\n### What predicts planned behavior? \n\nIf you think back to the page on dual process models, the word *planned* is important here. \n\nIt means we are dealing with controlled or deliberate processes. \n\nThe aptly named *theory of planned behavior* argues that attitudes actually aren't the best predictors of behavior. \n\n### Behavioral intentions are. \n\nTo understand why this might be the case, let's think about my plan to decide whether to recycle a can of cherry coke or not. \n\nMy attitude toward recycling is my evaluation of recycling or how warm I feel toward recycling. That definitely sounds like it should predict whether I recycle. \n\n> But behavioral intentions are conscious decisions that carry out specific actions. \n\nSo the theory of planned behavior argues that my conscious decision to recycle this can of cherry coke is the best predictor of whether I actually will recycle it. \n\n### And that makes a lot of sense. \n\nBut it also pushes the question about what predicts behavior back one step. Instead of asking what predicts behavior, we now have a new question. \n\n> What predicts behavioral intentions? \n\nThe theory of planned behavior argues three things predict behavioral intentions. \n\n1. The first is, of course, my attitude toward recycling this can of cherry coke. \n2. The second is norms around recycling. If I'm in a situation where recycling is encouraged, then I'm more likely to recycle. \n3. And the third is something called behavioral control. You can think of this construct as how easy it is for me to recycle. \n\n* Imagine I'm in my office and I just finished this delicious can of cherry coke. I have a garbage can in my office, but to recycle, I have to walk down the hall and around the corner.* In this situation, the behavioral control is low*. \n* Compare that to this situation. I have a garbage can and a blue box in my office. Now behavioral control is high. \n* Or you could even imagine a third option, which I have only a blue box in my office, but not a garbage can. Here, behavioral control would be extremely high. \n\n### To sum up, the theory of planned behavior says that behavioral intentions are the best predictor of behavior, \n\nand the best predictor of behavioral intentions are \n\n1. specific attitudes, \n2. social norms, and \n3. behavioral control. \n\nBut let's take a step back and think about what I mean by *specific* attitudes, as opposed to just attitudes. \n\n### Imagine the behavior I'm interested in is whether someone has used the birth control in the past two years. \n\nWhich attitude do you think will be the best predictor of that? \n\n* Their attitude toward birth control? \n* Their attitude toward birth control pills? \n* Their attitude toward *using* birth control pills? \n\nYou can see that these questions become more and more specific. \n\n> And it turns out, the more specific the attitude, the better it is at predicting a specific behavior. \n\nOn the other hand, \n\n> a general attitude is predicting behaviors in aggregate. \n\nSo a general attitude toward religion won't be a great predictor of whether you will attend religious services this week. \n\nA specific attitude, or a behavioral intention, is the best predictor of that specific behavior. \n\n> But a general attitude will be a better predictor of a wide array of religious behaviors over time. \n\nAttending services, reading holy books, etc. \n\nThe final thing I will say about explicit attitudes and deliberate behaviors is that *strong* attitudes are better predictors than *weak* attitudes. \n\nWhen you have a strong attitude, that is often because \n1. you have more information about the attitude object, \n2. or you are personally involved with the attitude object, \n3. or you have direct experience with the attitude object, and that strong attitude is brought to mind more easily. \n\n### It is more accessible. \n\nSo when Wicker, back in 1969, argued there wasn't a lot of evidence that attitudes are strong predictors of behavior, he was right. \n\nBut since then, researchers have done a great job of understanding what does predict our *planned* behaviors. \n\n## Add these to your notes\n\n1. A description of the theory of planned behavior\n2. How strong and weak attitudes are related to behavior\n3. How general and specific attitudes are related to behavior"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_expattbeh_quiz",
+                    "quizId": "socpsy_expattbeh_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_impattbeh",
@@ -2674,6 +2696,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Modern Racism Scale-style items do not ask directly about evaluation and instead provide a socially acceptable reason for a negative response."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_expattbeh_quiz",
+      "title": "Explicit Attitude to Behavior Links",
+      "questions": [
+        {
+          "id": "socpsy_expattbeh_q1",
+          "prompt": "What is the best predictor of planned behavior?",
+          "answers": [
+            "General attitudes",
+            "Behavioral intentions",
+            "Social norms alone",
+            "Behavioral control alone"
+          ],
+          "correctIndex": 1,
+          "explanation": "The theory of planned behavior argues that behavioral intentions are the best predictors of planned behavior."
+        },
+        {
+          "id": "socpsy_expattbeh_q2",
+          "prompt": "What are behavioral intentions?",
+          "answers": [
+            "Automatic evaluations of an object",
+            "Conscious decisions to carry out specific actions",
+            "Unconscious habits that bypass thought",
+            "Stable personality traits"
+          ],
+          "correctIndex": 1,
+          "explanation": "Behavioral intentions are conscious decisions that carry out specific actions."
+        },
+        {
+          "id": "socpsy_expattbeh_q3",
+          "prompt": "What are general attitudes better at predicting?",
+          "answers": [
+            "A single behavior in one immediate situation",
+            "A wide array of related behaviors over time",
+            "Only behaviors involving strong emotion",
+            "Only deliberate choices involving recycling"
+          ],
+          "correctIndex": 1,
+          "explanation": "General attitudes are better predictors of aggregate behavior across many related actions over time."
         }
       ]
     }
