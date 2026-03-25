@@ -672,7 +672,29 @@
             {
               "id": "socpsy_shooter",
               "title": "The shooter task",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_shooter_video",
+                    "videoId": "OQsIt3U3FLw"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_shooter_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the shooter task\n- Describe the effectiveness of training to reduce shooter bias among the police\n\n### Let's talk about an automatic bias people may not know they have, the tendency to be quicker to shoot black people compared to white people. \n\nUnfortunately, Black people are a disproportionate amount of the victims of police killings, and sometimes it can seem that police are just quicker to shoot at Black people than they would be people of other races. \n\n### For example, police shot and killed a 12-year-old Black boy seconds after finding him playing at the park. \n\nResearchers have devised several ways of measuring these possible biases, one of which is called the shooter task. \n\n> The shooter task works by showing participants armed and unarmed targets and instructing them to make shoot and don't shoot decisions. \n\nSpecifically, participants are shown four types of scenes. \n\n1. A black person with a gun, a shoot decision would be correct here. \n2. A black person without a gun, a don't shoot decision would be correct here. \n3. A white person with a gun, a shoot decision would be correct here. \n4. And a white person without a gun, a don't shoot decision would be correct here. \n\n### What researchers have consistently found is that when the suspect is armed, white participants are quicker to shoot black targets. \n\nBut when the suspect is unarmed, white participants are quicker to make the don't shoot decision when the target is white. \n\n> In addition, participants make the most errors in the task when they have to make a decision about an unarmed Black target. \n\nIn other words, the most common mistake is to shoot an unarmed Black person. \n\nThe same effects are found among both undergraduate participants and community members, as well as national and local police officers. \n\n### However, there is another way of analyzing the data from this task which focuses on determining how confident a person needs to be before they decide to shoot a target. \n\nThis measurement, called C for criterion, which is a form of bias, indicates how certain a person needs to feel that a target is armed before they shoot. \n\n* Local police officers and community members both need to feel significantly less certain that a Black person is armed before they decide to shoot. \n* However, national police officers do not show any bias against Black people on this measure. \n\nSo if there is any good news here, let it be that the training national police officers receive seems to be effective at reducing this one form of bias. \n\nPerhaps we can convince local police departments to adopt whatever this training is. \n\n## Add these to your notes\n\n1. White participants are quicker to shoot armed Black targets\n2. White participants are slower to \"don't shoot\" unarmed Black targets\n3. White participants make the most mistakes when the target is unarmed and Black (i.e., the most common mistake is to shoot unarmed Black people)\n4. Community members are biased toward shooting Black and White targets but there is a stronger bias toward shooting Black targets\n5. Local police are biased toward shooting Black targets and 'don't shooting' White targets\n6. National police are biased toward \"don't shooting\" Black and White targets"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_shooter_quiz",
+                    "quizId": "socpsy_shooter_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_selfesteem",
@@ -2062,6 +2084,24 @@
           ],
           "correctIndex": 2,
           "explanation": "People often assume that most people think like they do, so asking about society's views can reveal their own attitudes."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_shooter_quiz",
+      "title": "The Shooter Task",
+      "questions": [
+        {
+          "id": "socpsy_shooter_q1",
+          "prompt": "What is the most common error in the shooter task?",
+          "answers": [
+            "Failing to shoot an armed White target",
+            "Shooting an armed Black target",
+            "Shooting an unarmed Black target",
+            "Not responding at all to an unarmed White target"
+          ],
+          "correctIndex": 2,
+          "explanation": "Participants make the most errors when judging an unarmed Black target, meaning the most common mistake is to shoot an unarmed Black person."
         }
       ]
     }
