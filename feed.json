@@ -921,7 +921,29 @@
             {
               "id": "socpsy_selfpres",
               "title": "Self-Presentation",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_selfpres_video",
+                    "videoId": "ycbrnfcN_AY"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_selfpres_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe how the principle of self-presentation influences attitudes\n\n### There have been several definitions of attitudes that included a behavioral component. \n\nFrom that perspective, it doesn't make sense to focus exclusively on how attitudes may predict behavior. \n\n> We also need to consider the possibility that behaviors can predict attitudes. \n\n### Imagine you and a friend, \n\nlet's call this friend Jeff, are walking to class and you are approached by a person soliciting donations for a charity about hurricane relief. \n\nYou find their appeal persuasive so you donate $5. \n\nLater, a different friend asks about your attitude toward hurricane relief charity. \n\n### How will you answer? \n\nDo you think your answer will be influenced by whether your friend Jeff is around? \n\n> The principle of self-presentation suggests that it does. \n\n* If your friend Jeff, who saw you give the money to the charity, is there, then self-presentation principle suggests that you will report a more positive attitude toward the charity. \n* But if no one who saw you donate to the charity is present, then you will report a less positive attitude toward the charity. \n\n> You can think of this as the \"I don't want to look like a hypocrite\" principle. \n\nYou want to avoid your friend Jeff speaking up and saying something like, \"Are you sure you're only lukewarm toward that charity? I just saw you donate $5.\" \n\nBut it is important to note that \n\n> this is not the \"I don't want to BE a hypocrite\" principle. It is the \"I don't want to LOOK like a hypocrite\" principle. \n\nIt doesn't change your privately held or privately reported attitudes, and it only takes place when you are consciously aware of a possible discrepancy between your behavior and your attitude. \n\nSo, thinking about dual process models, self-presentation is related to *controlled* processes. \n\n## Add these to your notes\n\n1. Describe how the self-presentation principle works to change attitudes\n2. Make sure to note that it doesn't change privately held attitudes--only public ones!"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_selfpres_quiz",
+                    "quizId": "socpsy_selfpres_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_cogdiss",
@@ -2814,6 +2836,48 @@
           ],
           "correctIndex": 0,
           "explanation": "Automatic processes should be better predictors when a person lacks either the motivation or the ability to control behavior."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_selfpres_quiz",
+      "title": "Self Presentation",
+      "questions": [
+        {
+          "id": "socpsy_selfpres_q1",
+          "prompt": "What is the principle of self-presentation mainly concerned with?",
+          "answers": [
+            "Avoiding private inconsistency at all costs",
+            "How people manage the attitudes they report in order to avoid looking hypocritical in front of others",
+            "Changing unconscious attitudes through repetition",
+            "Predicting nonverbal behavior from implicit attitudes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-presentation is a process in which people publicly report attitudes in ways that help them avoid looking like hypocrites."
+        },
+        {
+          "id": "socpsy_selfpres_q2",
+          "prompt": "When does the principle of self-presentation operate?",
+          "answers": [
+            "Only when people are unaware of any discrepancy between attitudes and behavior",
+            "Only when people are consciously aware of a possible discrepancy between their behavior and their attitude",
+            "Only when a person donates money to charity",
+            "Only when attitudes are measured implicitly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-presentation occurs only when people are consciously aware of a possible discrepancy between their behavior and their attitude."
+        },
+        {
+          "id": "socpsy_selfpres_q3",
+          "prompt": "Which phrase summarizes the logic of the principle of self-presentation?",
+          "answers": [
+            "I do not want to feel uncertain",
+            "I do not want to be inconsistent",
+            "I do not want to look like a hypocrite",
+            "I do not want to be wrong"
+          ],
+          "correctIndex": 2,
+          "explanation": "Self-presentation can be thought of as the I don't want to look like a hypocrite principle."
         }
       ]
     }
