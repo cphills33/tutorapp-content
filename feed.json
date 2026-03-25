@@ -948,7 +948,29 @@
             {
               "id": "socpsy_cogdiss",
               "title": "Cognitive Dissonance",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_cogdiss_video",
+                    "videoId": "wE8a7H_lQOo"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_cogdiss_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define cognitive dissonance\n- Define insufficient justification\n- Define post-decisional dissonance\n\n### Have you ever taken a class where the professor required you to complete several hours of psychology experiments through SONA? \n\nIf you have, then I bet there is a good chance that at least one of those experiments was fairly boring. \n\n* Imagine that at the end of this boring experiment, you were told the experiment is actually about how being told an experiment is fun or boring influences how enjoyable the experiment is. \n* And it turns out you were in the control condition because no one told you whether the experiment was fun or boring at the beginning. \n* However, the experimenters would like you to tell the next participant that the experiment is fun. \n\n> This creates what is known as dissonance, a tension that arises from knowing that two of your cognitions are inconsistent with each other. \n\nIn this case, your knowledge of the experiment is boring and your action telling the next participant that the experiment is fun. \n\nAfter you tell the lie, the experimenter then pays you \n\n* $1, \n* $20 or \n* nothing. \n\nAnd here is where the real experiment takes place: You are asked how much you personally enjoyed the boring experiment. \n\n### Which participants do you think enjoyed the experiment the most? \n\nTo answer that question, you need to think about which participants would experience the most dissonance because the more dissonance a participant feels, the more they will change their attitudes to match their behavior. \n\n* The participants that weren't paid any money experienced very little dissonance. They can justify a lie by telling themselves that they were just doing what the experimenter asked them to do. \n* Also, the participants that were paid $20 experienced very little dissonance. They can justify a lie by appealing to the $20. \n* But the participants that were only paid $1 experienced a large amount of dissonance. They don't have enough justification for their lie. $1 isn't enough. They claim to have enjoyed the experiment the most and this is real attitude change. They really feel like they enjoyed the experiment more than other participants did. \n\n### This experiment demonstrates one principle by which cognitive dissonance can change attitudes. Insufficient justification. \n\n> The principle of insufficient justification states that we change our attitudes to be more consistent with our behaviors if we do not have a strong justification for acting contrary to our attitudes. \n\nIf we do have a reasonable justification, we will not change our attitudes. \n\n### There is another principle by which cognitive dissonance or self-justification can change attitudes. \n\nHave you ever been in a situation like this? \n\n* You saved up $15 to buy a CD at HMV but there were two CDs you really want to buy? \n\n### No? \n\nOkay. \n\n* You saved up $20 to buy a DVD at Walmart but there were two DVDs you really want to buy?\n\n### Still No? \n\nOkay, um, you saved up enough money to buy a new phone. But there were two phones you really want? \n\n### In this situation, you would probably feel a lot of dissonance. \n\nSo what do you do? \n\nFortunately, researchers have studied this scenario. \n\n* Imagine you were a participant and you were asked to rate the attractiveness of a number of different posters. \n* Afterward, the experimenters show you two of the posters that you rated very positively and they tell you that you can pick one of them to take home. \n* Now, you should be feeling dissonance just like you would with the two phones. Well, fortunately, dissonance leads to attitude change. \n\n> So participants change their attitudes so that they like the poster they chose more. \n\nhat's great news for the next time you have to choose between two new phones. \n\n> Your brain will use what is called post-decisional dissonance to make you like the chosen phone more. \n\nIn other conditions, the researchers asked participants to choose between two disliked posters. \n\n> Those participants ended up disliking the rejected poster more. \n\nSo this video has described two ways that behavior can change attitudes through cognitive dissonance. \n\n1. The first is due to insufficient justification. If we can justify our inconsistent behavior, then we need to change our attitudes. \n2. The second is due to post-decisional dissonance. We change our attitudes so that we like the chosen items more and the rejected items less.\n\n## Add these to your notes\n\n1. Define cognitive dissonance\n2. Define insufficient justification\n3. Define post-decisional dissonance"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_cogdiss_quiz",
+                    "quizId": "socpsy_cogdiss_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_socembod",
@@ -2878,6 +2900,60 @@
           ],
           "correctIndex": 2,
           "explanation": "Self-presentation can be thought of as the I don't want to look like a hypocrite principle."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_cogdiss_quiz",
+      "title": "Cognitive Dissonance",
+      "questions": [
+        {
+          "id": "socpsy_cogdiss_q1",
+          "prompt": "What is cognitive dissonance?",
+          "answers": [
+            "A positive feeling that comes from agreeing with others",
+            "A tension that arises when two cognitions are inconsistent with each other",
+            "A habit of overthinking small decisions",
+            "A memory bias caused by priming"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cognitive dissonance is a tension that arises from knowing that two of your cognitions are inconsistent with each other."
+        },
+        {
+          "id": "socpsy_cogdiss_q2",
+          "prompt": "Why did participants paid $20 experience relatively little dissonance in the boring experiment?",
+          "answers": [
+            "Because $20 provided a sufficient justification for lying",
+            "Because they enjoyed the experiment before being paid",
+            "Because they forgot the experiment was boring",
+            "Because higher pay always reduces attitude change to zero"
+          ],
+          "correctIndex": 0,
+          "explanation": "Participants paid $20 could justify their lie by appealing to the large payment."
+        },
+        {
+          "id": "socpsy_cogdiss_q3",
+          "prompt": "What is insufficient justification?",
+          "answers": [
+            "Changing attitudes when there is not a strong justification for behavior that conflicts with those attitudes",
+            "Changing behavior to match social norms",
+            "Choosing the easiest option between two alternatives",
+            "Forgetting the reasons for a decision"
+          ],
+          "correctIndex": 0,
+          "explanation": "Insufficient justification means we change our attitudes to be more consistent with our behavior when we do not have a strong justification for acting contrary to our attitudes."
+        },
+        {
+          "id": "socpsy_cogdiss_q4",
+          "prompt": "What is post-decisional dissonance?",
+          "answers": [
+            "Changing attitudes so a chosen item is liked more and a rejected item is liked less after a decision",
+            "Feeling tension only when someone lies for money",
+            "Forgetting why a decision was made",
+            "Choosing between two options without any emotional reaction"
+          ],
+          "correctIndex": 0,
+          "explanation": "Post-decisional dissonance is attitude change after a choice, where chosen items become more attractive and rejected items less attractive."
         }
       ]
     }
