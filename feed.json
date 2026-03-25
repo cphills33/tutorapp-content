@@ -753,7 +753,29 @@
             {
               "id": "socpsy_affectiveforecast",
               "title": "Affective forecasting",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_affectiveforecast_video",
+                    "videoId": "S9fxE-FjwWE"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_affectiveforecast_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- define affective forecasting\n- describe whether we mispredict our emotions in terms of type, intensity, and duration\n- The relation between affective forecasting and racism\n\n### How would you feel if you failed this course? \n\nOkay, now think about how you would feel in a happier situation. \n\n### What if you just won the lottery? \n\nAnswering these types of questions are examples of *affective forecasting*, which refers to \n\n> predicting how we will feel in response to events in the future. \n\nResearchers found that people often mispredict how they will be emotionally influenced by events. \n\nWe know: \n* which emotion we will feel, \n* we understand we will feel bad if we fail this course, \n* and we understand we will feel good if we win the lottery. \n\n> But we mispredict the intensity of the emotion. \n\n1. So yes, failing this course will feel bad, but actually not that bad. \n2. And winning the lottery will feel good, but not nearly as good as we tend to imagine it will. \n\n### In addition, we tend to mispredict the duration of the emotion. \n\nWe think we will feel good or bad for much longer than we actually do. \n\n> We make these mistakes because when we are making the forecasts, we focus solely on the event and don't take into account the fact that we have a lot going on in our lives besides, say, failing this course. \n\nAlso, we have a powerful psychological immune system which helps us get over traumatic events by employing strategies like \n\n1. rationalizing, \n2. discounting, \n3. and forgiving. \n\n### Let's try another example of affective forecasting. \n\nHow would you feel if you were alone with another person in a waiting room and that person said something racist? \n\nIf you're like most people, you imagine you would feel pretty bad. \n\n### That's what researchers found. \n\n* They asked participants to imagine waiting in a room with two other people, one Black and one white. \n* The Black person leaves the room and trips over the white person's legs, \n* and when the Black person is out of earshot, the white person turns to you and says either\n\n1. \"I hate it when black people do that,\" \n2. or, clumsy n-word, or \n3. makes no comment. \n\n> Participants that imagined hearing either racist's comments, either racist's comment forecasted that they would feel more negative emotional distress than participants that didn't imagine hearing the comment. \n\n### However, researchers also had a different group of participants actually experience this scenario. \n\nThey actually waited in a room with a Black and white Confederate. \n\n* The Black Confederate really left a room \n* and really tripped over the white Confederate's legs, \n* and the white Confederate really either had no comment, said, \"I hate it when black people do that,\" or, clumsy n-word. \n\n### In this real-life scenario, participants did not report more negative emotional distress after hearing either racist's comment compared to participants that didn't hear any comment. \n\nSo though most participants imagined they would feel stressed out by a racist's comment, in reality, it had no impact at all. \n\n### Even worse, \n\nparticipants were asked who they would like to work with as a partner, the Black Confederate or the white confederate. \n\n> Once again, the racist's comment had no impact on partner choice. \n\nParticipants were as willing to work with the white Confederate after the racist comments as they were after no comment. \n\n### If you find this result surprising, \n\ndon't worry, most people do.\n\nIn fact, forecasters mostly predicted that they would not choose the white partner after hearing a racist comment. \n\nSo even in situations in which we think it's obvious how we would feel, responding to clearly racist comments, we still mispredict both our emotions and our behavior.\n\n## Add these to your notes\n\n1. The definition of affective forecasting\n2. A description of the study on mispredicting emotional distress after witnessing racism"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_affectiveforecast_quiz",
+                    "quizId": "socpsy_affective_quiz"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -2266,6 +2288,36 @@
           ],
           "correctIndex": 1,
           "explanation": "A person with high explicit but low implicit self-esteem is best described as having defensive self-esteem."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_affective_quiz",
+      "title": "Affective Forecasting",
+      "questions": [
+        {
+          "id": "socpsy_affective_q1",
+          "prompt": "What is affective forecasting?",
+          "answers": [
+            "Predicting what events will happen in the future",
+            "Predicting how we will feel in response to future events",
+            "Remembering how we felt during past events",
+            "Changing our emotions after a difficult experience"
+          ],
+          "correctIndex": 1,
+          "explanation": "Affective forecasting is predicting how we will feel in response to events in the future."
+        },
+        {
+          "id": "socpsy_affective_q2",
+          "prompt": "What aspect of future emotion do people usually predict correctly?",
+          "answers": [
+            "The duration of the emotion",
+            "The exact behavior they will show",
+            "The type of emotion",
+            "The intensity of the emotion"
+          ],
+          "correctIndex": 2,
+          "explanation": "People generally know whether they will feel good or bad, meaning they are relatively accurate about the type of emotion but wrong about the duration and intensity of the emotion."
         }
       ]
     }
