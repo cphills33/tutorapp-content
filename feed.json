@@ -782,7 +782,85 @@
         {
           "id": "socpsy_3",
           "title": "Attitudes and persuasion",
-          "pages": []
+          "pages": [
+            {
+              "id": "socpsy_welcome3",
+              "title": "Welcome to Module 3",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_welcome3_video",
+                    "videoId": "NKMV5-OaHfg"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_welcome3_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- define attitudes\n\n### Way back in 1935, \n\nGordon Alport wrote that attitudes are *the single most indispensable construct in social psychology*. \n\nThat view was reiterated in a book on attitudes by Brynjole and Petty in 2012. \n\nBut they are also an indispensable part of our everyday language. \n\n### Let me give you an example. \n\nIf I told you that John has a bad attitude, you would know right away what I meant. \n\n* John is motivated, \n* John is mean, \n* John is generally someone to stay away from. \n\n### But we can also talk about other types of attitudes. \n\nWe tend to automatically form an inference about a person's attitude just from their appearance. \n\n> And that attitude tells us a lot of information. \n\n* Is this someone we should approach? \n* Should we steer clear of this individual? \n* Might we want to spend time with them? \n\nAnd so, without even getting into the social psychological definition of attitudes, we can already see why they are so important. \n\n### We believe they tell us something about how someone is likely to behave. \n\nIn fact, that is the reason Alport and other researchers have called attitudes so indispensable to social psychologists. \n\n> Measuring attitudes is often thought to be a great way to predict someone's behavior. \n\nAnd, as I'm sure you'll remember from the module on attribution theory, understanding the behavior of other people is something that we like to spend a lot of time trying to do. \n\n> The definition of attitudes that we will use in this class is an evaluation of a person, object, or idea. \n\n### If you remember, our definition of self-esteem was very similar, an evaluation of the self. \n\nSo, in this class, we can think about self-esteem as an attitude, but instead of being an attitude towards something else or something external to us, it is an attitude toward ourselves, and it should tell us something about how we treat ourselves. \n\n## Add these to your notes\n\n1. The definition of attitudes\n2. How self-esteem can be thought of as a type of attitude"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_welcome3_quiz",
+                    "quizId": "socpsy_welcome3_quiz"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_history",
+              "title": "History of Attitudes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_measureexp",
+              "title": "Measuring Explicit Attitudes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_expattbeh",
+              "title": "Explicit Attitude Behavior Link",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_impattbeh",
+              "title": "Implicit Attitude Behavior Link",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_selfpres",
+              "title": "Self-Presentation",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_cogdiss",
+              "title": "Cognitive Dissonance",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_socembod",
+              "title": "Social Embodiment",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_overjust",
+              "title": "Over Justification",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_YAC",
+              "title": "Yale Attitude Change Approach",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_ELM",
+              "title": "Elaboration Liklihood Model",
+              "blocks": []
+            }
+          ]
         },
         {
           "id": "socpsy_4",
@@ -854,6 +932,18 @@
           ],
           "correctIndex": 0,
           "explanation": "The passage gives perception learning and memory as examples of the basic mental abilities studied in cognitive psychology."
+        },
+        {
+          "id": "socpsy_definitions_quiz_q5",
+          "prompt": "Social psychology is defined as the scientific study of the way people's ________ are influenced by the ________ presence of other people.",
+          "answers": [
+            "thoughts and feelings; real or imagined",
+            "thoughts, feelings, and behaviours; real or imagined",
+            "behaviours; real",
+            "behaviours; imagined"
+          ],
+          "correctIndex": 1,
+          "explanation": "The text defines social psychology in terms of influence from the real or imagined presence of other people."
         }
       ]
     },
@@ -949,7 +1039,7 @@
             "A collection of causal claims"
           ],
           "correctIndex": 1,
-          "explanation": "Dr. Phillsexplicitly defines a theory as a set of general principles that attempts to explain and predict behavior or other phenomena."
+          "explanation": "Dr. Phills defines a theory as a set of general principles that attempts to explain and predict behavior or other phenomena."
         },
         {
           "id": "socpsy_theorieshypotheses_q3",
@@ -973,7 +1063,7 @@
             "Theories and hypotheses are unrelated"
           ],
           "correctIndex": 2,
-          "explanation": "Dr. Phills directly says hypotheses are generated from theories."
+          "explanation": "Dr. Phills  says hypotheses are generated from theories."
         },
         {
           "id": "socpsy_theorieshypotheses_q5",
@@ -1033,6 +1123,30 @@
             "Generates hypotheses, coherent, tells a good story, parsimonious, testable, unquestionable, popular"
           ],
           "correctIndex": 1,
+          "explanation": "Fiske lists seven signs: posits causal relationships or generates hypotheses, coherent, tells a good story, parsimonious, testable, fertile, and solves problems."
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q10",
+          "prompt": "An experimental hypothesis is a statement of a potential relationship between",
+          "answers": [
+            "a subject variable and an independent variable.",
+            "at least two independent variables.",
+            "at least two measurable behaviors.",
+            "an independent variable and a dependent variable."
+          ],
+          "correctIndex": 3,
+          "explanation": "Hypotheses are statements about the relation between variables"
+        },
+        {
+          "id": "socpsy_theorieshypotheses_q11",
+          "prompt": "Which of the following is not one of Fiske\u2019s (2004) signs of a good theory?",
+          "answers": [
+            "Posits causal relationships",
+            "Tells a good story",
+            "is synthetic",
+            "Proves fertile"
+          ],
+          "correctIndex": 2,
           "explanation": "Fiske lists seven signs: posits causal relationships or generates hypotheses, coherent, tells a good story, parsimonious, testable, fertile, and solves problems."
         }
       ]
@@ -1274,6 +1388,18 @@
           ],
           "correctIndex": 1,
           "explanation": "Comparing how the variable was operationalized against the construct definition lets you evaluate how well the variable was measured."
+        },
+        {
+          "id": "socpsy_constructvalidity_q5",
+          "prompt": "The precise specification of how variables are measured or manipulated in a social psychological experiment is called",
+          "answers": [
+            "ethnography.",
+            "interjudge reliability.",
+            "random assignment.",
+            "operational definition."
+          ],
+          "correctIndex": 3,
+          "explanation": "The operational definition is how the variable was actually measured or manipulated."
         }
       ]
     },
@@ -1424,6 +1550,18 @@
           ],
           "correctIndex": 0,
           "explanation": "A confound weakens internal validity because it prevents researchers from confidently attributing changes in the DV to the IV."
+        },
+        {
+          "id": "socpsy_internalvalidity_q4",
+          "prompt": "Suppose that I conduct an experiment on the effects of flattery on compliance. I bring women into the laboratory, tell them they are beautiful, and ask them to lend me $10. I bring men into the laboratory, I don't flatter them, and I ask them to lend me $10. Sure enough, more women than men lend me $10. My conclusion that flattery increases compliance is suspect because",
+          "answers": [
+            "I failed to randomly select the sample from the population.",
+            "my experiment lacks external validity.",
+            "my experiment lacks internal validity.",
+            "I have not operationally defined my variables."
+          ],
+          "correctIndex": 2,
+          "explanation": "A confound weakens internal validity because it prevents researchers from confidently attributing changes in the DV to the IV."
         }
       ]
     },
@@ -1538,6 +1676,18 @@
           ],
           "correctIndex": 0,
           "explanation": "People use schemas that are salient, accessible, or active."
+        },
+        {
+          "id": "socpsy_schemas_q4",
+          "prompt": "________ are the cognitive structures we use to organize our knowledge of the social world.",
+          "answers": [
+            "Social roles",
+            "Schemas",
+            "Heuristics",
+            "Social cognitions"
+          ],
+          "correctIndex": 1,
+          "explanation": "Schemas are mental structures that represent knowledge about a concept or type of stimulus. There are many types of schemas (role, person, event, etc.)"
         }
       ]
     },
@@ -1892,6 +2042,18 @@
           ],
           "correctIndex": 1,
           "explanation": "The third stage is making an external attribution, and  this is an effortful process."
+        },
+        {
+          "id": "socpsy_dualprocess_q4",
+          "prompt": "New professors often have to concentrate very hard to give a lecture, and monitor themselves carefully to make sure they're not talking too fast and that they are using appropriate and clear examples. More seasoned professors don't have to concentrate as much, and can talk clearly and engagingly, reorder the overheads, and keep an eye on students all at the same time. This example represents the transition from _______ processing to _______ processing as professors gain experience.",
+          "answers": [
+            "controlled; automatic",
+            "random; systematic",
+            "automatic; controlled",
+            "unconscious; conscious"
+          ],
+          "correctIndex": 0,
+          "explanation": "When a task is new, it takes effort to complete. But with practice, it can be complete via automatic processes"
         }
       ]
     },
@@ -2108,6 +2270,18 @@
           ],
           "correctIndex": 1,
           "explanation": "White interviewers sat closer, made more eye contact, spent more time, and made fewer speech errors with white candidates, showing greater immediacy."
+        },
+        {
+          "id": "socpsy_prophecy_q4",
+          "prompt": "Word, Zanna, and Cooper (1974) found that White participants who were interviewed by other Whites in a less immediate fashion (and in a style that was demonstrated in an earlier study with Blacks):",
+          "answers": [
+            "sat closer to the interviewer",
+            "were rated as better applicants",
+            "showed less intelligence on a skill testing question",
+            "reciprocated the immediacy behaviors of the interviewer"
+          ],
+          "correctIndex": 3,
+          "explanation": "People of all races respond poorly when treated poorly"
         }
       ]
     },
@@ -2318,6 +2492,36 @@
           ],
           "correctIndex": 2,
           "explanation": "People generally know whether they will feel good or bad, meaning they are relatively accurate about the type of emotion but wrong about the duration and intensity of the emotion."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_welcome3_quiz",
+      "title": "Welcome3",
+      "questions": [
+        {
+          "id": "socpsy_welcome3_q1",
+          "prompt": "What are attitudes?",
+          "answers": [
+            "Stable personality traits",
+            "Evaluations of a person object or idea",
+            "Automatic memories about other people",
+            "Rules for making attributions"
+          ],
+          "correctIndex": 1,
+          "explanation": "Attitudes are an evaluation of a person, object, or idea."
+        },
+        {
+          "id": "socpsy_welcome3_q2",
+          "prompt": "W did Allport and other researchers consider attitudes indispensable?",
+          "answers": [
+            "Because attitudes are stronger than attributions",
+            "Because attitudes predict behavior",
+            "Because attitudes are fundamental to the self",
+            "Because attitudes evolve over time"
+          ],
+          "correctIndex": 1,
+          "explanation": "The source says attitudes are indispensable because measuring them is often thought to be a great way to predict someone's behavior."
         }
       ]
     }
