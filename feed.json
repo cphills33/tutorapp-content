@@ -699,7 +699,29 @@
             {
               "id": "socpsy_selfesteem",
               "title": "Self-esteem",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_selfesteem_video",
+                    "videoId": "2PLlab3r6Tc"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_selfesteem_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define self-esteem\n- Describe the logic of the IAT\n\n### Do you have a favourite letter? \n\nDo you like some letters more than others? \n\nResearchers show that we tend to like the letters in our name more than other letters, especially our initials. \n\n> This is because we tend to like ourselves, and therefore we like anything linked to ourselves. \n\nWe can imagine a self-schema with many positive attributes plus links from ourselves to our initials. \n\n### Interestingly, this effect extends to brands. \n\nIf we share an initial with a brand, we're more likely to like that brand. \n\n> For example, my name is Curtis and I prefer Coke.\n\nAlthough my last name is Phils, so maybe I should prefer Pepsi. \n\n### This effect also extends to group work in university classes. \n\nHave you ever been in a group that just didn't get along, or wasn't able to produce high quality work? \n\nBelieve it or not, part of the reason for that may be because you and your group mates didn't share initials. \n\n> Research shows that groups which share initials perform better. \n\n### This effect also has implications for relationships. \n\nImagine your self-schema with links from yourself in the centre to the important people in your life. \n\n> Researchers found that we preferred the initials of our romantic partners, parents, children, siblings, and friends. \n\nIn fact, we also prefer to donate to disaster relief in the aftermath of hurricanes we share an initial with. \n\nSo people with names starting with M were more likely to donate after Hurricane Matthew, and people with names starting with K were more likely to donate after Hurricane Katrina. \n\n> This name letter effect is one example of how researchers measure what is known as implicit self-esteem. \n\n### To understand why self-esteem is sometimes measured in this way, we need to think about the definition of self-esteem. \n\n> Now you may have heard other definitions in different classes, but in social psychology, a good definition of self-esteem is simply an evaluation of the self, or an attitude toward the self. \n\nWe can imagine a self-schema with many different types of attributes, including relationships and initials, but most positive, but perhaps some negative. \n\n### An evaluation of the self can be thought of as whether most of those attributes are positive or most are negative. \n\n* The more positive traits there are, the more positive our evaluation of the self and the higher our self-esteem. \n\n### Another way to measure implicit self-esteem is with an Implicit Association Test, or IAT. \n\n> The self-esteem IAT is a double-categorization task that instructs participants to categorize words related to the self and words related to others, along with positive and negative concepts. \n\nThere are five types of blocks or tasks during the test. \n\n1. In the first, participants practice categorizing self and other words. \n2. In the second, participants practice categorizing positive and negative concepts. \n3. The third block, however, is not for practice. This is one of the blocks researchers analyze. In this block, participants categorize self-related words and positive concepts using the same key, and use a different key to categorize other related words and negative concepts. \n\nFor people that have a positive evaluation of their self, this double-categorization task should be easy because they can map the self and positive words to the same key in the brain. \n\n4. The fourth block is also a practice block in which participants learn to use the opposite keys to categorize positive and negative concepts. \n5. Finally, the fifth block is the other block that researchers analyze. In this block, participants categorize self-related words and negative concepts using the same key, and use a different key to categorize other related words and positive concepts. This should be a difficult task for participants that have a positive evaluation of the self, because they can no longer rely on the link in their brain between self and positive to make correct responses. \n\n> The logic behind the IAT is that implicit self-esteem can be thought of as how much faster participants are able to respond when the self and positive words share a response key compared to when the self and negative words share a response key. \n\n* A person with high self-esteem might respond on average in 400 milliseconds when the self and positive concepts share a key, but on average in 700 milliseconds when the self and negative concepts share a response key. \n* In contrast, a person with low self-esteem might respond on average in 600 milliseconds when the self and positive concepts share a response key, but on average in 500 milliseconds when the self and negative concepts share a response key. The name letter task and the IAT are the two most popular ways of measuring implicit self-esteem. \n\n* The most popular way to measure explicit self-esteem is just to ask a question like, \n\n> \"To what extent do you feel that you were a person of worth?\" \n\n## Add these to your notes\n\n1. The definition of self-esteem\n2. Three ways of measuring self-esteem\n3. The logic behind the self-esteem IAT"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_selfesteem_quiz",
+                    "quizId": "socpsy_selfesteem_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_impexpselfesteem",
@@ -2102,6 +2124,72 @@
           ],
           "correctIndex": 2,
           "explanation": "Participants make the most errors when judging an unarmed Black target, meaning the most common mistake is to shoot an unarmed Black person."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_selfesteem_quiz",
+      "title": "Self-Esteem",
+      "questions": [
+        {
+          "id": "socpsy_selfesteem_q1",
+          "prompt": "What is self-esteem?",
+          "answers": [
+            "A stable personality trait related to confidence",
+            "An evaluation of the self",
+            "The number of positive relationships a person has",
+            "A measure of how popular a person is"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-esteem is an evaluation of the self, or an attitude toward the self."
+        },
+        {
+          "id": "socpsy_selfesteem_q2",
+          "prompt": "What does the name-letter effect suggest about the self?",
+          "answers": [
+            "People dislike anything connected to themselves",
+            "People tend to like things linked to themselves",
+            "People prefer only letters that appear in common words",
+            "People prefer letters based only on frequency"
+          ],
+          "correctIndex": 1,
+          "explanation": "People tend to like the letters in their own name because they tend to like themselves and therefore like things linked to themselves."
+        },
+        {
+          "id": "socpsy_selfesteem_q3",
+          "prompt": "Which effect is a way to measure implicit self-esteem?",
+          "answers": [
+            "The halo effect",
+            "The name-letter effect",
+            "The primacy effect",
+            "The Stroop effect"
+          ],
+          "correctIndex": 1,
+          "explanation": "The name-letter effect is one example of how researchers measure implicit self-esteem."
+        },
+        {
+          "id": "socpsy_selfesteem_q4",
+          "prompt": "What pattern of responses would be expected from someone with high self-esteem on the IAT?",
+          "answers": [
+            "Slower responses when self and positive share a key than when self and negative share a key",
+            "Similar response times in both blocks",
+            "Faster responses when self and positive share a key than when self and negative share a key",
+            "Faster responses only for other and negative pairings"
+          ],
+          "correctIndex": 2,
+          "explanation": "A person with high self-esteem should respond faster when self and positive concepts share a key than when self and negative concepts share a key."
+        },
+        {
+          "id": "socpsy_selfesteem_q5",
+          "prompt": "What is the logic behind the self-esteem IAT?",
+          "answers": [
+            "Self-esteem is measured by how many self-related words people can remember",
+            "Implicit self-esteem is reflected in how much faster people respond when self and positive share a key than when self and negative share a key",
+            "Implicit self-esteem depends only on how accurately people categorize positive words",
+            "The IAT measures whether people consciously endorse positive self-beliefs"
+          ],
+          "correctIndex": 1,
+          "explanation": "The logic of the IAT is comparing how much faster participants respond when self and positive share a response key versus when self and negative share a response key."
         }
       ]
     }
