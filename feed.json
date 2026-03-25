@@ -1059,7 +1059,29 @@
             {
               "id": "socpsy_YAC",
               "title": "Yale Attitude Change Approach",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_YAC_video",
+                    "videoId": "fiVWKreMTf8"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_YAC_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the three ingredients of the Yale Attitude Change Approach\n\n### Because attitudes are an important predictor of how people will behave, \n\nthere are times when we will want to change someone's attitude so they will behave in the way we want. \n\n* Maybe we want our child to clean up their room. \n* Maybe we want a friend to join us on a trip to Disney. \n* Maybe we want our students to study hard and participate in class discussions. \n\n### In all those situations and many others, \n\nwe will often try to change someone's attitude via a message of some kind, either verbal or written. \n\n> Persuasion is the process by which a message induces change in feelings, attitudes, or behavior. \n\nThe Yale attitude change approach identifies three ingredients of a persuasive appeal. \n\n1. The communicator, \n2. the message, \n3. and the audience,\n\n### OR\n\n1. who said it, \n2. what was said, \n3. and to whom was it said. \n\nI will talk about each ingredient in turn. \n\n### Two characteristics of the communicator help determine how persuasive their message is. \n\n* First, are they credible? \n* Are they an expert in the topic? \n* Are they trustworthy? \n* Can you believe what they are telling you? \n* Or are they persuading you out of self interest? \n* How much do you like them? \n\n> So a likable, trustworthy expert is the most persuasive communicator. \n\nDoes this remind you of anyone? \n\n* Second, is the person attractive? \n\nThe more physically attractive a person is, the more persuaded you will be by them. \n\nPerhaps that isn't surprising, but there is a second point here as well. \n\n> The more similar that person appears to yourself, the more you will be persuaded by them. \n\n1. So physical attractiveness is one way to become persuasive. \n2. The other is to be physically similar to the audience. \n\n### If you ever go to buy a car, watch which salesperson is assigned to you. \n\nMany dealerships use a random or first come, first served system, but some match buyers to salespeople. \n\n### The next ingredient is the message itself, or what was said. \n\n* Does the message make people feel good about themselves? \n* Does it give them positive feelings? \n\nThat will make the message more persuasive, but so will fear. \n\n> In fact, one of the most persuasive strategies is to scare people and then provide a plan. \n\nIn fact, anything that makes your message *memorable* is important to persuasion. \n\nIf they aren't paying attention, then you can't persuade them. \n\nOne strategy to make your message memorable is to use *discrepancy*. \n\nThis means your message should \n\n* stand out, \n* be surprising, or \n* be different from what the audience expects. \n\n### In general, you want your message to be involving for the audience. \n\nYou want to answer the \"so what\" question or \"why is this important to them\" question. \n\n* Why should I care about equity? \n\nWell, you want to retire one day and then you need to know what equity is. \n\n### However, when it comes to the message, when it was said is also very important. \n\nThe first time I heard back from a school about an assistant professor job, they provided me with a list of dates I could come and visit. \n\nI showed my PhD supervisor the dates and she immediately told me that I needed to visit on the first date or the last date. \n\nDo you know why that was? \n\nWell, she has a PhD in social psychology and she knows about the primacy and recency effects. \n\n> Primacy is when information presented first has the most influence. \n\n> Recency is when the information presented last has the most influence. \n\nThere is no middlecy effect. (sorry piano players! For everyone else, sorry for the pun!) \n\nSo if you were ever in a debate, go first because primacy tends to be the best. \n\n### Now, let's talk about the third ingredient, the audience or to whom the message is said.\n\nDo they have \n* the ability and \n* the motivation \n\nto counter argue? \n\n* Are they distracted or \n* do they have low involvement? \n\n### If you want to persuade people based on the merits of your argument, \n\nthen you need to make them pay attention. \n\nSome people tend to pay attention and think deeply about arguments as a general rule. \n\n> These people are high in an individual difference called need for cognition. \n\nThey answer strongly agreed questions like, \"I usually end up deliberating about issues even when they do not affect me personally.\" \n\nThese people will have the motivation to think about your message so long as they have the ability, i.e. they are not distracted. \n\nSome audiences are especially hard to persuade because they've had something called \"attitude inoculation\". \n\n> This is the process of making people immune to attempts to change their attitudes by initially exposing them to small doses of the arguments against that position. \n\nFor example, maybe someone once told you that the theory of evolution meant believing people were related to monkeys. \n\nThat is a very small dose of the argument in favor of the theory of evolution and one that isn't quite correct.\n\nBut whoever said that would have been able to make a powerful persuasive appeal against that small dose of the theory. \n\nLater, people who've been exposed to these small doses are more resistant to accepting the theory of evolution. \n\n### So if you ever want to make a persuasive appeal, remember, think about the messenger, think about the message, and think about the message recipient.\n\n## Add these to your notes\n1. Define persuasion\n2. Characterize each of the three ingredients of the Yale Attitude Change approach"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_YAC_quiz",
+                    "quizId": "socpsy_yac_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_ELM",
@@ -3100,6 +3122,60 @@
           ],
           "correctIndex": 1,
           "explanation": "Over-justification occurs when someone offers an unnecessary reward in an effort to control behavior."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_yac_quiz",
+      "title": "Yale Attitude Change",
+      "questions": [
+        {
+          "id": "socpsy_yac_q1",
+          "prompt": "What is persuasion?",
+          "answers": [
+            "A process of changing behavior through rewards",
+            "The process by which a message induces change in  attitudes",
+            "A method of measuring implicit attitudes",
+            "A form of cognitive dissonance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Persuasion is the process by which a message induces change in feelings, attitudes, or behavior."
+        },
+        {
+          "id": "socpsy_yac_q2",
+          "prompt": "What are the three ingredients of the Yale Attitude Change approach?",
+          "answers": [
+            "The communicator the message and the audience",
+            "The attitude the behavior and the norm",
+            "The source the schema and the context",
+            "The motivation the opportunity and the attitude"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Yale attitude change approach focuses on the communicator, the message, and the audience."
+        },
+        {
+          "id": "socpsy_yac_q3",
+          "prompt": "How does attractiveness affects persuasion?",
+          "answers": [
+            "Attractiveness makes people less attentive to the message",
+            "More physically attractive communicators are more persuasive",
+            "Attractiveness matters only in political campaigns",
+            "Attractiveness matters only when the communicator is not credible"
+          ],
+          "correctIndex": 1,
+          "explanation": "The more physically attractive a person is, the more persuaded others will be by them."
+        },
+        {
+          "id": "socpsy_yac_q4",
+          "prompt": "What is attitude inoculation?",
+          "answers": [
+            "A process of making people more open to persuasion by praising their current beliefs",
+            "A process of making people immune to attitude change by first exposing them to small doses of opposing arguments",
+            "A way of increasing need for cognition",
+            "A strategy for using primacy and recency together"
+          ],
+          "correctIndex": 1,
+          "explanation": "Attitude inoculation is making people resistant to persuasion by initially exposing them to small doses of arguments against their position."
         }
       ]
     }
