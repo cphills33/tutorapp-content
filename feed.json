@@ -645,7 +645,29 @@
             {
               "id": "socpsy_controlled",
               "title": "Measuring Controlled Processes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_controlled_video",
+                    "videoId": "hv0sYoBXlhU"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_controlled_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe some of the methods researchers use to measure controlled processes\n\n### Because people are consciously aware of their controlled processes, we can usually just ask them direct questions. \n\n* How do you feel about politician A? \n    * 1 to 7, with 1 meaning unfavourable and 7 meaning favourable. \n    \n### But there are some types of questions that we can't ask people about directly because they are sensitive topics. \n\nWhen it comes to sensitive topics like race or sex, we can't just ask people directly because \n\n* people either don't want to tell us the truth, \n* or they don't know the truth. \n\n### Think about racism. \n\nIf someone is racist and we directly ask them about their attitude toward Black people, they may not tell us the truth because of social norms that discourage acknowledging racism in public. \n\n> For example, feeling thermometers are a great way to measure attitudes. \n\nYou ask participants to tell you how warm or favourable they feel toward a group of people, and they respond using the metaphor of the thermometer. \n\nThese thermometers are a great way to assess *old-fashioned racism,* \n\n> a type of racism that people are proud of and want to tell everyone about. \n\nBut you can also ask about this type of racism directly, with a question like, \n\n> \"To what extent do you agree that Black people are not as smart as white people?\" \n\n### But social norms may not allow people to honestly respond on this type of question. \n\nSo researchers have come up with other strategies. \n\n* One of the most common involves a scale called the Modern Racism Scale. \n\n> The Modern Racism Scale asks participants about attitudes toward black people, but provides plausible, non-racist reasons for having a negative attitude toward black people. \n\n* For example, \"To what extent do you agree that discrimination against black people is no longer a problem in America?\" \n\nThis type of question allows participants to acknowledge the problems of racism in the past, but to discount the effects of racism that are present now. \n\n> Another common strategy is to ask participants to tell us what they believe society thinks instead of what they personally believe. \n\nBecause people tend to believe that their personal attitudes are commonly held, they end up telling us about their own attitudes. When they think about what most people think, they assume most people think like them. \n\nThese types of questions solve the problem of the participant not wanting to tell us something, but they don't do anything for the situation in which participants don't know their true attitudes. \n\n### In those situations, we must rely on automatic measures. \n\n## Add these to your notes\n\n1. Define old-fashioned racism\n2. List three reasons people might not accurately report their racial attitudes\n3. Describe the logic behind the questions on the Modern Racism Scale"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_controlled_quiz",
+                    "quizId": "socpsy_controlled_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_shooter",
@@ -1998,6 +2020,48 @@
           ],
           "correctIndex": 1,
           "explanation": "White interviewers sat closer, made more eye contact, spent more time, and made fewer speech errors with white candidates, showing greater immediacy."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_controlled_quiz",
+      "title": "Controlled Processes",
+      "questions": [
+        {
+          "id": "socpsy_controlled_q1",
+          "prompt": "Why can researchers not ask people directly about sensitive topics like race or sex?",
+          "answers": [
+            "Because sensitive topics like race and sex are complex",
+            "Because people may not want to tell the truth or may not know the truth",
+            "Because direct questions are illegal on sensitive topics",
+            "Because sensitive topics can only be studied with neuroscience"
+          ],
+          "correctIndex": 1,
+          "explanation": "Direct questioning can fail on sensitive topics because people may not want to tell the truth or may not know the truth."
+        },
+        {
+          "id": "socpsy_controlled_q2",
+          "prompt": "What is the logic behind the Modern Racism Scale?",
+          "answers": [
+            "It asks about racial attitudes while giving participants plausible non-racist reasons for negative responses",
+            "It measures attitudes by timing responses to racial words",
+            "It asks participants only about historical racism",
+            "It asks about race but does so in a way that promotes unity"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Modern Racism Scale asks about attitudes toward Black people while providing plausible, non-racist reasons for expressing negative attitudes."
+        },
+        {
+          "id": "socpsy_controlled_q3",
+          "prompt": "What is the logic behind asking participants what they think society believes instead of what they personally believe?",
+          "answers": [
+            "People usually separate their own attitudes from society's views",
+            "People tend to assume others think very differently from them",
+            "People tend to project their own attitudes onto society",
+            "This strategy works only for positive attitudes"
+          ],
+          "correctIndex": 2,
+          "explanation": "People often assume that most people think like they do, so asking about society's views can reveal their own attitudes."
         }
       ]
     }
