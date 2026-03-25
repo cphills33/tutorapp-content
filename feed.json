@@ -1026,6 +1026,22 @@
                     "id": "socpsy_socembod_quiz",
                     "quizId": "socpsy_socem_quiz"
                   }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_ELM_ad1",
+                    "url": "https://cdn.sanity.io/images/c1chvb1i/production/e9c6446fac405c0c5e07c68f0996ad0c4868a389-1100x735.jpg/sneaker-freaker-soled-out-book-prokeds.jpg",
+                    "caption": "Informational Ad"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_ELM_ad2",
+                    "url": "https://i.pinimg.com/originals/04/0f/81/040f814c16030ae88e133ba0be011ccf.jpg",
+                    "caption": "Aestheic Ad"
+                  }
                 }
               ]
             },
@@ -1071,7 +1087,7 @@
                   "type": "text",
                   "payload": {
                     "id": "socpsy_YAC_text",
-                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the three ingredients of the Yale Attitude Change Approach\n\n### Because attitudes are an important predictor of how people will behave, \n\nthere are times when we will want to change someone's attitude so they will behave in the way we want. \n\n* Maybe we want our child to clean up their room. \n* Maybe we want a friend to join us on a trip to Disney. \n* Maybe we want our students to study hard and participate in class discussions. \n\n### In all those situations and many others, \n\nwe will often try to change someone's attitude via a message of some kind, either verbal or written. \n\n> Persuasion is the process by which a message induces change in feelings, attitudes, or behavior. \n\nThe Yale attitude change approach identifies three ingredients of a persuasive appeal. \n\n1. The communicator, \n2. the message, \n3. and the audience,\n\n### OR\n\n1. who said it, \n2. what was said, \n3. and to whom was it said. \n\nI will talk about each ingredient in turn. \n\n### Two characteristics of the communicator help determine how persuasive their message is. \n\n* First, are they credible? \n* Are they an expert in the topic? \n* Are they trustworthy? \n* Can you believe what they are telling you? \n* Or are they persuading you out of self interest? \n* How much do you like them? \n\n> So a likable, trustworthy expert is the most persuasive communicator. \n\nDoes this remind you of anyone? \n\n* Second, is the person attractive? \n\nThe more physically attractive a person is, the more persuaded you will be by them. \n\nPerhaps that isn't surprising, but there is a second point here as well. \n\n> The more similar that person appears to yourself, the more you will be persuaded by them. \n\n1. So physical attractiveness is one way to become persuasive. \n2. The other is to be physically similar to the audience. \n\n### If you ever go to buy a car, watch which salesperson is assigned to you. \n\nMany dealerships use a random or first come, first served system, but some match buyers to salespeople. \n\n### The next ingredient is the message itself, or what was said. \n\n* Does the message make people feel good about themselves? \n* Does it give them positive feelings? \n\nThat will make the message more persuasive, but so will fear. \n\n> In fact, one of the most persuasive strategies is to scare people and then provide a plan. \n\nIn fact, anything that makes your message *memorable* is important to persuasion. \n\nIf they aren't paying attention, then you can't persuade them. \n\nOne strategy to make your message memorable is to use *discrepancy*. \n\nThis means your message should \n\n* stand out, \n* be surprising, or \n* be different from what the audience expects. \n\n### In general, you want your message to be involving for the audience. \n\nYou want to answer the \"so what\" question or \"why is this important to them\" question. \n\n* Why should I care about equity? \n\nWell, you want to retire one day and then you need to know what equity is. \n\n### However, when it comes to the message, when it was said is also very important. \n\nThe first time I heard back from a school about an assistant professor job, they provided me with a list of dates I could come and visit. \n\nI showed my PhD supervisor the dates and she immediately told me that I needed to visit on the first date or the last date. \n\nDo you know why that was? \n\nWell, she has a PhD in social psychology and she knows about the primacy and recency effects. \n\n> Primacy is when information presented first has the most influence. \n\n> Recency is when the information presented last has the most influence. \n\nThere is no middlecy effect. (sorry piano players! For everyone else, sorry for the pun!) \n\nSo if you were ever in a debate, go first because primacy tends to be the best. \n\n### Now, let's talk about the third ingredient, the audience or to whom the message is said.\n\nDo they have \n* the ability and \n* the motivation \n\nto counter argue? \n\n* Are they distracted or \n* do they have low involvement? \n\n### If you want to persuade people based on the merits of your argument, \n\nthen you need to make them pay attention. \n\nSome people tend to pay attention and think deeply about arguments as a general rule. \n\n> These people are high in an individual difference called need for cognition. \n\nThey answer strongly agreed questions like, \"I usually end up deliberating about issues even when they do not affect me personally.\" \n\nThese people will have the motivation to think about your message so long as they have the ability, i.e. they are not distracted. \n\nSome audiences are especially hard to persuade because they've had something called \"attitude inoculation\". \n\n> This is the process of making people immune to attempts to change their attitudes by initially exposing them to small doses of the arguments against that position. \n\nFor example, maybe someone once told you that the theory of evolution meant believing people were related to monkeys. \n\nThat is a very small dose of the argument in favor of the theory of evolution and one that isn't quite correct.\n\nBut whoever said that would have been able to make a powerful persuasive appeal against that small dose of the theory. \n\nLater, people who've been exposed to these small doses are more resistant to accepting the theory of evolution. \n\n### So if you ever want to make a persuasive appeal, remember, think about the messenger, think about the message, and think about the message recipient.\n\n## Add these to your notes\n1. Define persuasion\n2. Characterize each of the three ingredients of the Yale Attitude Change approach"
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the three ingredients of the Yale Attitude Change Approach\n\n### Because attitudes are an important predictor of how people will behave, \n\nthere are times when we will want to change someone's attitude so they will behave in the way we want. \n\n* Maybe we want our child to clean up their room. \n* Maybe we want a friend to join us on a trip to Disney. \n* Maybe we want our students to study hard and participate in class discussions. \n\n### In all those situations and many others, \n\nwe will often try to change someone's attitude via a message of some kind, either verbal or written. \n\n> Persuasion is the process by which a message induces change in feelings, attitudes, or behavior. \n\nThe Yale attitude change approach identifies three ingredients of a persuasive appeal. \n\n1. The communicator, \n2. the message, \n3. and the audience,\n\n### OR\n\n1. who said it, \n2. what was said, \n3. and to whom was it said. \n\nI will talk about each ingredient in turn. \n\n### Two characteristics of the communicator help determine how persuasive their message is. \n\n* First, are they credible? \n* Are they an expert in the topic? \n* Are they trustworthy? \n* Can you believe what they are telling you? \n* Or are they persuading you out of self interest? \n* How much do you like them? \n\n> So a likable, trustworthy expert is the most persuasive communicator. \n\nDoes this remind you of anyone? \n\n* Second, is the person attractive? \n\nThe more physically attractive a person is, the more persuaded you will be by them. \n\nPerhaps that isn't surprising, but there is a second point here as well. \n\n> The more similar that person appears to yourself, the more you will be persuaded by them. \n\n1. So physical attractiveness is one way to become persuasive. \n2. The other is to be physically similar to the audience. \n\n### If you ever go to buy a car, watch which salesperson is assigned to you. \n\nMany dealerships use a random or first come, first served system, but some match buyers to salespeople. \n\n### The next ingredient is the message itself, or what was said. \n\n* Does the message make people feel good about themselves? \n* Does it give them positive feelings? \n\nThat will make the message more persuasive, but so will fear. \n\n> In fact, one of the most persuasive strategies is to scare people and then provide a plan. \n\nIn fact, anything that makes your message *memorable* is important to persuasion. \n\nIf they aren't paying attention, then you can't persuade them. \n\nOne strategy to make your message memorable is to use *discrepancy*. \n\nThis means your message should \n\n* stand out, \n* be surprising, or \n* be different from what the audience expects. \n\n### In general, you want your message to be involving for the audience. \n\nYou want to answer the \"so what\" question or \"why is this important to them\" question. \n\n* Why should I care about equity? \n\nWell, you want to retire one day and then you need to know what equity is. \n\n### However, when it comes to the message, when it was said is also very important. \n\nThe first time I heard back from a school about an assistant professor job, they provided me with a list of dates I could come and visit. \n\nI showed my PhD supervisor the dates and she immediately told me that I needed to visit on the first date or the last date. \n\nDo you know why that was? \n\nWell, she has a PhD in social psychology and she knows about the primacy and recency effects. \n\n> Primacy is when information presented first has the most influence. \n\n> Recency is when the information presented last has the most influence. \n\nThere is no middlecy effect. (sorry piano players! For everyone else, sorry for the pun!) \n\nSo if you were ever in a debate, go first because primacy tends to be the best. \n\n### Now, let's talk about the third ingredient, the audience or to whom the message is said.\n\nDo they have \n* the ability and \n* the motivation \n\nto counter argue? \n\n* Are they distracted or \n* do they have low involvement? \n\n### If you want to persuade people based on the merits of your argument, \n\nthen you need to make them pay attention. \n\nSome people tend to pay attention and think deeply about arguments as a general rule. \n\n> These people are high in an individual difference called need for cognition. \n\nThey answer strongly agreed questions like, \"I usually end up deliberating about issues even when they do not affect me personally.\" \n\nThese people will have the motivation to think about your message so long as they have the ability, i.e. they are not distracted. \n\nSome audiences are especially hard to persuade because they've had something called \"attitude inoculation\". \n\n> This is the process of making people immune to attempts to change their attitudes by initially exposing them to small doses of the arguments against that position. \n\nFor example, maybe someone once told you that the theory of evolution meant believing people were related to monkeys. \n\nThat is a very small dose of the argument in favor of the theory of evolution and one that isn't quite correct.\n\nBut whoever said that would have been able to make a powerful persuasive appeal against that small dose of the theory. \n\nLater, people who've been exposed to these small doses are more resistant to accepting the theory of evolution. \n\n### So if you ever want to make a persuasive appeal, remember, think about the messenger, think about the message, and think about the message recipient.\n\n## Add these to your notes\n\n1. Characterize each of the three ingredients of the Yale Attitude Change approach\n2. Define perusasion\n3. Define attitude innoculation\n4. What role does attractiveness play in persuasion?\n5. What role does discrepancy play in persuasion?"
                   }
                 },
                 {
@@ -1086,7 +1102,36 @@
             {
               "id": "socpsy_ELM",
               "title": "Elaboration Liklihood Model",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_ELM_video",
+                    "videoId": "9JuvhHO91Pg"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_ELM_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the Elaboration Liklihood Model\n- Define the central and peripheral routes to persuasion\n\nTake a look at these two advertisements for shoes."
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_ELM_text2",
+                    "markdown": "1. One provides a lot of information about the shoe.\n2. The other suggests an association between the shoe and flying.\n\n> One ad is substance, the other flash.\n\n### The purpose of this page is to describe the Elaboration Likelihood Model,\n\nwhich incorporates these two persuasion strategies.\n\n1. The substance strategy is called the Central Route in the Elaboration Likelihood Model.\n\nWhen you use a Central Route, you make a strong, reasoned case for why someone should change their attitude.\n\nIn a dual process model, you want the audience to use their control processes.\n\n2. The flash strategy is called the Peripheral Route.\n\nWhen you use the Peripheral Route, you are relying on incidental cues,like the attractiveness of the shoe, to convince your audience.\n\nIn a dual process model, you want the audience to use automatic processes.\n\n### The Elaboration Likelihood Model \n\nprovides some rules for when \n\n* the audience is likely to elaborate on your message,\n* or when they are likely to use controlled versus automatic processes.\n\n> For the audience to elaborate on the message, they first must be motivated.\n\n### There are a number of factors that motivate people to pay attention and to think about persuasive appeals.\n\n* Is the message personally relevant? A message from my son's teacher about how my son can do better at school\nhas much more personal relevance for me than a message from the school principal about how students can do better in general.\n* Is it my job to evaluate the message? Maybe I have to choose the restaurant our family will eat at.\nI will pay a lot more attention to the menus, options, and prices than if this decision belongs to someone else.\n* Am I high in need for cognition? Remember, people high in need for cognition enjoy thinking about things,\nespecially when it takes a lot of effort to do so.\n* And finally, is there incongruent information in the message? Is there something surprising about the message? Something that sticks out and grabs my attention\nand therefore tells me I need to pay attention to it? I need to elaborate on it.\n\n### If any of those four factors are present, then your audience may be motivated to elaborate.\n\nBut that's not enough. \n\n> They also need the ability to elaborate.\n\nYou, as the messenger, can help ensure your audience has this ability.\n\n* You can ensure that your message is clear. The audience can't elaborate on a message that is confusing.\n* You can repeat the message. Repetition helps people understand the message.\n* You can present the message at a time and place when the audience isn't distracted and isn't under time pressure.\n\nIf either of those are present, then your audience just may not be able to pay attention.\n\n### How you present your message matters. \n\nIf you really want people to think about your arguments via the central route, then you should present that argument in print. Print allows people to go and reread what you've written.\n\nThey can take their time and think about the arguments you're making.\n\nThink about the consequences of this fact for televised presidential debates.\n\n### Finally, some people just may not have the intelligence or education to understand the argument you are making.\n\n> This goes back to clarity. \n\nYou've got to make sure that you're making an appropriate argument for your audience.\n\n> So if and only if your audience is both motivated and has the ability to elaborate,\nwill they use the central route to evaluate your persuasive appeal.\n\n> In all other cases, your audience will use the peripheral route.\n\n### Now, let's compare and contrast the central and peripheral routes.\n\n* If you go to central route, then you need a strong argument. Think about it. Your audience is going to think about and analyze and elaborate on your message. It had better be good. A weak argument will work against you here.\n\n* But if you go the peripheral route, then it doesn't matter whether your argument is strong or weak. This makes sense because your audience isn't thinking about your argument. They are being influenced by incidental cues like your authority or your physical appearance or how competent you sound.\n\n### At this point, \n\nyou may be thinking, wow, it sounds a lot easier to use the peripheral route.\n\nAnd in some ways it really is.\n\n> But if you go to central route, the change in attitudes last longer, is more predictive of behavior, and is more resistant to change.\n\nSo the central route, though more difficult, has some important advantages.\n\nTo sum up, when you hear the elaboration likelihood model, I want you to think of two things.\n\n1. First, there is a central route and a peripheral route.\n2. Second, the only time the audience can be persuaded via the central route is when they are motivated AND when they have the ability to pay attention.\n\n## Add these to your notes\n\n1. Describe the Elaboration Liklihood Model\n2. Describe the two routes to persuasion\n3. What makes someone motivated to pay attention to your message?\n4. When does it matter whether you have a strong or weak argument?"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_ELM_quiz",
+                    "quizId": "socpsy_elm_quiz"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -3176,6 +3221,36 @@
           ],
           "correctIndex": 1,
           "explanation": "Attitude inoculation is making people resistant to persuasion by initially exposing them to small doses of arguments against their position."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_elm_quiz",
+      "title": "Elaboration Liklihood Model",
+      "questions": [
+        {
+          "id": "socpsy_elm_q1",
+          "prompt": "What are the two routes to persuasion in the Elaboration Likelihood Model?",
+          "answers": [
+            "The central route and the peripheral route",
+            "The explicit route and the implicit route",
+            "The strong route and the weak route",
+            "The direct route and the indirect route"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Elaboration Likelihood Model includes a central route and a peripheral route."
+        },
+        {
+          "id": "socpsy_elm_q2",
+          "prompt": "If an audience is not motivated or does not have the ability to elaborate what route to persuasion will they use?",
+          "answers": [
+            "The central route",
+            "The peripheral route",
+            "Both routes equally",
+            "Neither route"
+          ],
+          "correctIndex": 1,
+          "explanation": "In all cases other than being both motivated and able to elaborate, the audience will use the peripheral route."
         }
       ]
     }
