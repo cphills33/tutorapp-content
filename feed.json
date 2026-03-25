@@ -894,7 +894,29 @@
             {
               "id": "socpsy_impattbeh",
               "title": "Implicit Attitude Behavior Link",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_impattbeh_video",
+                    "videoId": "_q0Fdg8IQEo"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_impattbeh_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe which behaviors implicit attitudes are better predictors of\n- Describe the MODE model\n\n### The Implicit Association Test is by far the most popular way to measure automatic responses, \n\nand it is not without controversy among researchers and non-researchers alike. \n\nWhen you took the IAT, you may have found yourself developing arguments against it being a valid measure of attitudes. \n\nHowever, one argument in favor of a measure of attitudes is always just, \n\n> \"Does it predict behavior?\" \n\nA meta-analysis in 2009 asked that question by conducting a meta-analysis of 122 research reports. \n\nThey compared how well the IAT predicted behavior and compared that to how well self-report, or explicit measures of attitudes, predicted behavior. \n\nThey found implicit measures of sensitive attitudes, like attitudes toward social categories like Black people, were better predictors of behavior toward Black people than self-report measures. \n\nIn my opinion, that alone is a good argument for the value of the IAT. \n\n### However, when it comes to \n\n* political preferences, \n* alcohol and drug use, \n* phobias, anxieties, and \n* personality traits, \n\nself-reports were better predictors of behavior. \n\nIt is important to note, though, that in regards to those situations, \n\n> using both the IAT and self-reports was the best strategy. \n\nBoth types of measurements provided unique information or predictive power for the behavior. \n\nSo again, we have a good argument for the value of the IAT, but let's take a closer look at how strong a predictor the IAT is of intergroup behavior. \n\n### When Wicker did his meta-analysis in 1969, \n\nhe suggested that a correlation of r = 0.15 between attitudes and behavior wasn't good evidence that attitudes were strong predictors of behavior. \n\nNow, if you look at the size of the correlation between IAT scores and intergroup behavior, you see it isn't much stronger than that. \n\n### Subsequent meta-analyses have actually suggested that this correlation may actually be slightly smaller, about where Wicker found it to be, in the teens. \n\nAnd that's where we are in the field right now. \n\n> We have a weak correlation between implicit attitudes and intergroup behavior. \n\n* Does that mean that implicit processes are only weak predictors of behavior? \n* Or, like 50 years ago, will researchers discover a number of other factors that, when taken into account, strengthen the attitude-behavior link? \n\nThere is some reason to think that the story about implicit responses and behavior isn't complete yet. \n\n### The MODE model brings a dual-process approach to this area. \n\nMODE stands for \n\n> Motivation and Opportunity as Determinants of Whether Behavior is Related to Spontaneous or Deliberate Processes. \n\nIn the language of this course, spontaneous processes are automatic processes, and deliberate processes are controlled processes. \n\nThe gist of this theory is that, \n\n* if you are motivated and can control a particular behavior, then controlled processes or self-reports should be a better predictor. \n* But if you lack either the motivation or the ability to control the behavior, then automatic processes should be a better predictor. \n\nWhich is a long way of saying that \n\n> implicit responses should be related to non-verbal behaviors, and explicit responses should be related to deliberate behaviors. \n\nDovidio and colleagues provided support for this theory in 2002. \n\n* They assessed the attitudes of white participants toward Black people using implicit and explicit measures, \n* and then observed those participants while they interacted with a Black partner. \n\nThey found that \n\n1. implicit measures of attitudes were significant predictors of non-verbal behavior, \n2. but explicit measures of attitudes were significant predictors of deliberate behavior. \n\nSo if I was to make a prediction, I would suggest that the next 10 to 15 years will feature a lot of research designed to understand the relationship between implicit measures of attitudes and behavior. \n\n## Add these to your notes\n\n1. Define the MODE model\n2. Which behaviors are better predicted by implicit attitudes\n3. Characterize the overall relation between implicit and explicit attitudes"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_impattbeh_quiz",
+                    "quizId": "socpsy_impattbeh_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_selfpres",
@@ -2738,6 +2760,60 @@
           ],
           "correctIndex": 1,
           "explanation": "General attitudes are better predictors of aggregate behavior across many related actions over time."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_impattbeh_quiz",
+      "title": "Implicit Attitude to Behavior Links",
+      "questions": [
+        {
+          "id": "socpsy_impattbeh_q1",
+          "prompt": "Which kind of behaviors were implicit measures better predictors of  than self-reports?",
+          "answers": [
+            "Attitudes toward social categories like Black people",
+            "Political preferences",
+            "Alcohol and drug use",
+            "Personality traits"
+          ],
+          "correctIndex": 0,
+          "explanation": "Implicit measures of sensitive attitudes were better predictors of behavior toward Black people than self-report measures."
+        },
+        {
+          "id": "socpsy_impattbeh_q2",
+          "prompt": "What does MODE stand for?",
+          "answers": [
+            "Motivation and Opportunity as Determinants of Whether Evaluation is explicit",
+            "Motivation and Opportunity as Determinants of Whether Behavior is Related to Spontaneous or Deliberate Processes",
+            "Measurement of Deliberate and Explicit Processes",
+            "Models of Deliberation and Emotion"
+          ],
+          "correctIndex": 1,
+          "explanation": "MODE is Motivation and Opportunity as Determinants of Whether Behavior is Related to Spontaneous or Deliberate Processes."
+        },
+        {
+          "id": "socpsy_impattbeh_q3",
+          "prompt": "According to the MODE model when should controlled processes be better predictors of behavior?",
+          "answers": [
+            "When a person lacks motivation or opportunity to control behavior",
+            "When a person is motivated and able to control the behavior",
+            "Only during interracial interactions",
+            "Only when attitudes are weak"
+          ],
+          "correctIndex": 1,
+          "explanation": "If a person is motivated and can control a behavior, then controlled processes or self-reports should be better predictors."
+        },
+        {
+          "id": "socpsy_impattbeh_q4",
+          "prompt": "According to the MODE model when should automatic processes be better predictors of behavior?",
+          "answers": [
+            "When a person lacks either the motivation or the ability to control the behavior",
+            "When behavior is highly deliberate and planned",
+            "When a person carefully reflects before acting",
+            "Only for political attitudes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Automatic processes should be better predictors when a person lacks either the motivation or the ability to control behavior."
         }
       ]
     }
