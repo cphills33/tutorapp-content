@@ -1032,7 +1032,29 @@
             {
               "id": "socpsy_overjust",
               "title": "Over Justification",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_overjust_video",
+                    "videoId": "XA8Lj4PbVik"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_overjust_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define over-justification\n\n### If you don't have enough justification for lying to someone, you experience cognitive dissonance and change your attitude to match your actions. \n\nSpecifically, if you were only paid $1 to lie about how fun an experiment was, you later liked the experiment more than if you were paid $20. \n\nThe $1 is insufficient justification, or under-justification, to act in a manner that is inconsistent with your attitudes, so you change your attitudes. \n\n### This video is about over-justification. \n\nIt applies to situations in which your actions are consistent with your beliefs.\n\n So instead of doing something you don't like, like a boring experiment, we'll be talking about what happens when you have over-justification for doing something you do like. \n \n > In other words, what happens when you pay someone to do something they already love? \n \n To study over-justification, researchers conducted an experiment in three phases. \n \n 1. In the first phase, participants were allowed to play with puzzles for as long as they wanted. You can imagine the cognitions and actions of participants are consistent at this stage. \"I like puzzles,\" a participant might say, \"and I'm completing puzzles. Everything is great.\" \n 2. In the second phase, half of participants were paid to solve puzzles, and the other half continued to play without payment. The participants that were paid to complete puzzles spent more time playing with puzzles. This is not a surprise, but it does have a consequence. The self-perceptions of participants may lead them to believe that because they've received an unnecessary reward for puzzling, they may not actually like puzzling that much. Through self-perceptions, they may conclude that they are doing it for extrinsic rather than intrinsic reasons. \n 3. In the third stage of the experiment, neither group was paid to complete puzzles now, and we see a large drop in the amount of time spent doing puzzles, only among the participants who were in the paid group in phase two. \n \n > This seems to indicate that the unnecessary monetary reward decreased their intrinsic motivation to play with puzzles. \n \n This is an important point. \n \n ### Over-justification occurs when someone offers an unnecessary reward in an effort to control behavior. \n \n > It doesn't occur if you were paid to do something you like, or if you were paid to do something you don't like. \n \n It has to be an unnecessary reward in an effort to control your behavior.\n\n## Add these to your notes\n\n1. The definition of over-justification\n2. Describe when this principle does and does not operate"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_overjust_quiz",
+                    "quizId": "socpsy_overjust_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_YAC",
@@ -3048,6 +3070,36 @@
           ],
           "correctIndex": 2,
           "explanation": "Arm flexion, the movement used to pull something toward yourself, makes you like things more."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_overjust_quiz",
+      "title": "Over-Justification",
+      "questions": [
+        {
+          "id": "socpsy_overjust_q1",
+          "prompt": "What is over-justification?",
+          "answers": [
+            "Changing attitudes after receiving too little reward for lying",
+            "A decrease in intrinsic motivation caused by an unnecessary reward used to control behavior",
+            "Any time people are paid to do a task",
+            "A reward that increases enjoyment of an already liked activity"
+          ],
+          "correctIndex": 1,
+          "explanation": "Over-justification is what happens when an unnecessary reward is used to control behavior for an activity a person already likes."
+        },
+        {
+          "id": "socpsy_overjust_q2",
+          "prompt": "When does over-justification occur?",
+          "answers": [
+            "Whenever someone is paid to do something they dislike",
+            "When an unnecessary reward is offered to control behavior for an activity the person already likes",
+            "Whenever people are rewarded for any task",
+            "Only when people are paid very small amounts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Over-justification occurs when someone offers an unnecessary reward in an effort to control behavior."
         }
       ]
     }
