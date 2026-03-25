@@ -726,7 +726,29 @@
             {
               "id": "socpsy_impexpselfesteem",
               "title": "Implicit vs explicit self-esteem",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_impexpselfesteem_video",
+                    "videoId": "Y3K29sa1EW4"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_impexpselfesteem_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- describe how together implicit and explicit self-esteem tell us more than either on their own\n\n### In general, self-esteem is one of the most important constructs in all of psychology. \n\nIt is generally a good thing. \n\n* It protects us from depression, drug abuse, even some types of delinquency. \n\nBut it can also be bad. \n\n* Terrorists have high self-esteem, so do gang leaders. \n\n### When someone with high self-esteem is rejected, \n\nthey can become ugly and abusive. \n\nSo when you meet someone with high self-esteem, that could be a good thing or a bad thing. \n\nSomeone with high explicit self-esteem might be:\n* full of themselves and a narcissist, \n* or they might be a generally competent person. \n\n### How can you tell? \n\n> The answer may lie with implicit self-esteem. \n\n* Researchers have suggested that truly high self-esteem requires both high implicit and high explicit self-esteem. \n* Similarly, true low self-esteem requires both low implicit and low explicit self-esteem. \n\n### However, a person with high explicit self-esteem but low implicit self-esteem might best be described as having defensive self-esteem. \n\nThis is the type of person who will tell you how good they are, but can't handle any criticism, and whom researchers have found tend to be narcissists. \n\n> So not everyone with high explicit self-esteem is a narcissist, just those people that have low implicit self-esteem. \n\nFor narcissists then, they will tell you how great they are, but their self-schemas or their implicit self-evaluations will tell you a different story. \n\n### In fact, for many of these people, they don't even know that their implicit self-esteem is low. \n\nIt turns out that we don't always know ourselves very well, which is why it is very important to measure both implicit and explicit self-esteem.\n\n## Add these to your notes\n\n1. The definition of truly high self-esteem\n2. The definition of truly low self-esteem\n3. The combination of implicit and explicit self-esteem related to narcissicism."
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_impexpselfesteem_quiz",
+                    "quizId": "socpsy_impexpesteem_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_affectiveforecast",
@@ -2190,6 +2212,60 @@
           ],
           "correctIndex": 1,
           "explanation": "The logic of the IAT is comparing how much faster participants respond when self and positive share a response key versus when self and negative share a response key."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_impexpesteem_quiz",
+      "title": "Implicit and Explicit Self Esteem",
+      "questions": [
+        {
+          "id": "socpsy_impexpesteem_q1",
+          "prompt": "Why is it important to consider both implicit and explicit self-esteem?",
+          "answers": [
+            "Because each measure captures exactly the same thing",
+            "Because together they can distinguish healthy high self-esteem from defensive high self-esteem",
+            "Because explicit self-esteem is always inaccurate on its own",
+            "Because implicit self-esteem only matters when someone is confused"
+          ],
+          "correctIndex": 1,
+          "explanation": "Considering implicit and explicit self-esteem together helps researchers tell more than either measure could on its own."
+        },
+        {
+          "id": "socpsy_impexpesteem_q2",
+          "prompt": "Which best characterizes truly high self-esteem?",
+          "answers": [
+            "High explicit self-esteem only",
+            "High implicit self-esteem only",
+            "High implicit and high explicit self-esteem together",
+            "Low implicit and high explicit self-esteem"
+          ],
+          "correctIndex": 2,
+          "explanation": "Truly high self-esteem requires both high implicit and high explicit self-esteem."
+        },
+        {
+          "id": "socpsy_impexpesteem_q3",
+          "prompt": "Which best characterizes truly low self-esteem?",
+          "answers": [
+            "Low explicit self-esteem only",
+            "Low implicit and low explicit self-esteem together",
+            "High implicit and low explicit self-esteem",
+            "Low implicit self-esteem only"
+          ],
+          "correctIndex": 1,
+          "explanation": "True low self-esteem requires both low implicit and low explicit self-esteem."
+        },
+        {
+          "id": "socpsy_impexpesteem_q4",
+          "prompt": "What term describes people with high explicit self-esteem but low implicit self-esteem?",
+          "answers": [
+            "Secure self-esteem",
+            "Defensive self-esteem",
+            "Social self-esteem",
+            "Stable self-esteem"
+          ],
+          "correctIndex": 1,
+          "explanation": "A person with high explicit but low implicit self-esteem is best described as having defensive self-esteem."
         }
       ]
     }
