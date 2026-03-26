@@ -1026,22 +1026,6 @@
                     "id": "socpsy_socembod_quiz",
                     "quizId": "socpsy_socem_quiz"
                   }
-                },
-                {
-                  "type": "image",
-                  "payload": {
-                    "id": "socpsy_ELM_ad1",
-                    "url": "https://cdn.sanity.io/images/c1chvb1i/production/e9c6446fac405c0c5e07c68f0996ad0c4868a389-1100x735.jpg/sneaker-freaker-soled-out-book-prokeds.jpg",
-                    "caption": "Informational Ad"
-                  }
-                },
-                {
-                  "type": "image",
-                  "payload": {
-                    "id": "socpsy_ELM_ad2",
-                    "url": "https://i.pinimg.com/originals/04/0f/81/040f814c16030ae88e133ba0be011ccf.jpg",
-                    "caption": "Aestheic Ad"
-                  }
                 }
               ]
             },
@@ -1115,6 +1099,22 @@
                   "payload": {
                     "id": "socpsy_ELM_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the Elaboration Liklihood Model\n- Define the central and peripheral routes to persuasion\n\nTake a look at these two advertisements for shoes."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_ELM_ad1",
+                    "url": "https://cdn.sanity.io/images/c1chvb1i/production/e9c6446fac405c0c5e07c68f0996ad0c4868a389-1100x735.jpg/sneaker-freaker-soled-out-book-prokeds.jpg",
+                    "caption": "Informational Ad"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_ELM_ad2",
+                    "url": "https://i.pinimg.com/originals/04/0f/81/040f814c16030ae88e133ba0be011ccf.jpg",
+                    "caption": "Aestheic Ad"
                   }
                 },
                 {
