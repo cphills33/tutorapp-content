@@ -1451,7 +1451,29 @@
             {
               "id": "socpsy_rebound",
               "title": "Steretype Rebound",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_rebound_video",
+                    "videoId": "9icxNBDD7zs"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_rebound_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe how stereotype rebound leads to an increase in stereotyping\n\n### Devine showed that everyone knows stereotypes, and those stereotypes are automatically activated for everyone. \n\nDevine also showed that negative stereotypes can be inhibited by people low in prejudice. \n\n> So from that, you might conclude that you should spend your time consciously trying to suppress the stereotypes you know. \n\nBut some research suggests that may not be the best strategy. \n\n### In one study that investigated how perspective-taking could be used to reduce stereotyping, \n\n* half of the participants were told, \"Previous research has demonstrated that thoughts and impressions are consistently influenced by stereotypic preconceptions, and therefore you should actively try to avoid thinking about the photographed target in such a manner.\" \n\n> These participants are called 'suppressors' because they are actively suppressing their stereotypes. \n\n* The other half of participants were told, \"Rely on the cultural stereotype and not on your personal beliefs of the social group represented in the photograph while writing the narrative essay.\" \n\n> These participants are called 'expressors' because they are actively expressing cultural stereotypes. \n\n* After writing an essay, participants read about our ambiguously aggressive friend Donald. \n* Perhaps counterintuitively, the suppressors thought Donald was more aggressive than the expressors. \n\n### So actively working to suppress stereotypes can actually cause them to be more salient. \n\nThat's because in order to suppress a stereotype, you have to constantly check and see if it's active. \n\n> You are actually making the stereotype salient by trying to suppress it\n\n## Add these to your notes\n\n1. Describe how stereotype rebound increases stereotyping"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_rebound_quiz",
+                    "quizId": "socpsy_rebound_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_justsayno",
@@ -3914,6 +3936,36 @@
           ],
           "correctIndex": 1,
           "explanation": "In the third study people high in prejudice listed more negative traits about Black people."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_rebound_quiz",
+      "title": "Rebound",
+      "questions": [
+        {
+          "id": "socpsy_rebound_q1",
+          "prompt": "What is stereotype rebound?",
+          "answers": [
+            "The idea that stereotypes disappear after a suppression attempt",
+            "The increase in stereotyping that can result from actively trying to suppress stereotypes",
+            "The tendency to endorse stereotypes more when they seem accurate",
+            "The replacement of one stereotype by another stereotype"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stereotype rebound leads to an increase in stereotyping because attempts to suppress a stereotype must first check to see whether the stereotype is active--thus, activating the stereotype"
+        },
+        {
+          "id": "socpsy_rebound_q2",
+          "prompt": "Why can actively suppressing stereotypes backfire?",
+          "answers": [
+            "Because suppression removes all monitoring of thoughts",
+            "Because suppression requires constantly checking whether the stereotype is active",
+            "Because suppression makes people forget the target person",
+            "Because suppression works only for positive stereotypes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Suppression backfires because people must constantly monitor whether the stereotype is active."
         }
       ]
     }
