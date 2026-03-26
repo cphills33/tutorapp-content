@@ -1551,7 +1551,29 @@
             {
               "id": "socpsy_correction",
               "title": "Correction Processes",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_correction_video",
+                    "videoId": "eaR97Ns48tg"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_correction_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the prejudice reduction task described on this page\n\n### What would you think if you were one of the participants in those studies where you say \"YES\" and \"NO\" to stereotypic pairings? \n\n* Wouldn't you feel like the experimenters were trying to make you think a certain way? \n* To make you believe certain things? \n* Wouldn't you feel like, to a certain extent, the experimenters were trying to influence you? \n\nIt turns out that when we feel like we've been influenced, we engage in what are called *correction processes*, to control for being influenced, to reset our beliefs to what we believe they would be if we weren't influenced. \n\n### The purpose of this page is to show you a study that investigated how these correction processes influence hiring decisions after one of these extensive training programs. \n\nKawakami and colleagues were interested in whether training to associate traditionally male stereotypes like \n\n* dominant, \n* independent, \n* ambitious, \n* and competitive \n\nwith women, \n\nand traditionally female stereotypes like \n\n* friendly, \n* submissive, \n* dependent, and \n* caring \n\nwith men, \n\nwould reduce gender disparities in hiring decisions. \n\nSpecifically, if participants were shown two resumes of equally qualified candidates, \n\n* but one was male \n* and the other female, \n\nwould the training reduce the bias participants have in favor of hiring men so that more women are hired? \n\n### In this training program, \n\n* participants were shown the face of a man or woman above a traditionally male stereotype and a traditionally female stereotype. \n* If a woman's face was shown to participants, they were required to select a traditionally male stereotype. \n* But if a man's face was shown to participants, they were required to select a traditionally female stereotype. \n\n1. Among participants that only completed the training and did nothing else, less than a quarter selected the female candidate for the job. \n\nAnd remember, the male and female candidates are equally qualified. We should expect the female candidate to be chosen about 50% of the time based on merit. \n\n> What the researchers hypothesized was happening is that participants were controlling for the influence of the training. \n\nSo if they could disconnect the training from the candidate selection task, the participants wouldn't feel the need to correct for the influence of the training. \n\n2. So the next group of participants completed the training and then did a filler task before choosing a male or female candidate for the job. \n\nAmong these participants, about 50% chose the female candidate for the job, which is exactly what we should expect based on the merits. \n\n3. The other way we can disrupt these correction processes is derived from noticing that correction processes are controlled processes. \n\n> That means they are not efficient. \n\nIf we can distract participants by having them complete a second task while they choose a candidate, then they shouldn't be able to correct for the influence of training. \n\nThe researchers tested this by having the final group of participants watch a light to see whether a light turned on in the corner of their computer screen while they completed the candidate selection task. \n\nEvery time the light turned on, they had to press a button. \n\nThe light would turn off and they'd have to watch for the next time the light turned on. \n\nOver 70% of participants in this condition chose the female job candidate. \n\nThis is because participants were not able to engage their controlled correction processes, so the automatic effect of the training loomed large. \n\n### To sum up, \n\neven though everyone knows cultural stereotypes and those stereotypes were automatically activated, there are steps we can take to reduce the impact of those stereotypes on important decisions like who gets hired for a job.\n\n## Add these to your notes\n\n1. Describe the two approaches to disrupting correction processes\n2. Define correction processes"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_correction_quiz",
+                    "quizId": "socpsy_correction_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_realistic",
@@ -4052,6 +4074,24 @@
           ],
           "correctIndex": 1,
           "explanation": "The category is activated first and then the associated attributes become salient, which is why participants can practice saying no to unwanted stereotype pairings."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_correction_quiz",
+      "title": "Correction Processes",
+      "questions": [
+        {
+          "id": "socpsy_correction_q1",
+          "prompt": "What are correction processes?",
+          "answers": [
+            "Automatic stereotype activations that cannot be changed",
+            "Efforts to reset beliefs to what they would be if one had not been influenced",
+            "Simple memory errors during hiring decisions",
+            "A tendency to become more biased after training"
+          ],
+          "correctIndex": 1,
+          "explanation": "Correction processes are attempts to control for influence and reset beliefs to what people think they would believe if they had not been influenced."
         }
       ]
     }
