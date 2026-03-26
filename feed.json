@@ -1310,7 +1310,59 @@
             {
               "id": "socpsy_exemplar",
               "title": "Exemplar Model",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_exemplar_video",
+                    "videoId": "QbLfUk4UdKE"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_exemplar_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the exemplar model of stereotyping\n\n### The purpose of this video is to describe a second model for how people stereotype social groups, the exemplar model. \n\nImportantly, I'm not suggesting that both models are compatible with one another. \n\nThese are two separate ideas for how stereotyping social groups happens. \n\n* If you recall, in the abstraction model, we remember the central tendencies or statistics about various attributes associated with social groups. \n* In the exemplar model, we don't do that. Instead, we remember specific examples, or exemplars, and recall them as needed. \n\n> So in this model, what's important is the process by which we determine which exemplars we should recall. \n\nConsider this new person we want to form an impression of, Solomon Grundy."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_exemplar_image1",
+                    "url": "https://www.dropbox.com/scl/fi/7bikihwscincdnqi2hvb5/Image-Grundy.png?rlkey=15sen1jbl8h58s2ewcrgm11j3&raw=1",
+                    "caption": "Solomon Grundy!"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_exemplar_text2",
+                    "markdown": "What is distinctive about him? \n* Is it that he's a zombie, \n* the general colour scheme, \n* or is it that he has a rope around his neck? \n\n> According to the exemplar model, as we try to form an impression of Solomon, we will recall exemplars that are similar to him in some way, like these three cards, or exemplars."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_exemplar_image2",
+                    "url": "https://www.dropbox.com/scl/fi/0y9m9zggdrc7dvqku4uoc/Image-Grundy-s.png?rlkey=4tnhks154dbzxy5url3jdh6mo&raw=1",
+                    "caption": "The Grundy Family"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_exemplar_text3",
+                    "markdown": "## Our brain takes the stats, or central tendencies, for the attributes associated with each exemplar and creates a weighted average to form an impression of the Grundy we've just met. \n\nThe weights are determined by how similar each exemplar is to the new Grundy. \n\n* So Blackest Night Batman, who is a zombie, is given very little weight because he doesn't look very similar to Grundy. \n* And Regime Grundy is given the most weight because he looks the most similar. \n\nThen, when we conduct the weighted average, we determine that the new Solomon Grundy has a strength score of 2939. \n\n> But remember, stereotypes aren't necessarily accurate. \n\nHow could they be when we use a process like the exemplar model to understand others? \n\nIn this case, our stereotype suggests Grundy should be 2939 strong, but in reality, he is 4605. \n\nThe exemplar model grossly underestimated how strong he is. \n\n### There is one important aspect of the exemplar model I'd like to highlight, \n\nand that is, according to the exemplar model, we can change our stereotypes about social groups relatively easily by meeting new members of the group that differ from our expectations. \n\n> This is different from the abstraction model in which new data fights against a lifetime of old data. \n\nIn the exemplar model, new data is given prominence because of the recency effect. \n\nNewer information is more easily recalled, and therefore, it plays a larger role in how we form impressions. \n\n### So to sum up and compare the two models, in the abstraction model, we remember the statistics or central tendencies about the stereotypes of social groups. \n\nWe don't remember specific exemplars. \n\n### But in the exemplar model, we don't remember central tendencies or statistics. \n\nInstead, we remember specific exemplars and use the most similar ones to form impressions of new people. \n\n## Add these to your notes\n\n1. Describe what is stored in memory, according to the exemplar model of stereotyping"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_exemplar_quiz",
+                    "quizId": "socpsy_exemplar_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_continuum",
@@ -3698,6 +3750,36 @@
           ],
           "correctIndex": 1,
           "explanation": "When a new Wonder Woman with strength 4224 is encountered, the group statistics are updated and the new average changes."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_exemplar_quiz",
+      "title": "Exemplar Model",
+      "questions": [
+        {
+          "id": "socpsy_exemplar_q1",
+          "prompt": "What does the exemplar model say is stored in memory when people stereotype social groups?",
+          "answers": [
+            "Central tendencies and averages for each group",
+            "Specific examples or exemplars of group members",
+            "Only emotional reactions to groups",
+            "Only the most recent stereotype encountered"
+          ],
+          "correctIndex": 1,
+          "explanation": "The exemplar model stores specific examples, or exemplars, rather than group-level statistics."
+        },
+        {
+          "id": "socpsy_exemplar_q2",
+          "prompt": "Why can stereotypes change relatively easily in the exemplar model?",
+          "answers": [
+            "Because people erase older exemplars immediately",
+            "Because new group members who differ from expectations can be prominent in memory",
+            "Because the model ignores similarity and focuses only on novelty",
+            "Because stereotypes are rebuilt from scratch every time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stereotypes can change relatively easily in the exemplar model because impressions are based on the exemplars that come to mind--so group members you've recently met can have a large impact on your impression of the group"
         }
       ]
     }
