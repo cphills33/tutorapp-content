@@ -1478,7 +1478,75 @@
             {
               "id": "socpsy_justsayno",
               "title": "Just Say No",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_justsayno_video",
+                    "videoId": "opzLM-EAu8k"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_justsayno_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the prejudice reduction task described on this page\n\n### On the previous page, I described research that shows actively suppressing stereotypes actually increases stereotype activation. \n\nBut what about training and just saying no to stereotypes? \n\nTo see why this strategy might work, let's think about the schemas we have for social categories. \n\n1. First, we activate the category, and \n2. then all the attributes are also salient. \n\n> What if we systematically practice saying no to all the attributes we don't want? \n\n* Kawakami and colleagues instructed half of their participants to just say no to pairings of Black faces and Black stereotypes, \n* and also to pairings of white faces and white stereotypes. \n* At the same time, participants also said yes to pairings of Black faces and white stereotypes, \n* as well as white faces and Black stereotypes."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_justsayno_image1",
+                    "url": "https://www.dropbox.com/scl/fi/iehh1fdq1hu8pdgihgxqw/Image-Just-Say-NO.png?rlkey=f321qqj097xuqh1tg7e4iq6n3&raw=1",
+                    "caption": "Negating existing stereotypes"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_justsayno_image2",
+                    "url": "https://www.dropbox.com/scl/fi/3wm4q94gqte6on97tsq5l/Image-Just-Say-YES.png?rlkey=3grrzcuhcws59tj1g2qv0771c&raw=1",
+                    "caption": "Forming new associations"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_justsayno_text2",
+                    "markdown": "### So during this task, participants are not only negating existing stereotypes, but also learning new ones. \n\n* The other half of participants were instructed to maintain their stereotypic knowledge by saying yes to pairings of Black faces with Black stereotypes, and white faces with white stereotypes. \n* In addition, these participants also said no to pairings of Black faces with white stereotypes, and white faces with Black stereotypes."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_justsayno_image3",
+                    "url": "https://www.dropbox.com/scl/fi/qha66d1gyaaa62z5xhlon/Image-Just-Say-No-Reversed.png?rlkey=t7qjg4tmt0141was39r5b8xf4&raw=1",
+                    "caption": "Maintaining stereotypic knowledge"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_justsayno_image4",
+                    "url": "https://www.dropbox.com/scl/fi/bhs0ohukl45y43sxx33rw/Image-Just-Say-Yes-Reversed.png?rlkey=ijs79oe5r4pqoc0z2xdi2x8zh&raw=1",
+                    "caption": "Resisting new associations"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_justsayno_text3",
+                    "markdown": "In this version of the task, participants reinforced their stereotyping of blacks and whites. \n\n* Researchers had participants in both conditions respond to over 500 pairings. \n* At the end, stereotype activation was reduced among participants trained to say no to stereotypes, \n\n> and this effect even lasted 24 hours. \n\nLater research showed that this effect is actually driven more strongly by participants saying yes to the counter-stereotypes than by saying no to the stereotypes, and it can also be enhanced by saying no like you *really* mean it. \n\nSo just being bored in an experimental lab and saying no, no, no isn't as effective as saying \"that's wrong\" over and over again. \n\n## Add these to your notes\n\n1. Describe this stereotype reduction task\n2. Which model of stereotyping were the researchers using?"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_justsayno_quiz",
+                    "quizId": "socpsy_justsayno_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_correction",
@@ -3966,6 +4034,24 @@
           ],
           "correctIndex": 1,
           "explanation": "Suppression backfires because people must constantly monitor whether the stereotype is active."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_justsayno_quiz",
+      "title": "Just Say No",
+      "questions": [
+        {
+          "id": "socpsy_justsayno_q1",
+          "prompt": "What is the basic logic behind the just-say-no stereotype reduction task?",
+          "answers": [
+            "Social categories are never activated automatically",
+            "Once a category is activated its associated attributes become salient so people can practice rejecting unwanted pairings",
+            "People reduce stereotypes only by avoiding all category information",
+            "Stereotypes change only after long conversations with group members"
+          ],
+          "correctIndex": 1,
+          "explanation": "The category is activated first and then the associated attributes become salient, which is why participants can practice saying no to unwanted stereotype pairings."
         }
       ]
     }
