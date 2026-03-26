@@ -1367,7 +1367,44 @@
             {
               "id": "socpsy_continuum",
               "title": "Continuum Model",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_continuum_video",
+                    "videoId": "M97V5RwMg38"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_continuum_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the continuum model of impression formation\n- Define categorization and individuation\n\n### Sometimes you hear people say that stereotypes exist for a reason. \n\nAnd that's true, but the people who say that often want to imply or outright state that the reason is accuracy or a kernel of truth. \n\n### But that's not correct. \n\n> The reason stereotypes exist is laziness, or what we often call efficiency. \n\nIf you want to accurately form an impression of another person, you have to put in a little more work in order to get to know them as an *individual*. \n\n> This is a process known as individuation. \n\n### The purpose of this video is to describe the continuum model of impression formation, \n\nwhich helps us understand when we will form impressions of others\n* based on stereotypes, \n* and when we will form impressions of others based on them as individuals. \n\nSimilar to the three-stage model of attribution, this model has three steps. \n\n1. First, we meet a new person we need to form an impression of. \n2. Second, we categorize that person into a social group and use that group's stereotypes to understand this new person. This is an automatic process. It is easy and efficient. And those facts are the reason we use stereotypes so often. \n3. Finally, if we have the ability and the motivation, then we will engage in the effortful and resource-intensive process of individuating the new person. \n\n* So it is easy and quick to stereotype everyone we meet, \n* and it is hard and effortful to individuate them, to get to know them for who they really are. \n\n### If we want to individuate a person, we have to be motivated to do so. \n\nThat means we have to find them interesting, or they have to be relevant to our goals in some way. \n\nPerhaps they are our boss. It's important to know who your boss really is, so you're likely to individuate him or her.\n\nBut that's not enough to start individuating a person. \n\nWe also have to have the ability to pay attention to their personal attributes. \n\n### If we don't have enough time, or we are distracted, we won't individuate a person, even if we are motivated to do so. \n\nSo most of the time, we simply categorize people into a social group, and use that group's stereotypes to form an impression of them. \n\nBut how do we determine which category to categorize someone into? \n\nUsually we simply categorize them into whatever group they look most similar to. \n\nBut consider Zombie Batman. Which group would you categorize him into?"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_continuum_image",
+                    "url": "https://www.dropbox.com/scl/fi/5cu01r7kzzyv84t12hahx/Image-Zombie-Batman.png?rlkey=a05nn5ik042m3gx9ipadytms8&raw=1",
+                    "caption": "What happened to Batman in this story?"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_continuum_text2",
+                    "markdown": "* Is he a zombie?\n* A villain? \n* Part of the Justice League? \n* Or just the Batman? \n\nThere are no wrong answers here, but I think he looks most similar to other Batmans, so that's probably how I would categorize him, and I would use the Batman stereotypes to form an impression of him. \n\nSo even though Blackest Night Batman is a zombie, I still think of him as working hard to protect the people of Gotham from villainy. And we use a similar process when we categorize others. \n\nWe tend to categorize them into the groups they look most similar to. \n\n## Add these to your notes\n\n1. Describe the three steps of the Continuum Model of Impression Formation\n2. Make sure to note which steps are automatic and which are controlled"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_continuum_quiz",
+                    "quizId": "socpsy_continuum_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_stereotyping",
@@ -3780,6 +3817,36 @@
           ],
           "correctIndex": 1,
           "explanation": "Stereotypes can change relatively easily in the exemplar model because impressions are based on the exemplars that come to mind--so group members you've recently met can have a large impact on your impression of the group"
+        }
+      ]
+    },
+    {
+      "id": "socpsy_continuum_quiz",
+      "title": "Continuum Model",
+      "questions": [
+        {
+          "id": "socpsy_continuum_q1",
+          "prompt": "What is individuation?",
+          "answers": [
+            "Sorting a person into a social group as quickly as possible",
+            "Remembering a person's group stereotype for later use",
+            "Putting in more effort to get to know a person as an individual",
+            "Judging a person based only on physical appearance"
+          ],
+          "correctIndex": 2,
+          "explanation": "Individuation is the process of getting to know a person as an individual."
+        },
+        {
+          "id": "socpsy_continuum_q2",
+          "prompt": "What is the second step in the continuum model?",
+          "answers": [
+            "Meeting a new person who requires an impression",
+            "Categorizing the person into a social group and using that group's stereotypes",
+            "Individuating the person",
+            "Avoiding any judgment until more evidence appears"
+          ],
+          "correctIndex": 1,
+          "explanation": "Step two is categorizing the new person into a social group and using that group's stereotypes to understand the person."
         }
       ]
     }
