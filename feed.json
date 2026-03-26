@@ -1409,7 +1409,44 @@
             {
               "id": "socpsy_stereotyping",
               "title": "Stereotyping",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_stereotyping_video",
+                    "videoId": "FajbuS8ZdOA"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_stereotyping_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe each of the studies in Devine (1989)\n\n### Let me tell you a story about my friend Donald. \n\nI want you to form an impression of Donald as you listen to the story. \n\n* I ran into my old acquaintance Donald the other day, and I decided to go over and visit him since, by coincidence, we took our vacations at the same time. \n* Soon after I arrived, a salesman knocked at the door, but Donald refused to let him enter. \n* He also told me that he was refusing to pay his rent until the landlord repaints his apartment. \n* We talked for a while, had lunch, and then went out for a ride. \n* We used my car since Donald's had broken down that morning, and he told the garage mechanic that he would have to go somewhere else if he couldn't fix his car that same day. \n* We went to a park for about an hour, then stopped at a hardware store. I was sort of preoccupied, but Donald bought some small gadget, and then I heard him demand his money back from the sales clerk. \n* I couldn't find what I was looking for, so we left and walked a few blocks to another store. \n* The Red Cross had set up a stand and asked us to donate blood. Donald lied, saying he had diabetes and therefore could not give blood. \n* It's funny that I hadn't noticed it before, but when we got to the store, we found that it had gone out of business. \n* It was getting kind of late, so I took Donald to pick up his car, and we agreed to meet again as soon as possible. \n\n### Donald is what's called \"ambiguously aggressive.\" \n\nThat means you could interpret all of his actions as aggressive, or you could say there are situational factors which caused him to act aggressively. \n\n> It turns out that one factor which causes us to see him as aggressive or not, is the schemas we have salient in our minds. \n\nIf we have a schema related to aggressive active in our minds, while we listen to that story, then we tend to think of Donald as more aggressive than if we don't. \n\n### Way back in 1989, Divine showed that everyone, both people high and low in prejudice, know the stereotype of black people as aggressive. \n\nNow before you start arguing in your head that that was 30 years ago, here is a word cloud of the stereotypes students stated society believes are associated with Black people quite recently."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_stereotyping_image",
+                    "url": "https://www.dropbox.com/scl/fi/78713hsa3qtd5ur9lbzss/Image-Black-male-stereotypes.png?rlkey=9ppofz89elze6jbs5bgacx7bj&dl=0",
+                    "caption": "People are still shockingly racist"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_stereotyping_text2",
+                    "markdown": "As you can see, attributes like criminal and aggressive still loom large. \n\nNow you may be thinking something like, \"knowing the stereotypes is different from endorsing them,\" and I agree, but knowing the stereotypes still has some troubling consequences. \n\n### In a second study, \n\nDevine showed that making this schema for Black people active causes people to rate our ambiguously aggressive friend Donald as more aggressive. \n\nAnd that was true for people both high and low in prejudice. \n\nSo people that were low in prejudice but knew the stereotypes were still influenced by those stereotypes. \n\n### Importantly, Devine's third study provides a measure of hope. \n\n1. Her first study showed that everyone knows the stereotypes. \n2. Her second study showed that those stereotypes are automatically activated by everyone. \n3. But her third study shows that when controlled processes are used, people low in prejudice can inhibit their stereotyping. \n\n* Specifically, she had participants both high and low in prejudice write down stereotypically Black names to activate their schema for Black people. \n* Then they wrote down the traits they believed were associated with black people. \n* And she found that people high in prejudice listed more negative traits about Black people. \n\nSo to sum up, Devine showed that \n\n1. everyone knows stereotypes. \n2. Stereotypes are automatically activated for everyone. \n3. But if you are low in prejudice, you can inhibit them in situations that allow for controlled processing. \n\n## Add these to your notes\n\n1. Describe each study in Devine's paper"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_stereotyping_quiz",
+                    "quizId": "socpsy_stereotyping_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_rebound",
@@ -3847,6 +3884,36 @@
           ],
           "correctIndex": 1,
           "explanation": "Step two is categorizing the new person into a social group and using that group's stereotypes to understand the person."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_stereotyping_quiz",
+      "title": "Stereotyping",
+      "questions": [
+        {
+          "id": "socpsy_stereotyping_q1",
+          "prompt": "How did low-prejudice participants respond in Devine's second study ?",
+          "answers": [
+            "They were unaffected because they did not endorse the stereotype",
+            "They were still influenced when the stereotype was activated",
+            "They rated Donald as less aggressive than everyone else",
+            "They refused to complete the impression task"
+          ],
+          "correctIndex": 1,
+          "explanation": "Even participants low in prejudice were influenced by the stereotype when it was activated."
+        },
+        {
+          "id": "socpsy_stereotyping_q2",
+          "prompt": "What difference emerged between high- and low-prejudice participants in Devine's third study?",
+          "answers": [
+            "Low-prejudice participants listed more negative traits",
+            "High-prejudice participants listed more negative traits about Black people",
+            "There was no difference at all once the schema was activated",
+            "Both groups listed only positive traits"
+          ],
+          "correctIndex": 1,
+          "explanation": "In the third study people high in prejudice listed more negative traits about Black people."
         }
       ]
     }
