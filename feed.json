@@ -1138,7 +1138,100 @@
         {
           "id": "socpsy_4",
           "title": "Prejudice, stereotyping, and discrimination",
-          "pages": []
+          "pages": [
+            {
+              "id": "socpsy_welcome4",
+              "title": "Welcome to Module 4",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_welcome4_video",
+                    "videoId": "tbQwOBYz4-0"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_welcome4_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define prejudice, stereotyping, and discrimination\n\n### Welcome to module four on Prejudice, Stereotyping, and Discrimination. \n\nNotice that this is not the module on \n\n* racism, \n* sexism, \n* homophobia, \n* transphobia, \n* Islamophobia, \n* or any other type of ism or phobia. \n\nInstead, we will focus on three forms of bias that can be thought of as parts of all those isms and phobias. \n\nRather than talk about racism in general, \n\n* we will talk about prejudice against black people, \n* or we will talk about stereotyping of black people, \n* or we will talk about discrimination against black people. \n\nSimilarly, we will not talk about sexism per se, but rather \n\n* prejudice against women, \n* stereotyping of women, \n* and discrimination against women. \n\nSo we will discuss these basic components of isms and phobias and understand that they could be applied to bias against any group. \n\nOur task will be to recognize not whether something is racism or sexism or Islamophobia. \n\n### Our task will be to identify whether the type of bias we are interested in is prejudice, stereotyping, or discrimination, \n\nwhich means we need definitions of those terms. \n\n> In this class, we will define prejudice as a negative attitude toward a group. \n\nNotice that this is different from many definitions of prejudice which emphasize prejudgment of some kind. \n\n> For us, prejudice is simply a negative attitude, \n\nwhich, if you recall our definition of attitudes, is really just a negative evaluation of a group. \n\nStereotyping is something different. \n\n> Stereotypes are beliefs about the attributes associated with a group. \n\n* So when I say I am prejudiced against a group, that means I don't like them. \n* But when I say I'm stereotyping a group, that means I associate negative attributes with a group, like criminal or lazy, but it also could mean I associate positive attributes with a group, like warm or athletic. \n\n### Usually people associate both positive and negative attributes with a group. \n\nHowever, quite often people don't see any problem with associating positive attributes with a group or what is often called positive stereotyping. \n\nLet me give you two reasons why you should be concerned about positive stereotyping as well as negative stereotyping. \n\n1. First, any time you use a stereotype to understand another person, that means you aren't getting to know that person as an individual. Relying on stereotypes to understand someone, whether they be positive or negative, is always going to be less accurate. \n2. Second, positive stereotypes can have negative consequences. Consider the common stereotype that women are warmer than men. Warmth is a positive stereotype, but it can also be a *limiting* stereotype. \n\nWhat type of person do we want to lead our companies or organizations? \n\n### Often we don't want a warm person for those types of jobs, even though warmth is a great personal trait to have. \n\nSo women tend to be hired less often for those types of jobs because of this positive stereotype, even when they are as well qualified as a man. \n\nThe final type of bias we'll talk about in this class is discrimination. \n\n> We will define discrimination as an unequal treatment of a group. \n\nNotice that discrimination is not defined as severe or extreme unequal treatment. \n\n> It is simply any unequal treatment. \n\nSo discrimination covers everything from \n* crossing to the other side of the street when you see members of a specific group in your path, \n* to rejecting job applicants based on group membership, \n* to denying medical treatment based on group membership. \n\n### To review, \n\nin this class we will discuss three types of bias. \n\n1. Prejudice, which is a negative attitude toward or a negative evaluation of a group. \n2. Stereotyping, which is associating attributes with a group. \n3. And discrimination, which is unequal treatment of a group. \n\n### Sometimes students ask me whether it's useful to be so precise about these three types of bias. \n\nAren't they all really the same thing? \n\nIsn't it the case that \n\n1. if we don't like a group, \n2. that leads us to associate negative attributes with that group, \n3. which in turn leads us to treat members of that group negatively? \n\n### And the answer to that question is moderately. \n\n* Prejudice is related to stereotyping, but not that strongly. \n* And both prejudice and stereotyping are related to discrimination, but not that strongly. \n\nSo it is important to think about each of these forms of bias as distinct concepts. \n\n## Add these to your notes\n\n1. Define prejudice\n2. Define stereotyping\n3. Define discrimination\n4. Describe the relation between these three forms of bias"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_welcome4_quiz",
+                    "quizId": "socpsy_welcome4_quiz"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_aversive",
+              "title": "Aversive Racism",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_ec",
+              "title": "Evaluative Conditioning",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_abstraction",
+              "title": "Abstraction Model",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_exemplar",
+              "title": "Exemplar Model",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_continuum",
+              "title": "Continuum Model",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_stereotyping",
+              "title": "Stereotyping",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_rebound",
+              "title": "Steretype Rebound",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_justsayno",
+              "title": "Just Say No",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_correction",
+              "title": "Correction Processes",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_realistic",
+              "title": "Realistic Conflict",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_sit",
+              "title": "Social Identity Theory",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_medical",
+              "title": "Medical Discrimination",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_perspective",
+              "title": "Perspective Taking",
+              "blocks": []
+            }
+          ]
         },
         {
           "id": "socpsy_5",
@@ -3251,6 +3344,96 @@
           ],
           "correctIndex": 1,
           "explanation": "In all cases other than being both motivated and able to elaborate, the audience will use the peripheral route."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_welcome4_quiz",
+      "title": "Welcome4",
+      "questions": [
+        {
+          "id": "socpsy_welcome4_q1",
+          "prompt": "How is prejudice defined?",
+          "answers": [
+            "A prejudgment made before meeting a person",
+            "A negative attitude toward a group",
+            "A belief about the attributes of a group",
+            "Unequal treatment of a group"
+          ],
+          "correctIndex": 1,
+          "explanation": "Prejudice is a negative attitude toward a group, or a negative evaluation of a group."
+        },
+        {
+          "id": "socpsy_welcome4_q2",
+          "prompt": "What is stereotyping?",
+          "answers": [
+            "Treating a group unequally",
+            "Feeling anxious around a group",
+            "Beliefs about the attributes associated with a group",
+            "Any negative attitude toward a group"
+          ],
+          "correctIndex": 2,
+          "explanation": "Stereotypes are beliefs about the attributes associated with a group."
+        },
+        {
+          "id": "socpsy_welcome4_q3",
+          "prompt": "What is discrimination?",
+          "answers": [
+            "Any unequal treatment of a group",
+            "Severe mistreatment of a group",
+            "Negative thoughts about a group",
+            "Positive beliefs about a group"
+          ],
+          "correctIndex": 0,
+          "explanation": "Discrimination is unequal treatment of a group"
+        },
+        {
+          "id": "socpsy_welcome4_q4",
+          "prompt": "Which option best captures the difference between prejudice and stereotyping?",
+          "answers": [
+            "Prejudice is unequal treatment while stereotyping is a negative attitude",
+            "Prejudice is a negative evaluation while stereotyping is a belief about group attributes",
+            "Prejudice is a negative belief while stereotyping is positive or negative evaluations",
+            "Prejudice concerns behavior while stereotyping concerns emotions only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Prejudice is a negative attitude or evaluation whereas stereotyping is beliefs about a group's attributes."
+        },
+        {
+          "id": "socpsy_welcome4_q5",
+          "prompt": "Which of the following is the best example of discrimination?",
+          "answers": [
+            "Thinking a group is lazy",
+            "Believing a group is athletic",
+            "Crossing the street to avoid members of a group",
+            "Feeling uncertain about a new person"
+          ],
+          "correctIndex": 2,
+          "explanation": "Discrimination is unequal treatment of a group"
+        },
+        {
+          "id": "socpsy_welcome4_q9",
+          "prompt": "Which statement best fits the definition of prejudice?",
+          "answers": [
+            "I do not like members of that group",
+            "I believe members of that group are warm",
+            "I do not hire members of that group",
+            "That group is lazy, not every member, but overall, it's true"
+          ],
+          "correctIndex": 0,
+          "explanation": "Prejudice means not liking a group, or negatively evaluating it."
+        },
+        {
+          "id": "socpsy_welcome4_q10",
+          "prompt": "If someone associates a group with being criminal or lazy what form of bias is the source describing?",
+          "answers": [
+            "Discrimination",
+            "Stereotyping",
+            "Prejudice",
+            "In-group favoritism"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stereotyping involves associating attributes, such as criminal or lazy, with a group."
         }
       ]
     }
