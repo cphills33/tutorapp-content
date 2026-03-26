@@ -1169,7 +1169,29 @@
             {
               "id": "socpsy_aversive",
               "title": "Aversive Racism",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_aversive_video",
+                    "videoId": "rvY98XNxc7Q"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_aversive_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define aversive racism\n- Define Truly Low Prejudice, Principled Conservatisim, and Modern Racism\n\n### Remember, stereotypes are beliefs about the attributes associated with the group. \n\nThe stereotypes I list won't necessarily be accurate, but people tend to believe they are. In fact, you probably know most of these stereotypes. \n\n* University students are fairly liberal. \n* They don't believe they are prejudiced. \n* They believe equality and the status of minorities is important. \n\nKeep those stereotypes in mind as I tell you about the main concept we are discussing in this video. \n\n### Aversive racism. \n\nAversive racism is very difficult to measure because aversive racists are very attuned to situational norms that make it unacceptable to express prejudice or discriminate in overt ways. \n\nMoreover, if you talk to an aversive racist, they will tell you that they are fairly liberal or progressive, and they absolutely are not racist. \n\nIn fact, they believe equality and social justice are extremely important. \n\n### Does this description remind you of any groups yet? \n\n> The insidious part of aversive racism is that as soon as an aversive racist can come up with a non-racist reason for discrimination, then they will discriminate. \n\nWhat prevents them from discriminating isn't a personal belief in the value of equality. \n\nIt's social norms. \n\n### As soon as the situational pressure not to discriminate is eliminated, or there is a non-racist reason to discriminate, they discriminate. \n\nLet me give you an example. \n\n* In one experiment, white participants worked with either a white partner or a Black partner to move chairs around a research lab. \n* The participant and the Black or white confederate are in separate rooms, \n* and about halfway through the experiment, the white participant hears a number of chairs fall on the other person. \n\n> What percentage of participants do you think helped their partner? \n\nIt turns out the answer depends on \n\n1. the race of the partner, \n2. and whether there are any situational norms that demand they act in line with values of equality. \n\n* Specifically, half of the participants were led to believe they were the only people who could hear the accident take place. In this situation, there are strong situational norms that help. \n* But the other half of participants were led to believe there were bystanders who could also hear the accident. In this situation, the situational norms in favor of helping are less strong, because the responsibility doesn't fall solely on the white participant. \n\nHowever, when the participant's partner was white, it didn't matter whether there were any bystanders nearby. \n\n>Three out of four participants helped on average. \n\nBut when the participant's partner was Black, suddenly the situational norms played a huge role. \n\n> When the participant was the only one who could hear the accident, 94% helped. \n\n> But when participants believed bystanders could also hear the accident, only 38% helped their Black partner. \n\nThis is aversive racism at work. \n\n### As soon as there was a non-racist excuse not to help, the aversive racist discriminated. \n\nIn fact, they left their partner to fend for themselves under a pile of chairs. \n\nBut aversive racists are just one type of prejudiced person in this world today. \n\nResearchers classify types of prejudice by administering implicit and explicit measures of prejudice. \n\n1. People with low implicit and explicit prejudice are said to have truly low prejudice. \n2. People with low implicit but high explicit prejudice are said to be principled conservatives. This is because these people do not automatically associate Black people with negative concepts, but they disagree with political programs like affirmative action or desegregation. \n3. People with high implicit prejudice and high explicit prejudice are called modern racists. They are open about their prejudice. \n4. And finally, we have aversive racists who have low explicit prejudice but high implicit prejudice. \n\nNow, think about your IAT score and your personal values about equality. Which type of prejudice describes you? For most university students, the answer is aversive racism. \n\n## Add these to your notes\n\n1. The definitions of aversive racism, modern racism, truly low prejudice, and principled conservatives\n2. Describe the circumstances under which an aversive racist will discriminate"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_aversive_quiz",
+                    "quizId": "socpsy_aversive_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_ec",
@@ -3434,6 +3456,60 @@
           ],
           "correctIndex": 1,
           "explanation": "Stereotyping involves associating attributes, such as criminal or lazy, with a group."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_aversive_quiz",
+      "title": "Aversive Racism",
+      "questions": [
+        {
+          "id": "socpsy_aversive_q1",
+          "prompt": "What is aversive racism?",
+          "answers": [
+            "Low implicit prejudice and low explicit prejudice",
+            "High explicit prejudice and low implicit prejudice",
+            "Low explicit prejudice and high implicit prejudice",
+            "High implicit prejudice and high explicit prejudice"
+          ],
+          "correctIndex": 2,
+          "explanation": "Aversive racists are people with low explicit prejudice but high implicit prejudice."
+        },
+        {
+          "id": "socpsy_aversive_q2",
+          "prompt": "What prevents aversive racists from discriminating?",
+          "answers": [
+            "A deep personal commitment to equality",
+            "Fear of legal punishment only",
+            "Strong social norms against discrimination",
+            "A lack of implicit prejudice"
+          ],
+          "correctIndex": 2,
+          "explanation": "What prevents aversive racists from discriminating is social norms, not a personal belief in equality."
+        },
+        {
+          "id": "socpsy_aversive_q3",
+          "prompt": "Which combination defines truly low prejudice?",
+          "answers": [
+            "Low implicit prejudice and low explicit prejudice",
+            "Low implicit prejudice and high explicit prejudice",
+            "High implicit prejudice and low explicit prejudice",
+            "High implicit prejudice and high explicit prejudice"
+          ],
+          "correctIndex": 0,
+          "explanation": "People with low implicit and low explicit prejudice are described as having truly low prejudice."
+        },
+        {
+          "id": "socpsy_aversive_q4",
+          "prompt": "Which defines principled conservatives?",
+          "answers": [
+            "People with low implicit and low explicit prejudice",
+            "People with low implicit prejudice but high explicit prejudice",
+            "People with high implicit and high explicit prejudice",
+            "People with high implicit prejudice but low explicit prejudice"
+          ],
+          "correctIndex": 1,
+          "explanation": "Principled conservatives as people with low implicit but high explicit prejudice, often because they oppose policies like affirmative action or desegregation."
         }
       ]
     }
