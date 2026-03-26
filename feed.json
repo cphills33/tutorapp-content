@@ -1223,7 +1223,89 @@
             {
               "id": "socpsy_abstraction",
               "title": "Abstraction Model",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_abstraction_video",
+                    "videoId": "aQFK7vNeV-8"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_abstraction_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the astraction model of stereotyping\n\n### When we say we associate an attribute with a social group, what exactly do we mean? \n\nThe abstraction, or schematic model, of stereotyping argues that \n\n> schemas we draw about social groups are a good description of how stereotypes are stored in our memory. \n\nFor each attribute associated with a social group, our mind stores \n1. a central tendency, or average, \n2. along with a standard deviation. \n\n### Let's see how this works with how we associate the attribute strong with the social group of Wonder Woman."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_abstraction_image1",
+                    "url": "https://www.dropbox.com/scl/fi/ebe3z20icayvy8psg0zz4/Image-Wonder-Women.png?rlkey=avg26qbj5710xtfj935fs7qgl&raw=1",
+                    "caption": "Three Wonder Women"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_abstraction_text2",
+                    "markdown": "You can see there are three women in this group, and each have their own strength attribute. \n\n1. The first has an average of 1802, \n2. the second has an average of 1782, \n3. and the third an average of 2888. \n\nAccording to the abstraction schematic model, our mind stores an average of 2157 strength with a standard deviation of 633 for the group Wonder Woman. \n\nIn other words, I expect Wonder Woman to be, on average, \n\n* about 2157 strong, \n* but I also expect that number to fluctuate between 1524 and 2790. \n\nAs long as each Wonder Woman I meet is in that range, then I won't be surprised. \n\n### But what happens when I meet a new Wonder Woman with a strength of 4224?"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_abstraction_image2",
+                    "url": "https://www.dropbox.com/scl/fi/mzdhkhurgju2wysqu0dof/Image-New-Wonder-Woman.png?rlkey=zaub3hfzj52jnvpfwv29fsyu7&raw=1",
+                    "caption": "A wild Wonder Woman appears!"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_abstraction_text3",
+                    "markdown": "Well, my mind updates the strength scores for the Wonder Woman category. \n\nThe new average would be 2674. \n\n> The key to this model is to understand that I don't store the individual Wonder Woman cards in my memory. \n\nI only store the stats. So in my mind, when I think of Wonder Woman, I just think of strength equal 4224. \n\n> I don't think of the four individual Wonder Woman I know. \n\nLet's try this again with another example so you can see how this model works. \n\n### Let's think about the attribute conservative and how it might be applied to Americans. \n\nLet's say in my mind I think Americans are, on average, \n\n* about 5 conservative \n* with a standard deviation of 2."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_abstraction_image3",
+                    "url": "https://www.dropbox.com/scl/fi/u3jo8cl3pl10d6gkk2ws5/Image-American-Conservatives-1.png?rlkey=153r4hr1cb2dd5x7p1d8mc711&raw=1",
+                    "caption": "American Conservative Stats"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_abstraction_text4",
+                    "markdown": "> That means I expect Americans to fall between 3 and 7 on a conservatism scale. \n\nBut let's say my brother thinks Americans are about \n\n* 6 conservative \n* with a standard deviation of 1. That means he expects Americans to fall between 5 and 7 on a conservatism scale."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_abstraction_image4",
+                    "url": "https://www.dropbox.com/scl/fi/js0nzk73sdqd9e5isvbzy/Image-American-Conservatives-2.png?rlkey=5wiecuz14yv64bpza2d683rl6&raw=1",
+                    "caption": "Less variation expected"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_abstraction_text5",
+                    "markdown": "### You can see how the standard deviation is just as important as the mean. \n\nThe standard deviation really tells us a lot about the range of values we expect. \n\nAnd over time, when I meet an American, I adjust the stat accordingly. \n\n### But think about how many Americans I know versus how many Wonder Woman I know. \n\n* I only know four Wonder Woman, so every time I meet a new Wonder Woman, her new strength score has a large impact on the average strength score I store in my head. \n* But I literally have met thousands of Americans, so every time I meet a new American, their conservatism score doesn't have much of an impact on my overall stereotyping of Americans. \n\nSo for groups I have a lot of experience with, meeting new members can only have a small impact on my stereotyping because the new information is fighting against a lifetime of data. of data. \n\n## Add these to your notes\n\n1. Describe what is stored in memory, according to the abstraction model"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_abstraction_quiz",
+                    "quizId": "socpsy_abstraction_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_exemplar",
@@ -3574,6 +3656,48 @@
           ],
           "correctIndex": 0,
           "explanation": "Olson and Fazio repeatedly showed participants pairings of Black faces and positive words."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_abstraction_quiz",
+      "title": "Abstraction Model",
+      "questions": [
+        {
+          "id": "socpsy_abstraction_q1",
+          "prompt": "What does the abstraction model of stereotyping argue?",
+          "answers": [
+            "Stereotypes are stored as vivid stories about specific group members",
+            "Schemas about social groups are a good description of how stereotypes are stored in memory",
+            "Stereotypes are stored only as emotional reactions",
+            "Stereotypes are based solely on first impressions and never updated"
+          ],
+          "correctIndex": 1,
+          "explanation": "The abstraction or schematic model argues that schemas about social groups describe how stereotypes are stored in memory."
+        },
+        {
+          "id": "socpsy_abstraction_q2",
+          "prompt": "What does the standard deviation represent in the abstraction model of stereotyping?",
+          "answers": [
+            "How much a trait can fluctuate within the expected range",
+            "How morally good or bad a group is",
+            "The mean strength of the trait",
+            "The relevance of the trait"
+          ],
+          "correctIndex": 0,
+          "explanation": "The standard deviation tells us about the range of values we expect for group members."
+        },
+        {
+          "id": "socpsy_abstraction_q3",
+          "prompt": "What happens in the abstraction model when a person encounters a new group member whose attribute falls far outside the expected range?",
+          "answers": [
+            "The mind ignores the person completely",
+            "The stored statistics for the group are updated",
+            "The stereotype is permanently deleted",
+            "The individual is stored as a separate case and never affects the schema"
+          ],
+          "correctIndex": 1,
+          "explanation": "When a new Wonder Woman with strength 4224 is encountered, the group statistics are updated and the new average changes."
         }
       ]
     }
