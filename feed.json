@@ -1196,7 +1196,29 @@
             {
               "id": "socpsy_ec",
               "title": "Evaluative Conditioning",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_ec_video",
+                    "videoId": "0SQUaBtSbbM"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_ec_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define evaluative conditioning\n- Describe how evaluative conditioning can be used to reduce prejudice\n\n### If the term evaluative conditioning reminds you of classical conditioning, then you already have some idea of how this process works. \n\nIf you've taken other psychology classes, then you know that classical conditioning refers to Pavlov's experiments in which dogs learn to associate the sound of a bell with the appearance of food. \n\n> Whenever they heard the bell, they automatically started salivating. \n\nWe can use our knowledge of automatic processes and schemas to think through how evaluative conditioning works in humans. \n\nThink of a schema about a social group.\n\nImagine associations between that group and negative concepts.\n\n> This means the social group is automatically associated with negative concepts. \n\nWhenever we think of this social group, we mostly bring to mind negative concepts, and therefore we have a negative evaluation of that group. \n\n### Evaluative conditioning works by repeatedly pairing that social group with positive concepts. \n\n* Olson and Fazio repeatedly showed participants pairings of Black faces and positive words. \n* They expected that this would change the schema participants had for Black people to include more positive concepts, which in turn should lead to a more positive evaluation of Black people. \n* And that's exactly what they found. \n\nParticipants in the experimental condition, which paired black faces with positive concepts, had less implicit prejudice than participants in a controlled condition. \n\nThis technique has been used to reduce bias against Muslims, and my own research conducted along with an honours thesis student at UNF showed that evaluative conditioning not only reduces prejudice, but also increases identification without groups. \n\nWhich is important because some types of discrimination are related to attitudes, and others are related to identity.\n\n## Add these to your notes\n\n1. The definition of evaluative conditioning"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_ec_quiz",
+                    "quizId": "socpsy_ec_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_abstraction",
@@ -3434,7 +3456,7 @@
           "explanation": "Discrimination is unequal treatment of a group"
         },
         {
-          "id": "socpsy_welcome4_q9",
+          "id": "socpsy_welcome4_q6",
           "prompt": "Which statement best fits the definition of prejudice?",
           "answers": [
             "I do not like members of that group",
@@ -3446,7 +3468,7 @@
           "explanation": "Prejudice means not liking a group, or negatively evaluating it."
         },
         {
-          "id": "socpsy_welcome4_q10",
+          "id": "socpsy_welcome4_q7",
           "prompt": "If someone associates a group with being criminal or lazy what form of bias is the source describing?",
           "answers": [
             "Discrimination",
@@ -3510,6 +3532,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Principled conservatives as people with low implicit but high explicit prejudice, often because they oppose policies like affirmative action or desegregation."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_ec_quiz",
+      "title": "Evaluative Conditioning",
+      "questions": [
+        {
+          "id": "socpsy_ec_q1",
+          "prompt": "What is evaluative conditioning?",
+          "answers": [
+            "A process of arguing people out of their stereotypes",
+            "A process of repeatedly pairing a social group with positive concepts to change evaluations",
+            "A method for measuring explicit attitudes only",
+            "A way of increasing discrimination through competition"
+          ],
+          "correctIndex": 1,
+          "explanation": "Evaluative conditioning works by repeatedly pairing a social group with positive concepts so the group becomes associated with more positive ideas. Of course, it could also work the other way by repeatedly pairing a group with negative concepts"
+        },
+        {
+          "id": "socpsy_ec_q2",
+          "prompt": "What happens when a social group is automatically associated with negative concepts?",
+          "answers": [
+            "People forget the group entirely",
+            "The group is evaluated more positively",
+            "The group becomes automatically associated with neutral ideas",
+            "The group is evaluated negatively"
+          ],
+          "correctIndex": 3,
+          "explanation": "When a group is associated with negative concepts, thinking of the group brings negative ideas to mind and produces a negative evaluation."
+        },
+        {
+          "id": "socpsy_ec_q3",
+          "prompt": "What did Olson and Fazio repeatedly pair in their evaluative conditioning study?",
+          "answers": [
+            "Black faces and positive words",
+            "Muslim faces and negative words",
+            "White faces and neutral words",
+            "Black faces and punishment cues"
+          ],
+          "correctIndex": 0,
+          "explanation": "Olson and Fazio repeatedly showed participants pairings of Black faces and positive words."
         }
       ]
     }
