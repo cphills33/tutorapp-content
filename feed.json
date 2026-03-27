@@ -1690,7 +1690,29 @@
             {
               "id": "socpsy_perspective",
               "title": "Perspective Taking",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_perspective_video",
+                    "videoId": "v1n7BCXTfNI"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_perspective_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe how perspective-taking can be used to reduce bias\n\n### Remember, discrimination is defined in this class as any unequal treatment based on group membership. \n\nThat can range from \n* very troubling acts like writing medical prescriptions based on race, \n* to physical violence like in the Robbers' Cave experiment, \n* or, as we've talked about on previous pages, non-verbal behaviors that contribute to self-fulfilling prophecies. \n\nFor example, \n\n1. interviewers sitting farther away from black job candidates because they think the black job applicants are less qualified, \n2. which leads to less smooth interactions and \n3. therefore worse interview performance. \n\n### The type of discrimination we'll be talking about in this video is a non-verbal behavior called approach behaviors. \n\n> These include things like arm movements designed to pull people towards yourself and sitting closer to black people. \n\nResearch by Todd and colleagues from 2011 used perspective taking to reduce this type of discrimination. \n\n* Participants watched a short documentary about a day in the life of a Black person named Glenn. \n* Participants in the perspective taking condition were told to spend five minutes writing about Glenn by visualizing clearly and vividly what he might be thinking, feeling, and experiencing as he goes through the various activities depicted in the documentary. This should be a good method of getting participants to put themselves in Glenn's shoes. \n* Participants in the control condition were told to remain objective and emotionally detached while they wrote about Glenn's day. This should prevent participants from putting themselves in Glenn's shoes. \n\n> The researchers found that perspective taking increases tendencies to approach Black people measured via arm movements. \n\nIn other words, participants were quicker to pull photos of Black people toward themselves after perspective taking. \n\n### It is also important to note that perspective taking had no impact on tendencies to approach whites. \n\n* In another study, participants were asked to help a Confederate practice for an interview. \n* The participants were asked to set up two chairs for the interview. \n* The distance between the chairs represents how close participants intended to sit to their partner during the interview. \n* Researchers measured this distance with a tape measure. \n* Participants in the perspective taking condition set the chairs closer to one another when they believed the person they were helping with the interview was Black. \n* But perspective taking had no impact on how close participants intended to sit to a white interviewee. \n\n### So, though discrimination can seem overwhelming, there are some simple things we can do to reduce it, including just putting in the effort to take the perspective of others. \n\n## Add these to your notes\n\n1. Describe two types of approach behaviors\n2. Describe how perspective-taking reduces bias"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_perspective_quiz",
+                    "quizId": "socpsy_perspective_quiz"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -4303,6 +4325,24 @@
           ],
           "correctIndex": 1,
           "explanation": "This stereotype leads white doctors to believe Black people feel less pain, so Black patients are prescribed less pain medication and receive less accurate treatment."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_perspective_quiz",
+      "title": "Perspective-Taking",
+      "questions": [
+        {
+          "id": "socpsy_perspective_q1",
+          "prompt": "Which pair of behaviors represent approach behaviors?",
+          "answers": [
+            "Crossing the street and avoiding eye contact",
+            "Writing prescriptions and making referrals",
+            "Arm movements that pull people toward yourself and sitting closer to Black people",
+            "Arguing and interrupting during interviews"
+          ],
+          "correctIndex": 2,
+          "explanation": "Pulling people toward yourself and sitting closer are both examples of approach behaviors. Crossing the street is an avoidance behavior. Making eye contact is an approach behavior, arguably, but avoiding it is an avoidance behavior."
         }
       ]
     }
