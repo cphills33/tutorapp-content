@@ -1621,7 +1621,44 @@
             {
               "id": "socpsy_sit",
               "title": "Social Identity Theory",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_sit_video",
+                    "videoId": "f4vRht7gPcw"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_sit_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- State the minimum requirements for discrimination\n- Define Social Identity theory and its main principles\n\n### I have a little class announcement.\n\nI was able to run your submissions to the first few discussion boards through a personality analyzer.\n\n> And our class was categorized as what's known as overestimators.\n\n> I can also tell you that the other online social classes were categorized as underestimators.\n\nIn the future, we'll talk a bit more about what those categories mean.\n\n### But for now, take a look at these two paintings."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_sit_image",
+                    "url": "https://www.dropbox.com/scl/fi/1ak4nxbah7x1h6vungroa/Image-Paintings.png?rlkey=0sbezqnqo2qwbgs8bwn5kcmk4&st=8y1zbxfp&raw=1",
+                    "caption": "Joe's preferred painting is of a farm; Jack's preferred painting is of a window"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_sit_text2",
+                    "markdown": "* Joe is an overestimator, just like the students in this class, and he likes painting A.\n* Jack is an underestimator, like the students in the other classes, and he likes painting B.\n\nNow I want you to imagine you've just been given $15 to distribute between Joe and Jack.\n\n### How do you do it?\n\n* Do you give more money to Joe or to Jack?\n\n### Social identity theory \n\nargues that people still show prejudice and discrimination,\n\n* even if the groups in question are completely arbitrary.\n* Even if they personally never receive any benefit from discrimination, and\n* even if they've never met any other members of the arbitrary group.\n\n### In other words, \n\ncontrary to what *realistic conflict theory* argues, \n\n> discrimination doesn't require competition over scarce resources.\n\n### It's enough just to perceive yourself as a member of a group.\n\nSimilar to the s*elf-serving bias* and *ultimate attribution error* discussed in\nprevious modules, social identity theory argues that we can categorize people,\nincluding ourselves, into groups, and we identify with our in-group.\n\nWe compare our in-group to out-groups, and what we want to see is that our in-group is better, and our in-group is unique or special.\n\nWe want to see our in-group as positive, of course, but that's not enough.\n\nWe also want to see our group as distinct.\n\nSo in social identity theory, prejudice and discrimination is not just about derogating out-groups.\n\nThey're also about building up our in-group.\n\n## Add these to your notes\n\n1. Describe Social Identity Theory and its main principles\n2. The minimum requirements for discrimination"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_sit_quiz",
+                    "quizId": "socpsy_sit_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_medical",
@@ -4184,6 +4221,36 @@
           ],
           "correctIndex": 0,
           "explanation": "Symbolic threats are perceptions that another group threatens our core values or our way of life."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_sit_quiz",
+      "title": "Social Identity Theory",
+      "questions": [
+        {
+          "id": "socpsy_sit_q1",
+          "prompt": "What is the minimum requirement for discrimination under Social Identity Theory?",
+          "answers": [
+            "Competition over scarce resources",
+            "A long history of conflict between groups",
+            "Simply perceiving yourself as a member of a group",
+            "Direct personal benefit from discriminating"
+          ],
+          "correctIndex": 2,
+          "explanation": "Discrimination does not require competition or personal gain. It is enough just to perceive yourself as a member of a group."
+        },
+        {
+          "id": "socpsy_sit_q2",
+          "prompt": "Which statement best matches Social Identity Theory?",
+          "answers": [
+            "Discrimination requires direct competition over limited resources",
+            "Discrimination requires clear physical differences between groups",
+            "People can discriminate even without personal benefit or prior contact with group members",
+            "People discriminate only when they consciously hate an out-group"
+          ],
+          "correctIndex": 2,
+          "explanation": "Discrimination can occur even without personal benefit and even if people have never met other members of the other group."
         }
       ]
     }
