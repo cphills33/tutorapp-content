@@ -1663,7 +1663,29 @@
             {
               "id": "socpsy_medical",
               "title": "Medical Discrimination",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_medical_video",
+                    "videoId": "PxNjCb51g4k"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_medical_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe how aversive racism plays a role in how doctors treat Black patients\n- Describe the types of discrimination Black people face when interacting with their own doctors\n\n### I hope you've all had a chance to watch Luke Cage on Netflix. \n\nCage is a Black superhero who seems to have super strength and extremely thick skin. \n\nFor someone like me who studies stereotyping, it's so interesting that two of the powers Marvel gave Luke Cage were \n\n* increased strength and \n* thicker skin. \n\n> Both are stereotypes about Black people. \n\nMost people will list strong or athletic as stereotypes of Black people when you ask them, \n\n### But did you know \n\nthat if you ask people to compare how thick the skin of Black people and white people is, they tend to report that Black people have thicker skin? \n\n### Kind of a weird stereotype, \n\nbut it starts having more sinister implications when you think about medical professionals believing this. \n\nPersonally, I found it quite surprising when I read a study which reported that \n\n> half of white medical students and residents literally believe that Black people have thicker skin. \n\n### What are the consequences of a medical professional believing something so ridiculous? \n\n1. One implication is that white medical doctors believe Black people feel less pain and therefore are prescribed less pain medication and in general receive less accurate medical treatments. \n\n> In fact, at the implicit level, white people associate Black people with words related to superhumans or superheroes. \n\nResearchers found implicit associations between Black people and the words \n\n* ghost, \n* paranormal, \n* spirit, \n* wizard, \n* supernatural, \n* magic, \n* and mystical. \n\n### In addition, measured explicitly, \n\nwhite participants are more likely to believe Black people can do magical things like suppress hunger and thirst. \n\nWell, maybe you may be thinking to yourself, your run-of-the-mill family doctor believes these types of ridiculous stereotypes and discriminates against Black people in their diagnoses and prescriptions, \n\n### but this type of thing can't happen when it comes to something as serious as cancer, right? \n\nIn a study of 18 oncologists, they took the race IAT and then their sessions with 112 new Black patients were recorded. Higher implicit bias was related to \n\n* shorter interactions, \n* less patient-centered and supportive communication, \n* and patients having trouble remembering the contents of the session. \n\n> And perhaps most importantly, patients had less confidence in the recommended treatments when the doctor was high in implicit prejudice. \n\nAnd that last point is extremely important. \n\nIf patients don't trust their doctors, it can be part of a self-fulfilling prophecy wherein doctors expect Black patients to be less likely to adhere to their recommendations, and as a result, they spend less time and are less supportive with their Black patients, and then the Black patients pick up on this, and they are less trusting of the doctor and therefore actually are less likely to adhere to the doctor's recommendations. \n\n### So I think there are a couple of points to make. \n\n1. One, don't fall into the trap of thinking only uneducated people are prejudiced. Remember, doctors regularly discriminate against Black people even when it comes to life-and-death situations like cancer. \n2. Two, if you're Black, you really should consider finding a Black doctor *if you can*. Researchers found that all doctors except Black doctors show implicit preference for whites. Black doctors do not have a preference for whites or Blacks. \n\n## Add these to your notes\n\n1. Describe how a self-fulfilling prophecy can lead to poor interactions between doctors and Black patients\n2. Describe how stereotypes about Black people can lead to discrimination by medical doctors"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_medical_quiz",
+                    "quizId": "socpsy_medical_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_perspective",
@@ -4251,6 +4273,36 @@
           ],
           "correctIndex": 2,
           "explanation": "Discrimination can occur even without personal benefit and even if people have never met other members of the other group."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_medical_quiz",
+      "title": "Medical Discrimination",
+      "questions": [
+        {
+          "id": "socpsy_medical_q1",
+          "prompt": "What racist belief do approximately half  of white medical students hold?",
+          "answers": [
+            "That Black patients are less likely to get cancer",
+            "That Black people have thicker skin than white people",
+            "That Black patients prefer shorter appointments",
+            "That Black patients trust doctors more than white patients"
+          ],
+          "correctIndex": 1,
+          "explanation": "About half of white medical students and residents literally believe that Black people have thicker skin."
+        },
+        {
+          "id": "socpsy_medical_q2",
+          "prompt": "What medical consequences are tied to the stereotype that Black people have thicker skin?",
+          "answers": [
+            "Black patients are prescribed more pain medication",
+            "Black patients are believed to feel less pain",
+            "Black patients are more likely to be referred to specialists",
+            "Black patients are assumed to heal more quickly"
+          ],
+          "correctIndex": 1,
+          "explanation": "This stereotype leads white doctors to believe Black people feel less pain, so Black patients are prescribed less pain medication and receive less accurate treatment."
         }
       ]
     }
