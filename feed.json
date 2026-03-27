@@ -1578,7 +1578,45 @@
             {
               "id": "socpsy_realistic",
               "title": "Realistic Conflict",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_realistic_video",
+                    "videoId": "JALO2TrM6DQ"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_realistic_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define realistic and symbolic threats\n- Describe the Robbers Cave experiment\n\n### What does it take for there to be conflict between groups? \n\nDoes it take \n\n* a lot of provocation \n* or a little? \n\n### What are the absolute minimum requirements for group conflict? \n\n* Do you need physical differences between groups? \n* Do you need a real history of conflict between the groups? \n* Is it enough just to have some groups, \n* or do you need to also have some sort of competition? \n\nThese are some of the questions that the classic Robber's Cave experiment conducted in 1954 by Sharif provides some answers to. \n\n* The participants in the study were 22 boys. \n* They arrived at the camp believing that there were only 11 boys at the camp though. \n* You see, the boys have been divided into two groups, but they didn't know the other group existed. \n\n\n1. So during this initial stage, the boys formed friendships by completing camp activities like hiking and swimming without any knowledge that there was another group. \n\n> In fact, the boys forged group identities by giving themselves names. \n\nThe Eagles and the Rattlers, and creating flags and t-shirts that represented their group. \n\n2. During the next stage of the experiment, competition between the groups was introduced. \n\n> The boys competed against one another in games to earn, to win rewards, and it was clear that only one group would get a reward. There was no second place prize. \n\nThis represents what is called a *realistic threat*. \n\n> The concern that another group will harm our health, take our group's resources, or our group's territories. \n\nThis led to conflict between the two groups. \n\nThe conflict ranged from verbal insults to ransacking cabins. \n\nAt one point, researchers had to physically separate the boys. \n\n3. Finally, conflict was reduced by having the two groups of boys cooperate with one another towards superordinate goals. \n\nFor example, at one point the researchers contrived to have a truck break down and arrange things so that only with the combined help of all the boys from both groups could it be pushed down the road. \n\n*Intergroup cooperation* like this reduced hostilities between the two groups of boys. \n\n### To sum up, \n\nrealistic threats are perceptions that another group threatens our \n1. health, \n2. resources, \n3. or territories. \n\nRealistic threats, like the competitions between boys at Robber's Cave, led to conflict between the groups. \n\nBut those conflicts can be reduced through intergroup cooperation and the adoption of superordinate goals. \n\n### But I want to introduce the idea of another type of threat. \n\n> Symbolic threat. \n\nSymbolic threats are *perceptions* that another group threatens our core values or our way of life. \n\nSo not all group conflict is rooted in competition or realistic threats. \n\nInstead, *quite often*, group conflict is rooted in symbolic threats. \n\nA good example of this is opposition to equal marriage. \n\n> Equal marriage does not pose a realistic threat to any group. \n\nMarriage is not a limited resource that groups can compete over. \n\nMore marriages just means there are more marriages. \n\nYet, some people are strongly opposed to equal marriage. \n\nThis is because they see it as a symbolic threat, as a threat to their core values or way of life.\n\n## Add these to your notes\n\n1. The definitions of realistic and symbolic threat\n2. Describe the three stages of the Robbers Cave Experiments"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_realistic_def1",
+                    "url": "https://www.dropbox.com/scl/fi/dw8ts4csmzrpcpru5f0gt/Definition-Realistic-Threat.png?rlkey=pah3nb0kmmah49teg2z4mb36y&st=y0t9lr4h&raw=1",
+                    "caption": "Realistic Threat: The concern that another group will harm our health, take our group's resources, or territories"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_realistic_def2",
+                    "url": "https://www.dropbox.com/scl/fi/e8umilgs2d81viy9em96h/Definition-Symbolic-Threat.png?rlkey=xk8ta5j0pe3r4jojwm4vmrvxk&st=aqbmo4ji&raw=1",
+                    "caption": "Symbolic Threat: Perceptions that another group threatens our core values or our way of life"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_realistic_quiz",
+                    "quizId": "socpsy_realistic_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_sit",
@@ -4092,6 +4130,60 @@
           ],
           "correctIndex": 1,
           "explanation": "Correction processes are attempts to control for influence and reset beliefs to what people think they would believe if they had not been influenced."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_realistic_quiz",
+      "title": "Realistic Conflict Theory",
+      "questions": [
+        {
+          "id": "socpsy_realistic_q1",
+          "prompt": "What does the Robbers Cave experiment suggest is enough to create conflict between groups?",
+          "answers": [
+            "Competition between groups over rewards or resources",
+            "Physical differences between groups only",
+            "A long history of hatred between groups",
+            "Different religious beliefs in each group"
+          ],
+          "correctIndex": 0,
+          "explanation": "Robbers Cave shows that competition between groups can generate conflict even without a prior history of conflict."
+        },
+        {
+          "id": "socpsy_realistic_q2",
+          "prompt": "What was introduced during the second stage of the Robbers Cave experiment?",
+          "answers": [
+            "A shared superordinate goal",
+            "Competition for rewards in which only one group could win",
+            "A lecture about prejudice reduction",
+            "A chance for the boys to switch groups"
+          ],
+          "correctIndex": 1,
+          "explanation": "Competition was introduced in the second stage, with games and rewards where only one group would receive the prize."
+        },
+        {
+          "id": "socpsy_realistic_q3",
+          "prompt": "What is a realistic threat?",
+          "answers": [
+            "Another group threatens our health resources or territories",
+            "A perception that another group threatens  our health resources or territories",
+            "A fear that another group is physically different from us",
+            "A belief that another group has better leadership"
+          ],
+          "correctIndex": 0,
+          "explanation": "Realistic Threats are threats that another group will harm our health or take our resources or territories."
+        },
+        {
+          "id": "socpsy_realistic_q4",
+          "prompt": "What is a symbolic threat?",
+          "answers": [
+            "A perception that another group threatens our core values or way of life",
+            "A perception that another group will take our territory",
+            "A fear that another group is physically dangerous",
+            "A concern that another group has more money than we do"
+          ],
+          "correctIndex": 0,
+          "explanation": "Symbolic threats are perceptions that another group threatens our core values or our way of life."
         }
       ]
     }
