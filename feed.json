@@ -1839,12 +1839,57 @@
               ]
             },
             {
-              "id": "socpsy_Mimicry",
+              "id": "socpsy_mimicry",
               "title": "Mimicry",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_mimicry_video",
+                    "videoId": "QtDNjsdf468"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_mimicry_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define the chameleon effect\n\n### Have you ever been talking to someone and you notice that they have their arms crossed, and then you have a moment of self-awareness and realize that you also have your arms crossed? \n\nOr maybe the person you're talking to leans back in their chair and then you notice yourself doing the same thing? \n\nOr maybe you lean forward without thinking too much about it, and then the person you're speaking with leans in as well a few moments later? \n\n### This is called the Chameleon Effect. \n\n> It's the non-conscious mimicry of the postures, mannerisms, and facial expressions of one's interaction partner. \n\nOften it happens without us intending or being aware that it's happening. \n\nCheck out this photo of a group of people all mimicking one another's hand positions."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_mimicry_image",
+                    "url": "https://www.dropbox.com/scl/fi/ka0uxt10hw2105mj4lnen/Image-Mimickers.pdf?rlkey=f7yekb2zvea4m6v3ih3lfsmpr&raw=1",
+                    "caption": "Mimickers!"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_mimicry_text2",
+                    "markdown": "You can see that they are all mimicking the person on the left of the photo. \n\nThe reason I know that is these are some of the people who developed the Elaboration Likelihood Model, and the person on the left is the leader of the lab. \n\nThe other people are his students, and they all want their supervisor to like them. \n\n### It turns out that non-conscious mimicry is a good way to get people to like us. \n\nWe not only mimic people in this way more if we like them, but we like people more that mimic us. \n\nPart of the reason for this is that we like ourselves and things connected to us. \n\nIf someone is behaving subtly and the exact way we are, we tend to like that person a little more. \n\n### In fact, non-conscious mimicry like this creates rapport and leads to smoother interactions. \n\nSo non-conscious mimicry is another tool we use to fit in and be liked, along with adhering to social norms. \n\n> Unfortunately, research has also shown that we mimic people less that are stigmatized in some way. \n\nIn one study, participants mimicked a person with a facial birthmark less than people without a facial birthmark. \n\nTry to imagine the long-term impact of not mimicking people who are different in some way. \n\nOver time, these small behaviors, or lack of small behaviors, will lead to less liking and rapport between people who see themselves as different.\n\n## Add these to your notes\n\n1. Define the chameleon effect\n2. Describe why people mimic one another"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_mimicry_image2",
+                    "url": "https://www.dropbox.com/scl/fi/ths76tu82fjvr0x1lhc4z/Definition-Chameleon-Effect.png?rlkey=3wswp2dgp0vswab65up8s085e&raw=1",
+                    "caption": "Chameleon Effect: The nonconscious mimicry of the postures, mannerisms, and facial expressions of one's interaction partner"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_mimicry_quiz",
+                    "quizId": "socpsy_mimicry_quiz"
+                  }
+                }
+              ]
             },
             {
-              "id": "socpsy_Deindividuation",
+              "id": "socpsy_deindividuation",
               "title": "Deindividuation",
               "blocks": []
             },
@@ -4612,6 +4657,36 @@
           ],
           "correctIndex": 1,
           "explanation": "Acceptance is conformity that involves both acting and believing in accord with social pressure."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_mimicry_quiz",
+      "title": "Mimicry",
+      "questions": [
+        {
+          "id": "socpsy_mimicry_q1",
+          "prompt": "What is the chameleon effect?",
+          "answers": [
+            "The deliberate imitation of another person's words during a debate",
+            "The non-conscious mimicry of the postures mannerisms and facial expressions of one's interaction partner",
+            "A tendency to change opinions when others disagree",
+            "The conscious use of social norms to avoid punishment"
+          ],
+          "correctIndex": 1,
+          "explanation": "The chameleon effect is the non-conscious mimicry of the postures, mannerisms, and facial expressions of one's interaction partner."
+        },
+        {
+          "id": "socpsy_mimicry_q2",
+          "prompt": "What is one reason people mimic others non-consciously?",
+          "answers": [
+            "Because mimicry is a good way to get people to like us",
+            "Because mimicry improves memory for conversations",
+            "Because mimicry eliminates status differences",
+            "Because mimicry makes people appear more intelligent"
+          ],
+          "correctIndex": 0,
+          "explanation": "Non-conscious mimicry is a good way to get people to like us."
         }
       ]
     }
