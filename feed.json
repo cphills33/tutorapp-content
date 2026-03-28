@@ -1953,7 +1953,29 @@
             {
               "id": "socpsy_think",
               "title": "Group Think",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_think_video",
+                    "videoId": "8LtljFo8hxs"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_think_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define groupthink\n- state the signs that a group has fallen victim to groupthink\n\n### They say two heads are better than one. \n\nBut when it comes to decision-making in groups, more heads isn't always better. \n\n> Groupthink is defined as \"a kind of thinking in which maintaining group cohesiveness and solidarity is more important than considering the facts in a realistic manner.\" \n\nGroupthink occurs when groups \n* are cohesive \n* and desirable \n* and are relatively isolated from dissenting viewpoints, \n* when they have a directive leader who signals a favored decision, \n* when a situation is high stress, \n* and when they use poor decision-making procedures. \n\n### There are some clues you can watch out for to tell if you're ever in a group that has fallen victim to groupthink. \n\n1. One, there is an illusion of invulnerability. *This plan can't go wrong*.  \n2. Two, there is an unquestioned belief in the group's morality. *We're in the right*.\n3. Three, there's a stereotyped view of the opponent. *They're too dumb*. \n4. Four, there's conformity pressure. People often don't want to argue until they pressure dissenters to just go along with everything. \n5. Five, there's self-censorship. You may notice yourself not speaking up about things because you feel like the group has already made a decision, or you just don't want to fit in, or you just want to fit in. \n6. Six, there's the illusion of unanimity. \n7. Groupthink results in defective decision-making because there is an incomplete survey of alternatives. \n8. There's a failure to examine the risk of the favoured alternative.\n9. There's a poor information search.  \n10. A failure to develop contingency plans. Not having a plan B is often a big indicator that groupthink has taken hold, because the existence of a plan B indicates that the group is seriously considered the possibility of failure, and also seriously considered alternative plans. \n\n> You can prevent groupthink by having a leader that is impartial. \n\n## Add these to your notes\n\n1. Define group polorization\n2. List the signs a group has fallen victim to groupthink"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_think_quiz",
+                    "quizId": "socpsy_think_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_leader",
@@ -4799,6 +4821,24 @@
           ],
           "correctIndex": 1,
           "explanation": "While people make their strongest case to persuade others, they also end up convincing themselves."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_think_quiz",
+      "title": "Groupthink",
+      "questions": [
+        {
+          "id": "socpsy_think_q1",
+          "prompt": "What is groupthink?",
+          "answers": [
+            "A kind of thinking in which maintaining group cohesiveness becomes more important than realistically considering the facts",
+            "A tendency for group members to mimic one another's posture",
+            "A process in which groups become more moderate after discussion",
+            "A method of solving problems by dividing labor efficiently"
+          ],
+          "correctIndex": 0,
+          "explanation": "Groupthink is a kind of thinking in which maintaining group cohesiveness and solidarity matters more than considering the facts realistically."
         }
       ]
     }
