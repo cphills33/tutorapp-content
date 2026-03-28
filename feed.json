@@ -1758,7 +1758,7 @@
                   "type": "image",
                   "payload": {
                     "id": "socpsy_welcome5_image3",
-                    "url": "https://www.dropbox.com/scl/fi/43n2csgmi8jvu00d1aebd/Definition-Social-Facilitation.png?rlkey=uig4njn27kwv6gp05c3zgj7qy&st=mfv745ms&dl=0",
+                    "url": "https://www.dropbox.com/scl/fi/43n2csgmi8jvu00d1aebd/Definition-Social-Facilitation.png?rlkey=uig4njn27kwv6gp05c3zgj7qy&st=mfv745ms&raw=1",
                     "caption": "Social Facilitation: The tendency for people to do better on simple tasks and worse on complex tasks, when they are in the presence of others"
                   }
                 },
@@ -1774,7 +1774,69 @@
             {
               "id": "socpsy_norms",
               "title": "Social Norms",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_norms_video",
+                    "videoId": "GSrvonwcBOs"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_norms_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define informational and normative social influence\n\n### Social norms are related to peer pressure. \n\n> Social norms are the implicit or explicit rules a group has for the acceptable behaviors, values, and beliefs of its members. \n\nIn other words, social norms tell us how to behave in order to fit in with the group, which is another way of saying that social norms cause us to conform or change our behavior in response to group pressure. \n\nSo how do we know what these norms are? \n\n* Are they written down somewhere? \n* Does someone tell us? \n\n> Sometimes yes. \n\nSometimes people literally tell us the social norms. \n\n> These are known as explicit social norms. \n\nHere are some examples of explicit social norms from the movie *Mean Girls*. \n\n1. On Wednesdays we wear pink. \n2. You can only wear a ponytail one day a week. \n3. Only wear jeans or track pants on Friday. \n4. Can't wear a tank top two days in a row. \n5. And ex-boyfriends are off-limits to friends. \n6. If you break any of these rules, you can't sit with us for lunch. \n\nOther examples of explicit social norms are situations in which \n\n* someone tells you which fork to eat with, \n* or to take your hat off inside, \n* or to put your hand over your heart during the national anthem. \n\nBut there can also be *implicit social norms*. \n\n### Regardless of whether a social norm is implicit or explicit, it can lead to conformity. \n\nBut as you may have already guessed, it doesn't always lead to what is called *private acceptance*, or a genuine attitude change. \n\nSometimes it only leads to what is called *public compliance*. \n\n> This is what happens when you publicly act in compliance with the social norms, but privately you disagree with them. \n\nYou are essentially going along to get along, or doing as the Romans do when in Rome. \n\n### In general, peer pressure like this is called normative social influence. \n\n> This is the influence of other people that leads us to conform in order to be liked and accepted by them. \n\nThis type of conformity results in public compliance with the group's beliefs and behaviors, but not necessarily in private acceptance. \n\n### However, informational social influence usually does result in private acceptance or actual attitude change. \n\nThink of the autokinetic study. \n\n* Here, participants are trying to estimate how far a dot moves, and it's hard to tell. \n* There's a lot of ambiguity about just how far that dot is moving. \n* Because of this, participants feel uncertain about their estimate, and they look to others to figure out what the correct answer is. \n\n### Informational social influence is conforming because we believe others' interpretation of an ambiguous situation is more correct than ours, and they will help us choose an appropriate course of action. \n\nThis is also a good general observation about humans. \n\nWhen we don't know what to do, we look around at everyone else to see what we should be doing. \n\nIn the case of the moving dots and other ambiguous situations, what we see other people doing has a real change on our attitudes. \n\n> This is called acceptance, conformity that involves both acting and believing in accord with social pressure. \n\nWe conform because we think this is the right way to act in this situation. This is likely to happen in a situation that is ambiguous, like a fire alarm. \n\nIf we were in a building we are unfamiliar with, we will look around to see what the appropriate action is. \n\n* Is everyone ignoring it? \n* Is this a normal and common test? \n* Or is everyone running for the exits? \n\nWe'll do what we see everyone else doing. \n\nAlso, during any crisis, we look to others to see what we should be doing, or if there is an expert present. \n\nSo a doctor will have a large influence on us during a medical emergency, but an architect wouldn't even though they are both professionals. \n\nBut in a situation in which we know exactly what we should be doing, we don't look to others for how to behave. \n\n## Add these to your notes\n\n1. Define informational and normative social influence\n2. From the textbook (or maybe youtube) describe the autokinetic effect\n3. Define acceptance\n4. Define conformity\n5. Define social norms"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_norms_image1",
+                    "url": "https://www.dropbox.com/scl/fi/17uct67uxxxl63c66ajla/Definition-Social-Norms.png?rlkey=7dcro6ya8qq8s8ce3kzwn17px&raw=1",
+                    "caption": "Social Norms: The implicit or explicit rules a group has for the acceptable behaviors, values, and beliefs of its members"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_norms_image2",
+                    "url": "https://www.dropbox.com/scl/fi/f9yliydl1mqam3mqzzbdn/Definition-Normative-Social-Influence.png?rlkey=t5173xbg9y3dgbowjehf69brq&raw=1",
+                    "caption": "Normative Social Influence: The influence of other people that leads us to conform in order to be liked and accepted by them; this type of conformity results in public compliance with the group's beliefs and behaviors but not necessarily in private acceptance"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_norms_image3",
+                    "url": "https://www.dropbox.com/scl/fi/agcptkbllav7xw6nhff2s/Definition-Informational-Social-Influence.png?rlkey=65cj83x86ap4xc3i3zla9ga1a&raw=1",
+                    "caption": "Information Social Influence: Conforming because we believe others' interpretation of an ambiguous situation is more correct than ours and will help us choose an appropriate course of action"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_norms_image4",
+                    "url": "https://www.dropbox.com/scl/fi/cjtstnemzc0a0zj7r7w7k/Definition-Conformity.png?rlkey=tkoy8uxxg5jxtpjyvmhqgnw05&raw=1",
+                    "caption": "Conformity: A change in behavior or beliefs due to the real or imagined influence of other people"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_norms_image5",
+                    "url": "https://www.dropbox.com/scl/fi/jbfb815uzqidglwszca1m/Definition-Acceptance.png?rlkey=29ka8d4ag1bkg9ydkrhzesn19&raw=1",
+                    "caption": "Acceptance: Conformity that involves both acting and believing in accord with social pressure"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_norms_quiz",
+                    "quizId": "socpsy_norms_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_Mimicry",
@@ -4472,6 +4534,84 @@
           ],
           "correctIndex": 1,
           "explanation": "Social facilitation is doing better on simple tasks and worse on complex tasks when others are present."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_norms_quiz",
+      "title": "Social Norms",
+      "questions": [
+        {
+          "id": "socpsy_norms_q1",
+          "prompt": "What are social norms?",
+          "answers": [
+            "Formal laws enforced by the government",
+            "The implicit or explicit rules a group has for acceptable behaviors values and beliefs",
+            "Private attitudes people keep to themselves",
+            "Only the written rules used by schools and workplaces"
+          ],
+          "correctIndex": 1,
+          "explanation": "Social norms are the implicit or explicit rules a group has for the acceptable behaviors, values, and beliefs of its members."
+        },
+        {
+          "id": "socpsy_norms_q2",
+          "prompt": "What is the difference between explicit and implicit social norms?",
+          "answers": [
+            "Explicit norms are always written laws while implicit norms are moral values",
+            "Explicit norms are literally told to people while implicit norms are not necessarily stated directly",
+            "Explicit norms apply only to teenagers while implicit norms apply only to adults",
+            "Explicit norms create private acceptance while implicit norms never do"
+          ],
+          "correctIndex": 1,
+          "explanation": "Explicit social norms are sometimes literally told to us, whereas implicit norms can be implied."
+        },
+        {
+          "id": "socpsy_norms_q3",
+          "prompt": "What is public compliance?",
+          "answers": [
+            "Privately changing your attitude to match the group",
+            "Publicly acting in line with social norms while privately disagreeing",
+            "Ignoring all group pressure",
+            "Following social norms only when they are written down"
+          ],
+          "correctIndex": 1,
+          "explanation": "Public compliance is publicly acting in compliance with social norms while privately disagreeing."
+        },
+        {
+          "id": "socpsy_norms_q4",
+          "prompt": "What is normative social influence?",
+          "answers": [
+            "Conforming because others are experts in an ambiguous situation",
+            "The influence of other people that leads us to conform in order to be liked and accepted",
+            "Conforming because rules are legally enforced",
+            "The influence of others that always produces private acceptance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Normative social influence is the influence of other people that leads us to conform in order to be liked and accepted by them."
+        },
+        {
+          "id": "socpsy_norms_q5",
+          "prompt": "What is informational social influence?",
+          "answers": [
+            "Conforming because we want to be liked by others",
+            "Conforming because we believe others' interpretation of an ambiguous situation is more correct than ours",
+            "Conforming only when a rule is explicit",
+            "Rejecting social pressure in order to maintain independence"
+          ],
+          "correctIndex": 1,
+          "explanation": "Informational social influence is conforming because we believe others' interpretation of an ambiguous situation is more correct than ours and will help guide action."
+        },
+        {
+          "id": "socpsy_norms_q6",
+          "prompt": "What is acceptance?",
+          "answers": [
+            "Conformity that involves only public behavior",
+            "Conformity that involves both acting and believing in accord with social pressure",
+            "The decision to ignore group influence",
+            "Changing behavior only to avoid punishment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Acceptance is conformity that involves both acting and believing in accord with social pressure."
         }
       ]
     }
