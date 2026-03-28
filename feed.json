@@ -1926,7 +1926,29 @@
             {
               "id": "socpsy_polar",
               "title": "Group Polarization",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_polar_video",
+                    "videoId": "rE9e6sg2SKc"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_polar_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define group polarization\n\n### Imagine 12 jurors. \n\nHow do they reach verdict? \n\n### Imagine meeting at your workplace. \n\nHow do decisions get made there? \n\n### Part of what happens \n\nin most of these group situations is people take turns arguing for one decision or another. \n\n* Some people may argue in favor of decision A. \n* Others may argue in favor of decision B. \n\n* When I teach this course in person, one of my favorite activities is to have students break into groups and read the following passage. \n\n> Jane is slowly going blind in one eye. Jane has spoken with a doctor who says that a new surgery exists which may prevent this blindness. There is a chance, however, that by manipulating the optic nerve, the surgery may result in complete blindness in both eyes. Jane must decide whether it would be best to settle for blindness in one eye, or whether she should try the surgery, which would prevent this from occurring, but which might result in total blindness. Imagine you are advising Jane - what is the lowest probability you would consider acceptable for surgery to be attempted? One out of ten, two out of ten, three out of ten, four out of ten, five out of ten, six, seven, eight, nine or ten out of ten. \n\nThis activity can take a little bit of time to complete because I force each group to continue debating amongst themselves until they reach a consensus. \n\nWhat's interesting is that before everyone gets into their groups, they write down their own personal answer and hand that in to me. \n\nAnd while the groups are debating, I calculate the mean of their responses and inevitably, when the groups have finally reached consensus, their answer is more extreme than the average of all their individual responses put together. \n\n* For example, if the individual members of a group have an average answer of seven out of ten, then the group tends to come back with eight, nine or ten out of ten. \n* But if the individual members of a group have an average answer of three out of ten, then the group tends to come back with one or two out of ten as their consensus answer. \n\n### Why do you think that is? \n\nPart of the reason is what happens during those group discussions. \n\nRemember, everyone is making their strongest case in favor of their position. \n\nAnd perhaps unexpectedly, instead of just convincing others, they end up convincing themselves as well. \n\n* Perhaps I as an individual start out at seven out of ten, but then I come up with a strong argument in favor of my position, and now I'm actually a nine out of ten. \n* And I hear other people making strong arguments and soon the whole group has shifted their attitude. \n\n> Group polarization has occurred. \n\nGroup polarization strengthens the average tendency of a group, so groups are either more risky or more cautious than the individuals in the group. \n\nThe other reason group polarization takes place is social comparison. \n\n> Individuals spontaneously compare themselves to others, and if they find a difference, they move toward the group's view. \n\nWe try to discover the group norm and then take a view that exceeds this norm so that we can present ourselves as really good members of this group. \n\n### So remember, group discussions don't lead to moderation. \n\nThey lead to extremity, either more risky or more cautious decisions. \n\n## Add these to your notes\n\n1. Define group polorization"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_polar_quiz",
+                    "quizId": "socpsy_polar_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_think",
@@ -4747,6 +4769,36 @@
           ],
           "correctIndex": 1,
           "explanation": "Deindividuation is more likely to happen the larger the group, and the Toronto example also involved physical anonymity."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_polar_quiz",
+      "title": "Group Polarization",
+      "questions": [
+        {
+          "id": "socpsy_polar_q1",
+          "prompt": "What is group polarization?",
+          "answers": [
+            "A tendency for groups to compromise at the midpoint",
+            "A strengthening of a group's average tendency so the group becomes more extreme in a risky or cautious direction",
+            "A process in which groups always become riskier",
+            "A tendency for groups to split evenly between two options"
+          ],
+          "correctIndex": 1,
+          "explanation": "Group polarization strengthens the average tendency of a group, making it more risky or more cautious than the individual members."
+        },
+        {
+          "id": "socpsy_polar_q2",
+          "prompt": "What is one reason for why group polarization occurs during discussion?",
+          "answers": [
+            "People stop caring about their own position",
+            "People make strong arguments for their own position and end up convincing themselves further",
+            "People forget what their initial position was",
+            "People avoid speaking in favor of their own view"
+          ],
+          "correctIndex": 1,
+          "explanation": "While people make their strongest case to persuade others, they also end up convincing themselves."
         }
       ]
     }
