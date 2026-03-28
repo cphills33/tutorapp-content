@@ -1860,7 +1860,7 @@
                   "type": "image",
                   "payload": {
                     "id": "socpsy_mimicry_image",
-                    "url": "https://www.dropbox.com/scl/fi/ka0uxt10hw2105mj4lnen/Image-Mimickers.pdf?rlkey=f7yekb2zvea4m6v3ih3lfsmpr&raw=1",
+                    "url": "https://www.dropbox.com/scl/fi/1mk4bkommlrxkk222460l/Image-Mimickers.png?rlkey=p3h1a1kgt77xmdgbul5oiaohe&raw=1",
                     "caption": "Mimickers!"
                   }
                 },
@@ -1891,7 +1891,37 @@
             {
               "id": "socpsy_deindividuation",
               "title": "Deindividuation",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_deindividuation_video",
+                    "videoId": "ncd3cCYqEgE"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_deindividuation_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define deindividuation\n- Describe when deindividuation leads to pro- and anti-social behavior\n\n### A few years ago I was exploring downtown Toronto. \n\n* I walked along Yonge Street, \n* I visited Union Station, \n* I actually met a friend I hadn't seen in a few years there. \n\nShe was struggling to find the entrance to Union Station because of the construction and the fact that large parts of the roads and sidewalks were taped off by the police preparing for the G20 summit. \n\nAs we criss-crossed the streets trying to find an open entrance, we saw several buses speeding, and I mean really speeding down the road. \n\nAfter finding the entrance and saying goodbye to my friend, I walked toward where those speeding buses had headed. \n\nA few blocks down the road, I saw dozens of similar buses, some being loaded, some being unloaded, all of them filled with police officers from around the country. \n\nSome of the buses had signs indicating the officers were from Calgary, others were from different parts of Ontario. \n\n> The thing that struck me though was that all the officers had their faces covered and were clad from head to toe in all black. \n\n### At the distance I was, a few hundred metres away, it was impossible for me to pick out any individual police officers. \n\nThey were all indistinguishable members of a scary-looking group. \n\nLater I learned that during the summit, many citizens were brutally beaten by police officers, and it was really hard to figure out which officers were responsible because their faces were covered. \n\n> And it turns out, many officers had covered up or taken off their badge numbers. \n\n### What role do you think the fact that the officers couldn't be identified played in these acts of police brutality? \n\nIt turns out that a process called *deindividuation* may have played a role in what happened that weekend. \n\n> Deindividuation refers to the loosening of normal constraints on behaviour when people are in a group, leading to an increase in impulsive and deviant acts. \n\nWhen we are in a group, we feel less responsible for our actions. \n\nThis is a theme that we'll repeat in the next module on helping. \n\n> When we are in a group, we feel that the entire group bears responsibility for what is happening, rather than us, alone. \n\nSo we are more likely to engage in deviant acts like mob behaviour or egging on jumpers. \n\n### Being in a group can also decrease our self-awareness. \n\nThis means that sometimes when we are in a group, it can feel like we are watching ourselves engage in these deviant and impulsive acts rather than feeling like we are the ones in control of our actions. \n\nSo another way to think of deindividuation is that you lose your sense of self and become a part of the group, which suggests that whether deindividuation has positive or negative consequences depends on which group we become part of. \n\nIn one *shocking* experiment, participants were placed in the position of the teacher in a verbal learning experiment. \n\nEvery time the learner made a mistake, participants could increase or decrease the level of shock given to participants by one, two, or three levels. \n\nBut the key to this experiment is that participants were provided with cues that they belonged to a pro or antisocial group. \n\n### All participants wore a costume, either a nurse's uniform or KKK robes. \n\n* The other trick to this experiment is that half of the participants were deindividuated by being told that no one could tell how much shock they gave and there was no way to identify them. \n* The other half of participants were told other people could tell how much shock they administered and they also wore name tags. \n\n1. Participants in the nurse's uniforms tended to decrease the level of shock they gave to learners. \n2. But the deindividuated nursers, those without name tags, tended to decrease the level of shock the most. \n\n1. In contrast, participants in the KKK robes tended to increase the level of shock they gave to learners. \n2. But deindividuated KKK robe wearers tended to increase the level of shock the most. \n\n### So the attributes of the group we deindividuate into matter. \n\nNow we'll never know if deindividuation played a role in the police brutality at the G20 Summit in Toronto, but there are a lot of reasons to think it did. \n\n* Deindividuation is more likely to happen the larger the group. \n\nThis was a very large group of police from across the country. The police were physically anonymous and they were engaged in an arousing activity, *protecting* <air quotes> the city of Toronto from protesters and many of them had traveled to the biggest city in Canada to help out. \n\nThis would have been a big deal for most of them. \n\nEventually, cell phone video was used to identify one officer who attacked a protester on the ground, repeatedly attacking him with a baton and breaking his arm. \n\nHe was sentenced to 45 days in jail. \n\n## Add these to your notes\n\n1. Define deindividuation\n2. Describe when deindividuation leads to pro- and anti-social behavior\n3. What predictions can you make about police officers in the united states who wear masks, based on what you know about deindividuation?"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_deindividuation_image",
+                    "url": "https://www.dropbox.com/scl/fi/3q0phn0btq60pdz73a11m/Definition-Deindividuation.png?rlkey=ya20xk86nhpv7n9ghbetx9ck2&raw=1",
+                    "caption": "Deindividuation: The loosening of normal constraints on behavior when people are in a group, leading to an increase in impulsive (and deviant) acts"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_deindividuation_quiz",
+                    "quizId": "socpsy_deindividuation_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_polar",
@@ -4687,6 +4717,36 @@
           ],
           "correctIndex": 0,
           "explanation": "Non-conscious mimicry is a good way to get people to like us."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_deindividuation_quiz",
+      "title": "Deindividuation",
+      "questions": [
+        {
+          "id": "socpsy_deindividuation_q1",
+          "prompt": "What is deindividuation?",
+          "answers": [
+            "The tendency to copy other people's mannerisms",
+            "The loosening of normal constraints on behavior in groups leading to more impulsive and deviant acts",
+            "A stable personality trait of aggressive people",
+            "The process of obeying explicit social norms"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deindividuation is the loosening of normal constraints on behavior when people are in a group, leading to increases in impulsive and deviant acts."
+        },
+        {
+          "id": "socpsy_deindividuation_q2",
+          "prompt": "Which factor  makes deindividuation more likely?",
+          "answers": [
+            "Being in a very small and easily identifiable group",
+            "Being in a large group with anonymity",
+            "Working alone on a simple task",
+            "Having a detailed written code of conduct"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deindividuation is more likely to happen the larger the group, and the Toronto example also involved physical anonymity."
         }
       ]
     }
