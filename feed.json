@@ -1719,7 +1719,94 @@
         {
           "id": "socpsy_5",
           "title": "Social influence; helping, hurting, loving",
-          "pages": []
+          "pages": [
+            {
+              "id": "socpsy_welcome5",
+              "title": "Welcome to Module 5",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_welcome5_video",
+                    "videoId": "8sZxb_f6yHY"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_welcome5_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define social facilitation\n\n### Welcome to Module 5. \n\nModule 4 focused on the social psychology of different groups. \n\n* How do we feel about, \n* what do we think about, \n* and how do we treat \n\npeople that belong to different groups than us? \n\n> Those are known as intergroup processes. \n\nModule 5 is all about *intragroup* processes. \n\n1. Intergroup refers to processes that happen between groups. \n2. Intragroup refers to processes that happen within a group. \n\nSo I want to start this module with a little thought experiment about what constitutes a group. \n\n* If we see four people standing near each other, laughing and talking, we understand that they are a group. \n* But what about 20,000 people packed into an arena to watch a professional hockey game? Is the crowd a group? \n\n### What about the other end of the spectrum? \n\n* Can two people be a group? \n* What if they aren't talking to one another? \n* What if they aren't interacting in any way? \n\n> Are they still a group? \n\nIn a later presentation, I'm going to provide an exact definition of group for this course. \n\nFor now though, instead of thinking about the exact definition of a group, I want to think about what are the minimal requirements that must be met for us to start seeing the psychological consequences of being in a group. \n\n### To that end, let me ask you a question. \n\n> How fast can you take off your shoes? \n\n* What about when you're alone \n* versus when you're with another person \n* versus you're with another person that's actually watching you? \n\nDo any of those distinctions matter? \n\n> Could the presence of another person really make you take your shoes off faster or slower? \n\n### The answer is yes. \n\nResearch related to *social facilitation* has found that we are faster to take our shoes off when someone is in the room with us compared to when we are alone. \n\nIn fact, we are fastest *when that someone is in the room and is watching us*. \n\nSo we already start seeing some of the effects of being in a group when someone is in the same room as us, even if we aren't interacting. \n\n### Let me ask you another question now. \n\n> How quickly can you put a robe on that ties backwards? \n\n* How about when you're alone \n* versus someone is in the room with you \n* versus that person in the room is watching you? \n\nDo you think the same pattern should occur in this situation as when you were taking off your shoes? \n\n### It turns out that the answer is no. \n\nResearchers found that people were quickest to tie the backwards-tying robe when they were alone. \n\nThey were slowest when there was another person in the room watching them. \n\n### Let's think about why we get a different pattern of results here. \n\n> It has to do with how complicated the task is, or more specifically, how good we are at the task. \n\n*Social facilitation* refers to the tendency for people to do better on simple tasks and worse on complex tasks when they are in the presence of others. \n\nSo people make us better at taking off our shoes, a task we do all the time, but they make us worse when trying to put on a robe that ties backwards, something we've likely never done before. \n\nPart of the reason for this is \n\n1. physiological arousal, which arises because we are concerned with being evaluated by others, \n2. and because the mere presence of others causes us to be alert and vigilant. \n\nThis *physiological arousal* then enhances whatever our dominant responses or tendencies are. \n\nThink about the consequences of this principle next time you try a new magic trick in front of your family or friends. \n\nIf you've just learned the trick, then you'll likely be nervous and perform badly in front of others. But if you've done the trick many times, you'll actually be smoother in front of others. \n\n### Physiological arousal will actually enhance your skills. \n\n## Add these to your notes\n\n1. Define social facilitation\n2. Describe how whether the response is dominant or not is related to the effect of social facilitation\n3. Define intergroup processes\n4. Define intragroup processes"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_welcome5_image1",
+                    "url": "https://www.dropbox.com/scl/fi/vnlnd9lhefdhaytcwrchy/Definition-Intergroup-Processes.png?rlkey=m0iin82j27n0rldjaxzp5w931&st=3m8d8t4h&raw=1",
+                    "caption": "Intergroup Processes: Processes that occur between two or more group. How other groups influence your group and how your group influences other groups"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_welcome5_image2",
+                    "url": "https://www.dropbox.com/scl/fi/c4xfve7v4vm0j6afu32il/Definition-IntraGroup-Processes.png?rlkey=lima4xzcj0fon7agnepi0acw0&st=ycqa3e7y&raw=1",
+                    "caption": "Intragroup Processes: Processes that occur within a group. How others in your own group influence you and how you influence your group."
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_welcome5_image3",
+                    "url": "https://www.dropbox.com/scl/fi/43n2csgmi8jvu00d1aebd/Definition-Social-Facilitation.png?rlkey=uig4njn27kwv6gp05c3zgj7qy&st=mfv745ms&dl=0",
+                    "caption": "Social Facilitation: The tendency for people to do better on simple tasks and worse on complex tasks, when they are in the presence of others"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_welcome5_quiz",
+                    "quizId": "socpsy_welcome5_quiz"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_norms",
+              "title": "Social Norms",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_Mimicry",
+              "title": "Mimicry",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_Deindividuation",
+              "title": "Deindividuation",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_polar",
+              "title": "Group Polarization",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_think",
+              "title": "Group Think",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_leader",
+              "title": "Situational Leadership",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_power",
+              "title": "power",
+              "blocks": []
+            }
+          ]
         },
         {
           "id": "socpsy_6",
@@ -4343,6 +4430,48 @@
           ],
           "correctIndex": 2,
           "explanation": "Pulling people toward yourself and sitting closer are both examples of approach behaviors. Crossing the street is an avoidance behavior. Making eye contact is an approach behavior, arguably, but avoiding it is an avoidance behavior."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_welcome5_quiz",
+      "title": "Welcome5",
+      "questions": [
+        {
+          "id": "socpsy_welcome5_q1",
+          "prompt": "What does intergroup refer to?",
+          "answers": [
+            "Processes that happen within a group",
+            "Processes that happen between groups",
+            "Processes that happen only in large crowds",
+            "Processes that happen only in teams competing for rewards"
+          ],
+          "correctIndex": 1,
+          "explanation": "Intergroup  processes happen between groups."
+        },
+        {
+          "id": "socpsy_welcome5_q2",
+          "prompt": "What does intragroup refer to?",
+          "answers": [
+            "Processes that happen between groups",
+            "Processes that happen between strangers only",
+            "Processes that happen within a group",
+            "Processes that happen only when people are talking"
+          ],
+          "correctIndex": 2,
+          "explanation": "Intragroup processes happen within a group."
+        },
+        {
+          "id": "socpsy_welcome5_q3",
+          "prompt": "What is social facilitation?",
+          "answers": [
+            "The tendency for people to do better on complex tasks and worse on simple tasks in the presence of others",
+            "The tendency for people to do better on simple tasks and worse on complex tasks in the presence of others",
+            "The tendency for people to ignore others when performing tasks",
+            "The tendency for groups to outperform individuals on every task"
+          ],
+          "correctIndex": 1,
+          "explanation": "Social facilitation is doing better on simple tasks and worse on complex tasks when others are present."
         }
       ]
     }
