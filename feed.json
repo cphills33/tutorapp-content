@@ -1980,7 +1980,29 @@
             {
               "id": "socpsy_leader",
               "title": "Situational Leadership",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_leader_video",
+                    "videoId": "qJxAUqw1U9k"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_leader_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define the four situational leadership styles\n\n### Who is a leader? \n\n* What makes them a leader? \n* What is leadership? \n\n> Bill Belichick, the coach of the New England Patriots, often says that every member of a football team has to be a leader. \n\nAnd I agree with that idea, that leadership isn't just something coaches or politicians or teachers do. \n\n### Someone is a leader when they make something happen that wouldn't happen otherwise. \n\nSo everyone from the quarterback to the offensive lineman needs to be a leader on the football field. And in every organization, the more leaders there are making things happen, the better off that organization will be. \n\nBut I don't want to talk about that type of leadership today. \n\nI want to focus on the more traditional idea of leadership as something coaches or teachers or managers or presidents do. \n\nWhen we think of those types of leaders, often the first thing that comes to mind is a coach giving an inspirational speech to his team, or a general inspiring his troops before a battle. \n\nI want to suggest though that we should have a larger idea of leadership, that there isn't just one way to be a leader. \n\n### In fact, I want to suggest that different types of organizations need different types of leaders. \n\n1. For example, if a group is unmotivated, then they do need that rah rah speech. \n2.  But other groups are motivated and just don't have the necessary skills. Those groups need a teacher more than a motivator. \n3. Other groups are both motivated and skilled or neither. \n\n### This is the essence of situational leadership. \n\nWe identify what type of group we have. \n\n* Are the group members willing or unwilling? \n* Do they have the necessary abilities or not? \n\nAnd then we adopt the leadership style that is most appropriate for the group we have. \n\n1. When we have a group that is *unwilling* and *unable*, then we need the type of leadership called directing telling. The coach yells to motivate while also teaching.\n2. When we have a group that is willing but unable, then we need the Coaching/Selling leader. The leader's job is to assist members in doing a task for which they do not have the skills.\n3. When we have an unwilling group that is able, we need the participating/supportive leader. Group members and the leader participate in. making decisions and carrying out the tasks. More emphasis on relationships and individual feelings\n4. When we have a group that is will and able, then we need the delegating leader. The leader delegates tasks. They trust the group members to know what to do and to do them. 'Achievement' oriented.\n\n## Add these to your notes\n\n1. Define each leadership style and which situations each is best for"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_leader_quiz",
+                    "quizId": "socpsy_leader_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_power",
@@ -4839,6 +4861,24 @@
           ],
           "correctIndex": 0,
           "explanation": "Groupthink is a kind of thinking in which maintaining group cohesiveness and solidarity matters more than considering the facts realistically."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_leader_quiz",
+      "title": "Situational Leadership",
+      "questions": [
+        {
+          "id": "socpsy_leader_q1",
+          "prompt": "What is the essence of situational leadership?",
+          "answers": [
+            "Using the same inspiring style with every group",
+            "Identifying what type of group you have and adopting the leadership style most appropriate for that group",
+            "Letting group members lead without guidance in every case",
+            "Choosing leaders based only on charisma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Situational leadership means identifying whether group members are willing or unwilling and able or unable, then adopting the leadership style that fits that group."
         }
       ]
     }
