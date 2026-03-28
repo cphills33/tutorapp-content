@@ -2007,7 +2007,68 @@
             {
               "id": "socpsy_power",
               "title": "power",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_power_video",
+                    "videoId": "qrntPpXqnnM"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_power_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define the types of power\n- Describe the factors that affect how power influences a person\n\n### I want you to imagine how you would react in the following situations. \n\n1. First, imagine your boss has asked you to buy him or her coffee. No problem, right? \n2. But now imagine your intern has asked you the same thing. Big difference, right? It's the same request, but now it feels very unreasonable. \n\n> And the reason has to do with what is called social power. \n\nYour boss has power over you, and you have power over your intern. \n\n> Social power is often defined as the ability to influence other people. It emerges from control over valuable resources and the ability to administer rewards and punishments. \n\nSocial power is very important in groups, and we all have an idea in our minds of what makes a person powerful. \n\n* Try this, imagine a powerful person. \n* Think about their physical appearance and stature. \n* Now think about a powerless person. \n* Think about their physical appearance and stature. \n\nCan you recognize which people in this photo are powerful and which are powerless?"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_power_image",
+                    "url": "https://www.dropbox.com/scl/fi/slmos2sma27kq2m6dgkl5/Image-Power-Poses.png?rlkey=uk6nd8s1we7d58323wrz977gs&st=wfcgmwb0&raw=1",
+                    "caption": "People in wide and narrow poses"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_power_text2",
+                    "markdown": "The powerful people have very expansive body postures. \n\n* They are big and wide. \n\nThe powerless people have smaller body postures. \n\n* They are hunched over. \n\nMany people have heard about or seen a TED Talk on power posing. \n\nThis is very controversial research which has had trouble being replicated. \n\nBut the gist of the idea is that you can make yourself feel powerful by adopting an expansive body posture. \n\n> This is a form of social embodiment which we talked about in a previous video. \n\nOur minds learn how we feel from how our body is moving or positioned. \n\nSo social power is not physical strength. \n\nIt also isn't necessarily related to being a boss versus an employee, although it could be. \n\nWe can talk about two types of power. \n\n1. Psychological power would suggest that the psychological properties of power can be activated by exposure to cues related to power or by recalling past experiences with power. \n\nIn general, you have to take the perspective of your boss into account because they have the ability to reward and punish you.\n\nBut if you're the boss, you don't need to do that. People do what you want, so you don't need to worry about what they want. \n\n### This leads us to a prediction. \n\n> If you are low in power, then you are probably better at perspective-taking. \n\nResearch has shown that powerless people are better at perspective-taking. They are better at recognizing sarcasm, and they write messages with an eye to how they look to other people, not themselves. \n\n### Which leads us to another observation. \n\nPowerless people have to pay attention to others more than powerful people. \n\nThat means they might have less brain power available for cognitively complex tasks, like say the Towers of Hanoi. \n\n> Researchers found that people who feel powerless take more moves to complete the Towers of Hanoi. \n\nIn fact, they experience deficits in executive functioning in a number of different ways, including \n\n* difficulty ignoring irrelevant information, \n* trouble recognizing important information, \n* and struggling to inhibit incorrect responses during reaction time tasks. \n\nNow let's change gears a little bit and talk about a famous quote about power. \n\n> Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men. \n\nBut Michelle Obama once said something to the effect that the presidency doesn't change a person, it reveals who they are. \n\nPower has a similar effect. \n\n### In Captain America, The First Avenger, \n\nSteve Rogers is given great power. \n\nBut it doesn't make him greedy or selfish. It gives him the power to be who he really is, an honorable just soldier. \n\nResearch bears this out. \n\n1. If you give power to a person who is a communal, that means they believe relationships are about benefiting one another without expectation of anything in return, that person becomes more caring. \n2. But if you give power to an exchanger, that means they benefit or they expect benefits in return during relationships. They become more selfish. So power makes communals even more socially responsible, but exchangers even less socially responsible. \n\n### So Michelle Obama was right, power reveals who we are. \n\nIt's the fuel we need to do what we want. \n\nIn fact, research has shown that people who feel powerful are more likely to take action in general. Power gives us that freedom to act. \n\n## Add these to your notes\n\n1. Define power\n2. Define structural power\n3. Define psychological power\n4. Describe the consequences of power (and low power)"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_power_def1",
+                    "url": "https://www.dropbox.com/scl/fi/rmxvsyxjws2n47pskf916/Definition-Power.png?rlkey=p5u0vkowc9mnoo60d7xx0ibua&st=dsvzkvqq&raw=1",
+                    "caption": "Power: Social Power is often defined as the ability to influence other people; it emerges from control over valuable resources and the ability to adminster rewards and punishments"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_power_def2",
+                    "url": "https://www.dropbox.com/scl/fi/yu3m0p8q7ac52vj25aulq/Definition-Psychological-Power.png?rlkey=j7wwtewbkmvilqg9wfk6smpdu&st=wuxiem74&raw=1",
+                    "caption": "Psychological Power: Properties of power can be activated by exposure to cues related to power or by recalling past experiences with power"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_power_def3",
+                    "url": "https://www.dropbox.com/scl/fi/npc4ugeips7gpx6inaafs/Definition-Structural-Power.png?rlkey=cz43i4pyo8xikm4v5ztornn68&st=9fx1edu3&raw=1",
+                    "caption": "Structural power: a property of relationships"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_power_quiz",
+                    "quizId": "socpsy_power_quiz"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -4879,6 +4940,24 @@
           ],
           "correctIndex": 1,
           "explanation": "Situational leadership means identifying whether group members are willing or unwilling and able or unable, then adopting the leadership style that fits that group."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_power_quiz",
+      "title": "Social Power",
+      "questions": [
+        {
+          "id": "socpsy_power_q1",
+          "prompt": "What is social power?",
+          "answers": [
+            "Physical strength over other people",
+            "The ability to influence other people",
+            "The tendency to feel confident in public",
+            "The ability to ignore what other people want"
+          ],
+          "correctIndex": 1,
+          "explanation": "Social power is the ability to influence other people, emerging from control over valuable resources and the ability to administer rewards and punishments."
         }
       ]
     }
