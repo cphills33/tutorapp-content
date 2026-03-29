@@ -2194,7 +2194,29 @@
             {
               "id": "socpsy_help",
               "title": "Why we help",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_help_video",
+                    "videoId": "fiWQfWBhwCk"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_help_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe all the reasons we help one another\n\n### To help us think through why we help, I want you to imagine that a building is on fire, and you have the opportunity to risk your own life to save someone inside. \n\nWho are we most likely to run in after and try to save? \n\nEvolutionary psychologists have suggested that kin selection is a good explanation for who we will save. \n\n> Kin selection can be thought of as helping your kin, or literally helping people that have the same genes as you. \n\nAnd the more genes you share, the more likely you should be to try and save them from the burning building. \n\n### Research by Bernstein and colleagues from 1994 found people reported being more likely to save people they share half their genes with. \n\n* Parents, \n* siblings, \n* and children. \n\nNext were people we shared one quarter of our genes with. \n\n* Grandparents. \n\nNext were people we shared one eighth of our genes with. \n* First cousins. \n\nAnd people we had the lowest likelihood of saving were attractive strangers. \n\n### But you may have noticed a confound in this study. \n\n> Maybe the reason we rush to save our children is because we're close to our children, and we're not as close to our first cousins or strangers. \n\nOther researchers investigated this possibility. \n\n* They asked participants to make a list of family members and rate them in terms of closeness. \n* The participants then indicated who they would be most likely to help in a number of different situations. \n* They found that helping was related to closeness and not genetic similarity. \n\n### So it's not so much that we help our genes so much as we help the people we are close to. \n\nWe also seem to help our things, our resources. \n\nWe help strangers in order to increase the likelihood that they will help us in the future. \n\n> This is known as the reciprocity norm. \n\nWe are more likely to survive when we cooperate so we have learned to value helping others. \n\nAnd sometimes we just straight up help for the reward. \n\nBut I'm not referring exclusively to monetary rewards. \n\n> Social exchange theory argues that we use what is called a minimax strategy to determine whether we should help or not. \n\nWe try to minimize costs and maximize resources. \n\nNow you may not consciously do this, but your brain is making this calculation. \n\nWe weigh things like helping makes us feel good. \n\nIt helps us avoid the punishment of breaking a social norm. \n\nWe gain the social approval of others and we decrease our stress from seeing someone in need of help. \n\nAll of those things get weighed against the physical danger of helping, pain that might result from helping, embarrassment, and just whether we feel we have the time to help. \n\nSo there are many reasons we help. \n\n* Kin selection, \n* feeling close, \n* reciprocity norm \n* for the reward. \n\n## Add these to your notes\n\n1. Describe how each reason for helping works\n* Kin selection, \n* feeling close, \n* reciprocity norm \n* for the reward."
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_help_quiz",
+                    "quizId": "socpsy_help_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_love",
@@ -5149,7 +5171,7 @@
       "title": "Why we hurt",
       "questions": [
         {
-          "id": "socpsy_hurt_q3",
+          "id": "socpsy_hurt_q1",
           "prompt": "How does serotonin relate to aggression?",
           "answers": [
             "Serotonin increases impulsive aggression",
@@ -5161,7 +5183,7 @@
           "explanation": "Serotonin inhibits impulsive aggression."
         },
         {
-          "id": "socpsy_hurt_q7",
+          "id": "socpsy_hurt_q2",
           "prompt": "What theory  explains learning aggression by watching others?",
           "answers": [
             "Social comparison theory",
@@ -5213,6 +5235,36 @@
           ],
           "correctIndex": 1,
           "explanation": "The empathy-altruism hypothesis states that when we feel empathy, we will help for purely altruistic reasons and will do so regardless of personal gain."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_help_quiz",
+      "title": "Helping",
+      "questions": [
+        {
+          "id": "socpsy_help_q1",
+          "prompt": "What is kin selection?",
+          "answers": [
+            "Helping only people who live nearby",
+            "Helping your kin or people who share your genes",
+            "Helping others only when you expect repayment",
+            "Helping anyone who is physically attractive"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kin selection can be thought of as helping your kin, literally helping people who share your genes."
+        },
+        {
+          "id": "socpsy_help_q2",
+          "prompt": "What pattern did Bernstein and colleagues find regarding who people said they would be most likely to save?",
+          "answers": [
+            "People were most likely to save attractive strangers",
+            "People were most likely to save parents siblings and children",
+            "People were equally likely to save everyone listed",
+            "People were most likely to save first cousins"
+          ],
+          "correctIndex": 1,
+          "explanation": "In this study, people reported being most likely to save those with whom they shared half their genes: parents, siblings, and children."
         }
       ]
     }
