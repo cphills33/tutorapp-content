@@ -2072,7 +2072,7 @@
             },
             {
               "id": "socpsy_welcome6",
-              "title": "Welcome to Module 6",
+              "title": "Aggression",
               "blocks": [
                 {
                   "type": "youtube",
@@ -2100,7 +2100,29 @@
             {
               "id": "socpsy_hurt",
               "title": "Why we hurt",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_hurt_video",
+                    "videoId": "ChIr9lTsGEY"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_hurt_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe some of the factors that increase aggression\n\n### One reason we become aggressive has to do with our brains. \n\n> The amygdala has more to do with emotionally charged memories and detection of threats. \n\nWhen the amygdala is activated, aggressive action ensues. \n\nBut this is constrained by social factors. \n\nFor example, research on monkeys has found that if a more dominant monkey is around, then amygdala stimulation actually leads to running away rather than fighting. \n\n> Serotonin inhibits impulsive aggression. \n\nViolent criminals have low levels of naturally produced serotonin. \n\nWhen you interrupt serotonin production in normal people, aggressive behavior increases. \n\nThere are also hormonal factors that contribute to aggression. \n\n> For example, testosterone leads to aggression in men and women. \n\nIt is also related to social dominance and competitiveness. \n\nAfter a fight or winning at any types of sportsball competition, our testosterone is higher. \n\nThere are also psychological factors that contribute to aggression. \n\n### The frustration aggression theory suggests that frustration will increase the probability of an aggressive act. \n\n> And frustration is defined as the perception that you've been prevented from obtaining a goal. \n\nIf you've ever played a video game, repeatedly failed at a level, and then rage quit by throwing the controller or phone away, then you understand this link between frustration and aggression. \n\nBut there is actually a newer theory which now suggests that not just frustration, but any negative affect will lead to an increase in aggression. \n\n> That is, or this is, very creatively called, the negative affect frustration theory. \n\nThis theory argues that anything, including frustration, which increases negative affect, will increase the inclination to aggress. \n\nWe now know that negative emotions lead to aggression, and amygdala activation leads to aggression. \n\nAnd I think you can put the dots together. \n\nAnother psychological reason we aggress is because we've learned to aggress by watching others. \n\n> This is social learning theory. \n\n### Do you think violence in video games increases aggression? \n\nThis can be a controversial topic. \n\n* Some research says yes, \n* some research says no. \n\nBut we've actually already covered some ways in which video games could increase aggression. \n\n* For example, if a video frustrates us, then we will feel negative affect, and that will lead to an increase in aggression. \n\n* Also, if we win at a video game, then our testosterone should increase, and that should also lead to an increase in aggression. \n\n### But neither of those reasons are what people are thinking about when they ask if violence in video games increases aggression. \n\n> They are thinking about social learning and those Bobo dolls. \n\nIf people become more aggressive after watching a Bobo doll get hit, then shouldn't they also become more aggressive after actually playing a violent video game in which they injure or kill people repeatedly? \n\n### Before I attempt to answer that question, \n\nlet me describe to you one study on exposure to guns and violence. \n\n* In this experiment, participants were given an opportunity to shock other people, \n* and researchers recorded how long they administered the shocks for. \n* If a gun was in the room with participants, they administered the shocks for longer than if a badminton racket was in the room. \n\n### So this is evidence that symbols of violence increase our aggression against others. \n\nBut what about violence on TV? Well, in general, I can say that watching large amounts of violence on TV can increase aggression. \n\nBut the story is very complicated, and there are many factors, even more so when it comes to video games. \n\nSo no one can definitively say that video games do or do not increase aggression, but there is reason to think there might be a relationship. \n\n\n## Add these to your notes\n\n1. Describe the relation between the amygdala, serotonin, and testosterone to aggression.\n2. Describe the relation between symbols of violence and aggression."
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_hurt_quiz",
+                    "quizId": "socpsy_hurt_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_altruism",
@@ -5057,6 +5079,36 @@
           ],
           "correctIndex": 0,
           "explanation": "Instrumental aggression is hurting someone to achieve some other goal besides pain."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_hurt_quiz",
+      "title": "Why we hurt",
+      "questions": [
+        {
+          "id": "socpsy_hurt_q3",
+          "prompt": "How does serotonin relate to aggression?",
+          "answers": [
+            "Serotonin increases impulsive aggression",
+            "Serotonin inhibits impulsive aggression",
+            "Serotonin has no relation to aggression",
+            "Serotonin only matters after sports competitions"
+          ],
+          "correctIndex": 1,
+          "explanation": "Serotonin inhibits impulsive aggression."
+        },
+        {
+          "id": "socpsy_hurt_q7",
+          "prompt": "What theory  explains learning aggression by watching others?",
+          "answers": [
+            "Social comparison theory",
+            "Social learning theory",
+            "Theory of planned behavior",
+            "Cognitive dissonance theory"
+          ],
+          "correctIndex": 1,
+          "explanation": "One reason people aggress is because they have learned to aggress by watching others, which is social learning theory."
         }
       ]
     }
