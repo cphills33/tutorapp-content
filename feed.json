@@ -2326,7 +2326,29 @@
             {
               "id": "socpsy_relations",
               "title": "Relationships",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_relations_video",
+                    "videoId": "2NvvJ9K4joI"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_relations_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe attachment styles\n- Describe how to end a relationship\n\n### We know from previous modules that when you're in a relationship, you rate your partner's initials higher than other letters of the alphabet. \n\nThis is because you associate those letters with your partner and presumably, you like your partner. \n\nWe also learned that if you use your gut or automatic processes to evaluate how happy you are in your relationship, that evaluation is very predictive of whether you will still be together months later. \n\nBut if you make a list of pros and cons and reason out what you like and don't like about the relationship, all that effort or controlled processing has no relationship with whether you'll still be together months later. \n\nWe also learned that interdependent people include others in their self-schemas. They don't just have links from themselves to important people in their lives. They actually think of their self-schema as overlapping with the schemas of those important people. \n\n* Research has found that that sense of overlap or feeling of being closely related to a romantic partner is associated with a number of positive outcomes in relationships. \n* In marriage, we use the metaphor of two people becoming one. \n* And this research suggests that in good relationships, there is psychological melding or at least overlapping of the self and your partner. \n\n### And even though a few videos ago I said love wasn't only seeing the good in your partner, the reality is that we often have positive illusions about our partners. \n\n* Holmes and colleagues asked half of the couples in their experiment to rate how much they argue. \n* Most couples said they don't argue very much. \n* Is this because most couples don't argue very much? \n* Or is it because they want people to believe the best things about their relationships, that have positive illusions about their relationships, and so they report arguing less than they really do? \n* The other half of the couples read an article explaining that arguing is actually good for relationships. \n* These couples reported fighting more with their partner and in fact even stated that fighting in relationships is a virtue. \n\nSo we really do think about our relationships through the lens of positive illusions. \n\n### But what I mostly want to talk about are attachment styles and how those affect our relationships. \n\n> Attachment theory states that our behavior in adult relationships is based on our experiences as infants with our parents or caregivers. \n\nThis gives rise to what are called attachment styles. \n\nThese are the expectations people develop about relationships with others, and they are based on that relationship they had with their primary caregiver when they were infants. \n\nThere are four types of attachment styles. \n\n1. Secure, which is marked by trust in your partner and the belief that you are worthy and well-liked. \n\n2. Anxious and ambivalent, which is marked by concerns that others will not reciprocate your feelings for them. \n\n3. Fearful avoidant, which is marked by mistrust of partners and avoidance of relationships. \n\n4. And finally, avoidant, which is typically associated with claims not to need close relationships. \n\n### It is important to communicate in relationships and to have some self-awareness around the types of attachment styles you and your partner have. \n\nYou may be anxious and ambivalent and like to have a lot of reassurances that you are loved and important, but your partner might be fearful avoidant and actually dislike the same level of reassurance. \n\n> So it's important not to change your attachment style or to be someone you aren't, but to understand that you have an attachment style and your partner has an attachment style and to communicate your needs to each other. \n\nIf you don't do that, you may end up in a relationship that breaks up. \n\n### The investment model states that people's commitment to a relationship depends on their satisfaction with the relationship in terms of rewards, costs, and comparison level. \n\nTheir comparison level refers to their options on the dating market. \n\nBut also relationship commitment is related to having how much we have invested in a relationship. \n\nIf you're like Francesca from Master of None and you've invested 10 years dating your current boyfriend, then you'd be less likely to end that relationship and start dating Dev. \n\n### Social exchange theory, \n\non the other hand, argues that how people feel about a relationship depends on \n\n* their perceptions of the rewards and costs of the relationship, \n* the kind of relationship they believe they deserve, \n* and their chances of having a better relationship with someone else. \n\nAgain, this idea of having a backup plan or options figures strongly into our feelings about our current relationships. \n\nPerhaps Francesca would have felt happier with her long-term boyfriend had Dev not been around as an alternative option for her. \n\n### Equity theory argues something slightly different. \n\nIt argues that people are happiest with relationships in which the rewards and costs that a person experiences and the contributions that he or she makes to the relationship are roughly equal to the rewards, costs, and contributions of the other person. \n\n> In this theory, relationships are tit for tat. \n\nPeople are always keeping score, trying to check if their partner is doing as much for them as they are for their partner. \n\n### In reality, enduring relationships need to be tuned to needs, not debts. \n\nBut once you've made that decision to leave a relationship, there are four main strategies people use to break up. \n\n1. The first is passive avoidance. I think the modern term for this is ghosting. \n2. Another strategy is to adopt a positive tone as you deliver to negative news. I've never had someone break up with me this way, but I can only imagine it feels weird to receive bad news in a positive way. \n3. Some people adopt what are known as manipulative strategies. They try to get the other person to break up with them. \n4. And other people prefer the open confrontation. They use the passion of an open confrontation to help them power through the breakup. \n\n### When someone breaks up with us, we feel lonely, depressed, unhappy, and angry. \n\nSometimes we can actually have physical disorders following a breakup. \n\nIf we do the breaking up, though, we're less affected. \n\nWe feel unhappy and, of course, a little guilty. \n\nIf, by some miracle, the breakup is mutual, well, both people will feel somewhere between those two other extremes. \n\nThe bottom line is that you'll feel better after a breakup if you have alternatives. And you'll feel worse if your ex does. \n\n## Add these to your notes\n\n1. Describe the four attachment styles\n2. Describe how to end relationships"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_relations_quiz",
+                    "quizId": "socpsy_relations_quiz"
+                  }
+                }
+              ]
             }
           ]
         }
@@ -5421,6 +5443,24 @@
           ],
           "correctIndex": 1,
           "explanation": "The propinquity effect is the finding that the more we see and interact with people, the more likely they are to become our friends."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_relations_quiz",
+      "title": "Relations",
+      "questions": [
+        {
+          "id": "socpsy_relations_q1",
+          "prompt": "What is a fearful avoidant attachment style?",
+          "answers": [
+            "Trust in your partner but low self esteem",
+            "Mistrust of partners and avoidance of relationships",
+            "A need for constant reassurance without avoidance",
+            "A belief that arguments are always good for relationships"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fearful avoidant attachment is mistrust of partners together with avoidance of relationships."
         }
       ]
     }
