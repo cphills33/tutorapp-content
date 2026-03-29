@@ -2221,7 +2221,45 @@
             {
               "id": "socpsy_love",
               "title": "What is love",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_love_video",
+                    "videoId": "umYRVwEhBgo"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_love_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define passionate and companionate love\n\n### What is love? \n\nHow can we tell if we're in love or if someone loves us? \n\nWhen I was in high school, a friend told me that love is when you still think about someone even though they aren't around. \n\nAt the time, I thought that sounded nice, but it's actually a terrible definition of love. \n\n> That is, perhaps, a better definition for dependency. \n\nAs I've grown much older, I've realized that you can love someone fully and not think about them all the time. \n\nSometimes you might be thinking about them constantly, but other times it's okay and normal to be thinking about other things. \n\nLove is also not energy or your heart rate increasing. \n\n### Despite what movies show us, love also isn't \n\n* euphoria or \n* butterflies in our stomach or \n* being scared, and \n* it definitely isn't uncertainty. \n* Love isn't only seeing the good in your partner. \n\nYou can love someone and still accept that they aren't perfect. \n\n### So if love isn't any of those things, what is it? \n\nCan the scientific method even help us understand a concept like love? \n\nI'm going to argue the answer is yes. \n\nFor example, we can systematically study what people think love is, and when we do that, people tell us that \n* love is trust,\n* love is caring, \n* love is honesty and \n* friendship and \n* respect. \n\nLove is not, like my friend told me, always thinking about the other person, but it is being concerned for someone else's well-being. \n\nIt's loyalty and commitment and also accepting the person for who they are. \n\nIn a word, love is support. \n\nResearchers have defined two types of love, *companionate and passionate*. \n\n* Companionate love describes feelings of intimacy and affection for a person we care deeply about, \n* whereas passionate love describes the feelings of intense longing accompanied by physiological arousal we feel for another person. \n\nWhen our love is reciprocated, we feel great fulfillment and ecstasy, but when it is not, we feel sadness and despair. \n\nMen and women actually report experiencing these different types of love in different amounts. \n\n* Men report being more likely to fall in love at first sight and to endorse what is called romantic or passionate love. \n* Women are more likely to endorse companionate or friendship love. \n\n> However, both genders rated companionate love higher than passionate love. \n\nSo even though it may seem that our society values passionate love more than friendship-based love, based on our music and our movies, in reality we all know the value of friendship. \n\nIn our culture, passionate love plays an important role. \n\nIn the U.S., people believe that they must love someone in order to marry them, and we idealize the idea of falling in love and getting married. \n\n> Researchers have found that in the U.S., over 80% of people say they would not marry a person who had all the qualities they were looking for, but they weren't in love. \n\nYou might be tempted to think this is a fundamental aspect of human nature, but it is not. \n\nThough people in many places around the world also feel that love is a prerequisite for marriage, there are many cultures that do not feel this way. \n\nFor example, in India and Pakistan, most people would marry someone that had all the qualities they were looking for, but they weren't in love. \n\n## Add these to your notes\n\n1. Define passionate love\n2. Define companionate love"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_love_def1",
+                    "url": "https://www.dropbox.com/scl/fi/d6mryiwbw2qc5s7k9rgkv/Definition-Companionate-Love.png?rlkey=p5tj9xzira04krvfje6k98es8&st=mpwdxsbd&raw=1",
+                    "caption": "Companionate Love: Describes feelings of intimacy and affection for a person we care deeply about"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_love_def2",
+                    "url": "https://www.dropbox.com/scl/fi/0e3r4adk1ljlu9knxphzz/Definition-Passionate-Love.png?rlkey=qelpac3lzrp3o04dqdztdpz15&st=y8o2o6kn&raw=1",
+                    "caption": "Passionate Love: The feelings of intense longing, accompanied by physiological arousal, we feel for another person, when our love is reciprocated, we feel great fulfilment and ecstasy but when it is not, we feel sadness and despair"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_love_quiz",
+                    "quizId": "socpsy_love_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_hot",
@@ -5265,6 +5303,36 @@
           ],
           "correctIndex": 1,
           "explanation": "In this study, people reported being most likely to save those with whom they shared half their genes: parents, siblings, and children."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_love_quiz",
+      "title": "Love",
+      "questions": [
+        {
+          "id": "socpsy_love_q1",
+          "prompt": "What is companionate love?",
+          "answers": [
+            "Feelings of intense longing accompanied by physiological arousal",
+            "Feelings of intimacy and affection for a person we care deeply about",
+            "Always thinking about someone when they are not around",
+            "A dependency on another person for emotional security"
+          ],
+          "correctIndex": 1,
+          "explanation": "Companionate love is feelings of intimacy and affection for a person we care deeply about."
+        },
+        {
+          "id": "socpsy_love_q2",
+          "prompt": "What is passionate love?",
+          "answers": [
+            "Feelings of intimacy and affection based mainly on friendship",
+            "Feelings of intense longing accompanied by physiological arousal for another person",
+            "A calm acceptance of another person's imperfections",
+            "Any relationship involving loyalty and commitment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Passionate love is feelings of intense longing accompanied by physiological arousal for another person."
         }
       ]
     }
