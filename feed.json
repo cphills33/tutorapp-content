@@ -2291,7 +2291,37 @@
             {
               "id": "socpsy_attraction",
               "title": "Attraction",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_attraction_video",
+                    "videoId": "shA_NX632EQ"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_attraction_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the principles of attraction\n\n### My understanding of Tinder as an old out of touch professor is that it does three things really well. \n\n1. One, it lets us evaluate potential partners based on looks. Attractiveness is one of the most important things we're looking for in a partner whether we admit or not. \n2. Two, it tells us how physically close we are to potential partners. \n3. And three, it lets us know who likes us back. \n\n### It turns out that one huge factor in whether we come to like someone is literally just how physically close we are to them. \n\n> This is known as the propinquity effect, which is just the finding that the more we see and interact with people, the more likely they are to become our friends. \n\nWay back in 1950, Fessinger and colleagues studied how people made friends in a dorm at MIT. \n\n* Students were randomly assigned to a dorm, as is done to first years. \n* And then after a time, the researchers asked the students to name their three closest friends. \n* 65% of the named close friends were in the same building as the student. \n* In fact, 41% of close friends were just one door away. \n* 22% were two doors away, \n* 16% were three doors away, \n* and 10% were four doors away. \n\nSo the farther away two students' rooms were, the less likely they were to be close friends. \n\n### There are a few reasons given for this. \n\n* Maybe it's just functional. You know you're going to have to interact with the people closest to you, so you become friends with them. \n* Maybe it's just mere exposure or familiarity. These are the people you see the most, so these are the people you become friends with. \n\n### Support for the mere exposure explanation comes from a really clever research experiment conducted by Moreland and colleagues. \n\n* They asked four female Confederates to pose as students in a large psychology class of 191 students. \n* On specific days, the woman entered the classroom a few minutes before class and walked to the front row and sat in plain view. \n* They never spoke to anyone. \n* Each woman attended a different number of lectures and no two women attended the same lecture. \n* At the end of the semester, students were shown photos of the woman and asked to rate their attractiveness of personality. \n* Even though only 10% of students recognized the woman, the more classes a woman attended, the more attractive her personality was rated. \n\n### Now let's talk about the third thing Tinder does really well, matching you up with people that you know like you back. \n\nCurtis and Miller investigated how the reciprocity norm might influence how we like other people way back in 1986. \n\n* They had participants complete a five minute get to know you game with a partner. \n* After this game, half of participants were told that their partner likes them or dislikes them, and then required to have a 10 minute conversation with that partner. \n* Perhaps not surprisingly, people liked their partner more if they believed their partner liked them back. \n* But perhaps more surprisingly, among the participants that were not told whether their partner liked them or not, they liked the partner more than had been told they were liked. \n* So knowing someone likes you creates a self fulfilling prophecy and that you behave differently, better around people you believe like you. \n* And they in turn like you more as a result. \n\n### So Tinder does these three great things. \n\n1. You can choose people based on attractiveness. \n2. You know how close that person is to you. \n3. And Tinder lets you know if that person likes you back. \n\nBut Tinder can't help you with the actual date. \n\nOnce you meet in person, you're on your own. \n\nSo what should you do? \n* Coffee, \n* dinner, \n* movie? \n\n### Well, I'm here to tell you to forget all that. \n\n> You want to do an activity with your date that raises their level of physiological arousal. \n\nBy that I mean \n* gets their heart rate up, \n* their breathing to increase, \n* and maybe even get some sweating a little. \n\nWhat will happen is your partner will misattribute the physiological arousal of the event to being with you. \n\n### They will come to believe that being with you is exciting. \n\n* Researchers demonstrated this effect by having a female experimenter approach men on a bridge for some purpose, but then leave them her name and number at the end of the encounter. \n* The trick was that half of the men were approached on a swaying, tilting, scary suspension bridge. \n* And the others were approached on a sturdy, solid control bridge. \n* About 50% of the men approached on the scary suspension bridge called Gloria back, \n* but only 12% of the men who met Gloria on the control bridge did. \n\nThis is because the men who met Gloria on the scary bridge misattributed the excitement of the bridge to their encounter with Gloria. \n\nIn fact, other research shows that couples assigned to engage in exciting activities showed greater increase in relationship quality over 10 weeks. \n\nSo now you know what to do when you find a match on Tinder, unless you can think of some other exciting activity to do together. \n\n## Add these to your notes\n\n1. Describe the three factors that contribute to liking\n2. Describe the swaying bridge study"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_attraction_def1",
+                    "url": "https://www.dropbox.com/scl/fi/jc3g8jmi1sfl5m67gknhv/Definition-Propinquity-Effect.png?rlkey=s26z8b164n25uco4xbhzge9zc&st=cdool8wv&raw=1",
+                    "caption": "Propinquity Effect: The finding that the more we see and interact with people, the more likely they are to become our friends"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_attraction_quiz",
+                    "quizId": "socpsy_attraction_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_relations",
@@ -5373,6 +5403,24 @@
           ],
           "correctIndex": 1,
           "explanation": "A bogus pipeline is some sort of device that participants are told works as a lie detector machine."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_attraction_quiz",
+      "title": "Attraction",
+      "questions": [
+        {
+          "id": "socpsy_attraction_q1",
+          "prompt": "What is the propinquity effect?",
+          "answers": [
+            "The tendency to like people who share our political beliefs",
+            "The finding that the more we see and interact with people the more likely they are to become our friends",
+            "The tendency to prefer highly attractive strangers",
+            "The idea that similarity always matters more than proximity"
+          ],
+          "correctIndex": 1,
+          "explanation": "The propinquity effect is the finding that the more we see and interact with people, the more likely they are to become our friends."
         }
       ]
     }
