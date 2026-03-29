@@ -2006,7 +2006,7 @@
             },
             {
               "id": "socpsy_power",
-              "title": "power",
+              "title": "Social Power",
               "blocks": [
                 {
                   "type": "youtube",
@@ -2069,13 +2069,70 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "socpsy_welcome6",
+              "title": "Welcome to Module 6",
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_welcome6_video",
+                    "videoId": "Sc_xrIPtijE"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_welcome6_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define aggression\n\n### For this section of the course, we will discuss hurting, helping, and ultimately loving one another. \n\nWe'll start with hurting, however, or at least the intention of hurting. \n\n> Aggression is defined as intentional behavior aimed at causing either physical or psychological pain. \n\n### It is behavior intended to hurt someone. \n\nBut psychologists have actually defined two types of aggression based on the reasons we intend to hurt someone. \n\n1. Are we hurting them because we are angry and want to inflict pain? Maybe an adult pushed your child down and now you find yourself punching them in the face? \n\n> This is hostile aggresssion\n\n2. Or are we hurting them to achieve some other goal besides pain? Maybe we are punishing a child or a loved one to, in our mind, teach them a lesson. \n\n> This is instrumental aggression\n\n\n## Add these to your notes\n\n1. Define aggression, instrumental aggression, and hostile aggression"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_welcome6_quiz",
+                    "quizId": "socpsy_welcome6_quiz"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "socpsy_hurt",
+              "title": "Why we hurt",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_altruism",
+              "title": "Altruism",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_help",
+              "title": "Why we help",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_love",
+              "title": "What is love",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_hot",
+              "title": "What is hot?",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_attraction",
+              "title": "Attraction",
+              "blocks": []
+            },
+            {
+              "id": "socpsy_relations",
+              "title": "Relationships",
+              "blocks": []
             }
           ]
-        },
-        {
-          "id": "socpsy_6",
-          "title": "Individual Project",
-          "pages": []
         }
       ]
     }
@@ -4958,6 +5015,48 @@
           ],
           "correctIndex": 1,
           "explanation": "Social power is the ability to influence other people, emerging from control over valuable resources and the ability to administer rewards and punishments."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_welcome6_quiz",
+      "title": "Aggression",
+      "questions": [
+        {
+          "id": "socpsy_welcome6_q1",
+          "prompt": "How is aggression defined?",
+          "answers": [
+            "Any behavior that causes physical injury only",
+            "Intentional behavior aimed at causing either physical or psychological pain",
+            "Any argument between two people",
+            "Unintentional behavior that happens to upset someone"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aggression is intentional behavior aimed at causing either physical or psychological pain."
+        },
+        {
+          "id": "socpsy_welcome6_q2",
+          "prompt": "What is hostile aggression?",
+          "answers": [
+            "Hurting someone to achieve some later practical goal",
+            "Hurting someone because we are angry and want to inflict pain",
+            "Accidentally hurting someone during play",
+            "Using words instead of physical force"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hostile aggression is hurting someone because we are angry and want to inflict pain."
+        },
+        {
+          "id": "socpsy_welcome6_q6",
+          "prompt": "What is instrumental aggression?",
+          "answers": [
+            "Hurting someone for some goal other than simply causing pain",
+            "Hurting someone only because of anger",
+            "Any behavior that results in injury regardless of intent",
+            "Aggression that always benefits the victim"
+          ],
+          "correctIndex": 0,
+          "explanation": "Instrumental aggression is hurting someone to achieve some other goal besides pain."
         }
       ]
     }
