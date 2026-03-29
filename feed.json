@@ -2264,7 +2264,29 @@
             {
               "id": "socpsy_hot",
               "title": "What is hot?",
-              "blocks": []
+              "blocks": [
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_hot_video",
+                    "videoId": "AciQmEbe3uM"
+                  }
+                },
+                {
+                  "type": "text",
+                  "payload": {
+                    "id": "socpsy_hot_text",
+                    "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the factors that increase liking, friendship, and attractiveness\n\n### What type of person do you want to end up with? \n\nWhat are the qualities you want that person to have? \n\n* Should they be kind, intelligent? \n* Maybe you value someone who is a hard worker. \n* Maybe you want someone who is a good cook or is handy around the house. \n\n### When you ask people the traits they are looking for in a partner, they tend to report these types of things. \n\nI'm sure you've done the same thing when someone asks you what type of person you're interested in. \n\nBut I think we all know the truth of the matter. \n\n> Sure, those traits are important, but the number one factor is how attractive a person is. \n\nResearchers have found that people are reluctant to admit this unless they are hooked up to what is called a bogus pipeline. \n\n> A bogus pipeline is some sort of device that participants are told works as a lie detector machine. \n\n* They are told that the researchers can tell when they are lying, so they might as well tell the truth. \n* When participants believe they'll be caught in a lie, they admit that what they really want in a partner is someone who's hot. \n\n### But what makes someone hot? \n\nThough you might argue that there is something intangible about what makes a person beautiful, researchers have systematically asked participants what they find attractive in a person. \n\nThere is of course a huge caveat to these findings I'm about to tell you, and that is that the people in psychology experiments, present viewers exempted, are WEIRD. \n\n### By weird I mean the acronym W-E-I-R-D. \n\n* Our participants are Western, educated, from industrialized, rich, and democratic countries. \n* They are also predominantly white, female, and psychology majors, and under 25. \n\nSo don't take these findings as representing something fundamental about human nature. \n\nThey are just what the people who took one psychology experiment reported as hot. \n\n* In this experiment, men rated 50 photos of women, and women rated 50 photos of men. \n* The men preferred large eyes, small noses, small chins, prominent cheekbones, but narrow cheeks, high eyebrows, large pupils, and this should be no surprise to anyone who's been told to smile. A big smile. \n* The woman preferred larger eyes, prominent cheekbones, a large chin, and again, a big smile. \n\n### Personally, as someone who is mixed or biracial, \nI am happy to report that research has found that mixed is also beautiful. \n\nThis is because we like faces that do not deviate too much from average, and have symmetry. \n\nAveraged faces are perceived to be more familiar, and perhaps we believe there was a relationship between average features, and being less likely to carry harmful genetic mutations. \n\nThough it can be fun to talk about what makes someone hot or not, if you know me, I've got to talk about stereotyping as well. \n\n### In our society, we have what is known as the \"what is beautiful is good\" stereotype. \n\nWe associate the attributes good and valued with people that are beautiful. \n\nLike I always point out, these stereotypes can have very negative consequences. \n\n* Research has shown that nurses actually give more attention to cuter, premature babies. \n\nSome people argue that there is a kernel of truth to the beauty is good stereotype, because beautiful people really do develop good social interaction skills, and have more satisfying relationships. \n\nBut like I like to argue, this is likely more a self-fulfilling prophecy than a kernel of truth. \n\n> Beautiful people receive much more positive feedback from others throughout the course of their lives. \n\nI've even heard anecdotally that people who lose weight report being surprised that thin people smile and nod at one another. \n\n### They've never experienced that before. \n\nSo what are the consequences of getting all this positive feedback from people for just being beautiful? \n\nWell, beautiful people are \n* more sociable, \n* more extroverted, \n* and of course more popular. \n\nSo it should be no surprise that they go on to develop good social interaction skills. \n\n> They only have positive interactions. \n\n### All right, now we know that attractiveness is important when it comes to relationships, which means if you were on a dating app, your profile pic better be good. \n\nYou've got to pick the best one. \n\nBut it turns out we aren't good at picking the best photo of ourselves. \n\n> Research shows that strangers actually choose photos for people that are more attractive in a dating context and more professional in a work context or a job application context. \n\nSo before you finish your profile, whether it's on Tinder or LinkedIn, ask someone to choose your photo. \n\n## Add these to your notes\n\n1. List the factors that make someone attractive\n2. Describe the Beautiful==Good stereotype"
+                  }
+                },
+                {
+                  "type": "quiz",
+                  "payload": {
+                    "id": "socpsy_hot_quiz",
+                    "quizId": "socpsy_hot_quiz"
+                  }
+                }
+              ]
             },
             {
               "id": "socpsy_attraction",
@@ -5333,6 +5355,24 @@
           ],
           "correctIndex": 1,
           "explanation": "Passionate love is feelings of intense longing accompanied by physiological arousal for another person."
+        }
+      ]
+    },
+    {
+      "id": "socpsy_hot_quiz",
+      "title": "Hot",
+      "questions": [
+        {
+          "id": "socpsy_hot_q1",
+          "prompt": "What is a bogus pipeline?",
+          "answers": [
+            "A fake dating profile used in experiments",
+            "A device participants are told works as a lie detector",
+            "A method for averaging faces",
+            "A questionnaire about self-esteem"
+          ],
+          "correctIndex": 1,
+          "explanation": "A bogus pipeline is some sort of device that participants are told works as a lie detector machine."
         }
       ]
     }
