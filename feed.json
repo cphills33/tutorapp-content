@@ -255,6 +255,21 @@
                   }
                 },
                 {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_experiments_video2",
+                    "videoId": "s-fVRJyEvS0"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_experiments_def1",
+                    "url": "https://www.dropbox.com/scl/fi/00tef60mdtbraij59dzd9/IVs-and-DVs.png?rlkey=ak9i3pjodta4u26h6wsxl5kj8&st=nq9evwmb&raw=1",
+                    "caption": "Independent Variable: The variable the experimenter manipulates; Dependent Variable; The variable the experimenter measures"
+                  }
+                },
+                {
                   "type": "quiz",
                   "payload": {
                     "id": "socpsy_experiments_quiz",
@@ -280,6 +295,45 @@
                   "payload": {
                     "id": "socpsy_typesvalidiy_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define construct validity\n- Define internal validity\n- Define external validity\n- Define statistical validity\n\n### As a student, you may find yourself doubting some of the research findings presented in the textbook or by myself. \n\n> That's okay. \n\nScience invites criticism and critique because that's how science evolves and improves. I've found students often doubt research findings because:\n\n*  the findings are counterintuitive, \n* are not what they were taught growing up, \n* or just don't mesh with the student's own experiences. \n\nI'm going to suggest that those aren't good enough reasons to doubt research findings. \n\n### Instead, we must critique and evaluate research findings in terms of various validities. \n\nIf that sounds complicated, don't despair. This and the following videos are designed to give you the tools to evaluate research findings in terms of four simple but fundamental validities -- \n\n1. construct, \n2. internal, \n3. external, \n4. and statistical. \n\n### Construct validity refers to how well the researchers measure or manipulate their variables. \n\nIf they don't measure or manipulate their variables properly, then it doesn't matter how good the rest of the study is. We have reason to doubt their findings. \n\n### Internal validity refers to our confidence that the independent variable or the manipulated variable really caused the observed changes in the dependent variable or the measured variable. \n\nIn a research methods class, discussions of internal validity can get quite complicated, but in this course, we will use random assignment as a handy guide to internal validity. If the researchers use random assignment, then we can be fairly confident that their internal validity is strong. That is to say that if they use random assignment, then we should feel confident that the IV really caused the observed changes in the DV. \n\n### External validity refers to the generalizability of research findings. \n\nCan the results be replicated? Would they generalize to other groups of people? What about other contexts? If you ever find yourself thinking something like maybe those research findings are true for that group of people but not for everyone, then you are expressing doubts about the external validity of the research. \n\n### Statistical validity refers to the extent to which researchers use proper statistical tests and had enough statistical power to detect the effect they were interested in. \n\nThis may sound intimidating or daunting, but don't worry. In this class, we will not be discussing proper statistical tests. We will assume that peer reviewers ensured the proper tests were conducted. However, there is one simple thing we can check without any statistical training. \n\n>>> The number of participants in each study. \n\n### Many studies do not have enough participants to reliably detect the effects the researchers are investigating. \n\n\n## Add these to your notes\n\n1. The definitions of the four types of validity"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_typesvalidity_video2",
+                    "videoId": "PARcuWdUJDw"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_typesvalidity_def1",
+                    "url": "https://www.dropbox.com/scl/fi/e0okgkhzqp3coep5qmxgl/Construct-Validity.png?rlkey=m42vdke3h6kea5qf81h7qvbov&st=6va9kosp&raw=1",
+                    "caption": "Construct Validity: How well variables were measured or manipulated"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_typesvalidity_def2",
+                    "url": "https://www.dropbox.com/scl/fi/ey31dr8jp4gs8tgt2fypj/External-Validity-Definition.png?rlkey=wc2rwzayr867bdaa2f46fohf4&st=rby9u0nj&raw=1",
+                    "caption": "External Validity: The extent to which a study's findings generalize to other settings, conditions, and populations"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_typesvalidity_def3",
+                    "url": "https://www.dropbox.com/scl/fi/c1qdadanalgpghd3exdn8/Internal-Validity-Definition.png?rlkey=codo1ja8ctgabzhjge5zzbcc1&st=b32qmxfr&raw=1",
+                    "caption": "Internal Validity: Our confidence that the IV truly caused the observed changes in the DV"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_typesvalidity_def4",
+                    "url": "https://www.dropbox.com/scl/fi/ipuy14fix171pfwka55s2/Statistical-Validity-Definition.png?rlkey=er77tvsuu76bqsrnt9fe7d2pq&st=j6luuzn8&raw=1",
+                    "caption": "Statistical Validity: The appropriateness of the study's conclusion based on statistical analyses"
                   }
                 },
                 {
@@ -477,6 +531,14 @@
                   }
                 },
                 {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_schemas_def",
+                    "url": "https://www.dropbox.com/scl/fi/hbscjuf0vzxomudfu67s0/Schema-Definition.png?rlkey=d3eudir3l7uq4ntryycw8lawu&st=5ot4vxna&raw=1",
+                    "caption": "Schemas: Mental structures that represent knowledge about a concept or type of stimuli. They often include attributes and the relationship among those attributes"
+                  }
+                },
+                {
                   "type": "quiz",
                   "payload": {
                     "id": "socpsy_schemas_quiz",
@@ -510,6 +572,22 @@
                   }
                 },
                 {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_attribution_def1",
+                    "url": "https://www.dropbox.com/scl/fi/lpaskc4v89k5hwjt4b4j7/Definition-Availability-heuristic.png?rlkey=95b00rfiaok65kvwkkz4wvttd&st=jqngto77&raw=1",
+                    "caption": "Attribution Theory: The scientific study of how we infer the causes of other people's behavior"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_attribution_def2",
+                    "url": "https://www.dropbox.com/scl/fi/04pxbi19czxyigo9flnd2/Definition-Internal-and-External-Attribution.png?rlkey=lt3qavs9n05h29i7seo3kdj2v&st=fwyjk2n9&raw=1",
+                    "caption": "Internal Attribution: a person's behavior was caused by something internal such as his/her attitudes, character or personality; External attribution: a person's behavior was caused by something external such as the situation; assume that most other people would act the same in that same situation"
+                  }
+                },
+                {
                   "type": "quiz",
                   "payload": {
                     "id": "socpsy_attribution_quiz",
@@ -534,6 +612,22 @@
                   "payload": {
                     "id": "socpsy_FAE_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define the fundamental attribution error\n- Define the discounting principle\n- Define the Lewinian equation\n\n### Imagine the situation. \n\nA person has just said to you, \"I love this car.\" \n\n### How do you determine whether you should make an internal or external attribution? \n\nHow do you decide whether the person has said this for an internal reason, like they really believe it, or for an external reason, like the situation demands they say it? \n\nTo help us think through this problem, let's consider two variations of the situation. \n\n1. In the first, the person saying, \"I love this car,\" is your friend. \n\nYour friend has no external or situational reason to say this to you, so we should probably make an internal attribution. \n\n2. However, consider a version of the scenario where the person saying, \"I love this car,\" is a car salesperson. \n\nA salesperson has plenty of external or situational reasons to say, \"I love this car.\" In fact, in this scenario, the salesperson's behavior, saying, \"I love this car,\" and a situation, the salesperson's need to sell you a car, are completely consistent with one another, so we should make an external attribution. \n\n### These examples illustrate what is known as the discounting principle in action. \n\nThe discounting principle states that when behavior is driven by situation, then behavior doesn't tell us anything about who a person really is. We can't add any attributes to their person's schema. \n\n### In fact, we can take this idea a little further and talk about the Lewinian equation, which defines a person's behavior as the combination of situational pressures or external factors and a person's disposition or internal attributes. \n\nThough this might seem like a simple, straightforward idea, it turns out that humans aren't very good at putting its lessons into practice. \n\n> In particular, we aren't good at using the discounting principle. \n\n### We tend to overestimate the extent to which behaviors are caused by internal factors and underestimate the extent to which they are caused by external factors. \n\n> This is known as the fundamental attribution error, the tendency to make internal attributions to the causes of others' behavior, even when it is clear that situational factors are involved. \n\nImagine you are back in the 1960s, in the middle of the Cold War, when tensions between the United States and Castro controlled Cuba are at an all-time high. \n\nDuring this time, we can assume that if you are an American, you have a very low opinion of Castro. Now imagine you were watching two students back then argue about Castro. \n\n1. One takes a pro-Castro position, \n2. and the other takes the expected anti-Castro position. \n\n### What type of attribution will you make about their behavior? \n\n* If you know that the debaters chose to be either pro or anti-Castro, then you can go ahead and make an internal attribution and assume that each position the debater argues reflects their true attitudes. \n* However, what if you're told that the debaters were forced to take a specific side? \n\nNow you know that situational or external factors are completely responsible for why the debaters are arguing the side they are. *You should make an external attribution.* \n\n* But will you be able to use the discounting principle? \n* Will you be able to conclude that the debater's behavior is non-diagnostic of their true attitudes? \n\n### Jones and Harris conducted this exact study in 1967 and found that we really aren't very good at using the discounting principle. \n\nAs they should, when participants were told that the debaters chose a side, they inferred that their behavior reflected their true attitudes. \n\n> In other words, they were able to make a correct internal attribution. \n\nHowever, when told that the debaters were forced to take a specific side, participants still inferred that their behavior reflected their true attitudes. \n\n### They weren't able to use the discounting principle. \n\nThey thought that the debater that argued the pro-Castro side really did have pro-Castro attitudes. \n\n> That is the fundamental attribution error or correspondence bias. \n\nWe are biased to think that the behavior of others corresponds to their true selves. \n\n### Now I want you to add a couple more items to think about: \n\n* Consensus \n* Consistency. \n\nWe use (or should use) consensus and consistency to help us determine whether to make an internal or external attribution. \n\n1. For example, if everyone is acting the same way in a situation then we have *consensus* and can make external attributions (e.g., everyone is quiet in a classroom, therefore using the discounting principle we can conclude the behavior is not diagnostic of anyone's disposition). This is good evidence that the situation is shaping everyone's behavior. \n2. On the other hand, if we know someone well or at least have seen them in multiple situations and they always act the same way (e.g., someone is loud at a party and in a classroom and on the bus) then we have good reason to make an internal attribution because we have *consistency*.\n\n## Add these to your notes\n\n1. An example of the fundamental attribution error\n2. The definition of the discounting principle\n3. The definition of the lewinian equation\n4. Explain when we might use the consensus principle\n5. Explain when we might use the consistency principle"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_FAE_def1",
+                    "url": "https://www.dropbox.com/scl/fi/ny5s6yyjav4ls3jy8o2y8/Definition-FAE.png?rlkey=jhgwnulsxleo05o1z9934gh8g&st=uvzlw9h4&raw=1",
+                    "caption": "Fundamental Attribution Error: the tendency to make internal attributions to the causes of other's behavior even when it is clear that situational factors are involved (also known as correspondence bias)"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_FAE_def2",
+                    "url": "https://www.dropbox.com/scl/fi/z3n4vtdlys3khtu7lxe46/Definition-Discounting-Principle.png?rlkey=o8wyjlznt8ri6p8jdrggb0x1h&st=iuw2ot2b&raw=1",
+                    "caption": "Discounting Principle: When behavior is driven by situation, disposition may have no effect on behavior; Lewinan Equation: Behavior = Situation + Disposition; Disposition = Behavior - Situation"
                   }
                 },
                 {
@@ -564,6 +658,30 @@
                   }
                 },
                 {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_UAE_def1",
+                    "url": "https://www.dropbox.com/scl/fi/ygpk0ercdmxlkh14ilx6u/Definition-Self-Serving-Bias.png?rlkey=j2bu61yg6uv9rx9sdu6kn10v3&st=82ky41r4&raw=1",
+                    "caption": "Self-serving bias: Making attributions about ourselves in a way that paints us in the best light"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_UAE_def2",
+                    "url": "https://www.dropbox.com/scl/fi/x2tiq0wuxgo52rn0va34a/Definition-Ultimate-Attribution-Error.png?rlkey=vlmu5tpfmc73s8jzp1v5hxaw2&st=fb88yaw7&raw=1",
+                    "caption": "Ultimate Attribution Error: We make attributions to the causes of ingroup and outgroup behavior in ways that make our ingroup look good and outgroups look bad"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_UAE_def3",
+                    "url": "https://www.dropbox.com/scl/fi/8asjvr3p756fi8nq2kpsb/Definitions-Actor-Observer-Differences.png?rlkey=bmrdikqjmazvsx402z14s1p50&st=vs4jnbmi&raw=1",
+                    "caption": "Observers attributions: We tend to attribute other people's behavior to internal reasons and assume their behavior is caused by disposition; Actor attributions: We tend to assume our own behavior is caused by external reasons and assume our behaivor is caused by situation"
+                  }
+                },
+                {
                   "type": "quiz",
                   "payload": {
                     "id": "socpsy_UAE_quiz",
@@ -591,6 +709,30 @@
                   }
                 },
                 {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_culture_def1",
+                    "url": "https://www.dropbox.com/scl/fi/wp22i3jfdnemm7h4pkg57/Definition-Culture.png?rlkey=ofqv27e2q7g4myrahvhp50mv6&st=sdfvzh54&raw=1",
+                    "caption": "Culture: the enduring behaviors, ideas, attitudes, and traditions shared by a large group of people and transmitted from one generation to the next"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_culture_def2",
+                    "url": "https://www.dropbox.com/scl/fi/mt3u2apxw1soemjhzfe8a/Definition-Collectivism.png?rlkey=np187qy8d7i3wpbi36h7hwhsj&st=owa2evyb&raw=1",
+                    "caption": "Collectivism: promotes the concept of giving priority to the goals of one's group (often one's extended family or work group) and defining one's identity accordingly"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_culture_def3",
+                    "url": "https://www.dropbox.com/scl/fi/c925c9fp9oqguwnh2pzx8/Definition-Individualism.png?rlkey=o5vu5r6vwupe3wcy7xvzymste&st=a56om5ks&raw=1",
+                    "caption": "Individualism: promotes the concept of giving priority to one's own goals over group goals and defining one's identity in terms of personal attributes rather than group identifications"
+                  }
+                },
+                {
                   "type": "quiz",
                   "payload": {
                     "id": "socpsy_culture_quiz",
@@ -615,6 +757,14 @@
                   "payload": {
                     "id": "socpsy_dualprocess_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe dual process theories\n- Describe the three-stage model of attribution\n\n### Let's start by thinking about first impressions. \n\n> They say, \"First impressions are hard to change, that it's easier to form an impression of a person than it is to change our impression of that person.\" \n\nOr, in the language of attribution theory and person schemas, this saying seems to suggest that \n\n> once we've made an initial attribution about the cause of someone's behaviour, it's hard to change that attribution. \n\n### Imagine you're talking to a person who keeps fidgeting and biting their nails and looking around during the conversation. \n\nAccording to the *fundamental attribution error*, your first impression of this person will be to assume you are talking with an anxious person. \n\n> In other words, you will make an internal attribution. \n\n### But what if it turns out that the person's anxious behaviour is actually caused by the situation? \n\nIf you two are having a conversation about a provocative topic like public humiliation, hidden secrets, or your sex lives, then you need to change your first impression. \n\nYou need to use the *discounting principle* to subtract out the effect of the situation on your conversation partner's behaviour. \n\n> In other words, you need to change your explanation for their anxious behaviour from an internal attribution to an external one. \n\n### But, as the saying goes, changing a first impression is hard to do. \n\nTo explain why, I'm going to introduce the idea of dual process models. \n\n### In dual process models, there are two modes of thinking. \n\nDepending on the specific theory, these modes have different names. \n\n* Thinking fast versus thinking slow, \n* or automatic versus controlled, \n* or implicit versus explicit, \n* or even conscious versus non-conscious. \n\n> In all these models, there is always one mode that is quick and easy to use, and one mode that takes longer and more effort to use. \n\nPerhaps you can already see how dual process models help us understand why it is so hard to change a first impression. \n\n### Psychologists have used dual process theories to create a three-stage model of attribution. \n\n1. In the first stage, we identify a behaviour a person is performing. \n2. In the second stage, we make an internal attribution about the cause of that behaviour. This is an automatic process. It happens quickly and easily. \n3. Finally, in the third stage, we make an external attribution about the cause of the behaviour. This is an effortful process. \n\n### How do we know it's an effortful process? \n\nWell, a really clever study by Gilbert, Palom, and Kroll from 1988 demonstrated that the third stage doesn't take place \n\n> if we are distracted or we don't have the mental resources to focus on executing the discounting principle and making an external attribution. \n\n* They had some participants watch an anxious person discuss a bland topic, like their ideal vacation. \n* In this scenario, participants should make an internal attribution because there are no external factors to explain why he or she is acting anxiously. \n* Other participants, however, watch an anxious person discuss provocative topics like public humiliation, hidden secrets, and their sex lives. \n* In this scenario, participants should use their discounting principle and make an external attribution. \n\n1. Half of participants managed to do this. \n2. The other half, though, were required to remember a nine-digit number while they watched the video. \n\n### Remembering a nine-digit number takes effort. \n\nOur minds can't perform two effortful tasks at once, so these participants were unable to reach the third stage of the three-stage model of attribution. \n\nThey couldn't undertake the *effortful process* of taking into account \n\n1. situational factors \n2. and making an external attribution \n\nbecause their mind was already busy with the effortful process of remembering a nine-digit number. \n\n### If you remember the actor-observer differences discussed in a previous video, \n\nthen you may have already guessed that the three-stage model of attribution is different when we are inferring the causes of our own behaviour. When thinking about ourselves, making an external attribution is easy and automatic, and the third effortful stage is when we make an internal attribution. \n\n## Add these to your notes\n\n1. Describe dual-process models\n2. Explain the three-stage model of attribution"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_dualprocess_def1",
+                    "url": "https://www.dropbox.com/scl/fi/6qcrwvtbuabay2dppzz68/Definition-Dual-Process-Theories.png?rlkey=rjy4oki6zupbbehzvyq1z169w&st=9wqt74gh&raw=1",
+                    "caption": "Dual Process Theories: Theories that propose two modes of thinking. Usually one is automatic and the other is controlled"
                   }
                 },
                 {
@@ -1164,6 +1314,13 @@
                   "payload": {
                     "id": "socpsy_YAC_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the three ingredients of the Yale Attitude Change Approach\n\n### Because attitudes are an important predictor of how people will behave, \n\nthere are times when we will want to change someone's attitude so they will behave in the way we want. \n\n* Maybe we want our child to clean up their room. \n* Maybe we want a friend to join us on a trip to Disney. \n* Maybe we want our students to study hard and participate in class discussions. \n\n### In all those situations and many others, \n\nwe will often try to change someone's attitude via a message of some kind, either verbal or written. \n\n> Persuasion is the process by which a message induces change in feelings, attitudes, or behavior. \n\nThe Yale attitude change approach identifies three ingredients of a persuasive appeal. \n\n1. The communicator, \n2. the message, \n3. and the audience,\n\n### OR\n\n1. who said it, \n2. what was said, \n3. and to whom was it said. \n\nI will talk about each ingredient in turn. \n\n### Two characteristics of the communicator help determine how persuasive their message is. \n\n* First, are they credible? \n* Are they an expert in the topic? \n* Are they trustworthy? \n* Can you believe what they are telling you? \n* Or are they persuading you out of self interest? \n* How much do you like them? \n\n> So a likable, trustworthy expert is the most persuasive communicator. \n\nDoes this remind you of anyone? \n\n* Second, is the person attractive? \n\nThe more physically attractive a person is, the more persuaded you will be by them. \n\nPerhaps that isn't surprising, but there is a second point here as well. \n\n> The more similar that person appears to yourself, the more you will be persuaded by them. \n\n1. So physical attractiveness is one way to become persuasive. \n2. The other is to be physically similar to the audience. \n\n### If you ever go to buy a car, watch which salesperson is assigned to you. \n\nMany dealerships use a random or first come, first served system, but some match buyers to salespeople. \n\n### The next ingredient is the message itself, or what was said. \n\n* Does the message make people feel good about themselves? \n* Does it give them positive feelings? \n\nThat will make the message more persuasive, but so will fear. \n\n> In fact, one of the most persuasive strategies is to scare people and then provide a plan. \n\nIn fact, anything that makes your message *memorable* is important to persuasion. \n\nIf they aren't paying attention, then you can't persuade them. \n\nOne strategy to make your message memorable is to use *discrepancy*. \n\nThis means your message should \n\n* stand out, \n* be surprising, or \n* be different from what the audience expects. \n\n### In general, you want your message to be involving for the audience. \n\nYou want to answer the \"so what\" question or \"why is this important to them\" question. \n\n* Why should I care about equity? \n\nWell, you want to retire one day and then you need to know what equity is. \n\n### However, when it comes to the message, when it was said is also very important. \n\nThe first time I heard back from a school about an assistant professor job, they provided me with a list of dates I could come and visit. \n\nI showed my PhD supervisor the dates and she immediately told me that I needed to visit on the first date or the last date. \n\nDo you know why that was? \n\nWell, she has a PhD in social psychology and she knows about the primacy and recency effects. \n\n> Primacy is when information presented first has the most influence. \n\n> Recency is when the information presented last has the most influence. \n\nThere is no middlecy effect. (sorry piano players! For everyone else, sorry for the pun!) \n\nSo if you were ever in a debate, go first because primacy tends to be the best. \n\n### Now, let's talk about the third ingredient, the audience or to whom the message is said.\n\nDo they have \n* the ability and \n* the motivation \n\nto counter argue? \n\n* Are they distracted or \n* do they have low involvement? \n\n### If you want to persuade people based on the merits of your argument, \n\nthen you need to make them pay attention. \n\nSome people tend to pay attention and think deeply about arguments as a general rule. \n\n> These people are high in an individual difference called need for cognition. \n\nThey answer strongly agreed questions like, \"I usually end up deliberating about issues even when they do not affect me personally.\" \n\nThese people will have the motivation to think about your message so long as they have the ability, i.e. they are not distracted. \n\nSome audiences are especially hard to persuade because they've had something called \"attitude inoculation\". \n\n> This is the process of making people immune to attempts to change their attitudes by initially exposing them to small doses of the arguments against that position. \n\nFor example, maybe someone once told you that the theory of evolution meant believing people were related to monkeys. \n\nThat is a very small dose of the argument in favor of the theory of evolution and one that isn't quite correct.\n\nBut whoever said that would have been able to make a powerful persuasive appeal against that small dose of the theory. \n\nLater, people who've been exposed to these small doses are more resistant to accepting the theory of evolution. \n\n### So if you ever want to make a persuasive appeal, remember, think about the messenger, think about the message, and think about the message recipient.\n\n## Add these to your notes\n\n1. Characterize each of the three ingredients of the Yale Attitude Change approach\n2. Define perusasion\n3. Define attitude innoculation\n4. What role does attractiveness play in persuasion?\n5. What role does discrepancy play in persuasion?"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_YAC_video2",
+                    "videoId": "cFdCzN7RYbw"
                   }
                 },
                 {
@@ -1831,6 +1988,13 @@
                   }
                 },
                 {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_welcome5_video2",
+                    "videoId": "UGxGDdQnC1Y"
+                  }
+                },
+                {
                   "type": "image",
                   "payload": {
                     "id": "socpsy_welcome5_image1",
@@ -2004,6 +2168,20 @@
                     "id": "socpsy_deindividuation_image",
                     "url": "https://www.dropbox.com/scl/fi/3q0phn0btq60pdz73a11m/Definition-Deindividuation.png?rlkey=ya20xk86nhpv7n9ghbetx9ck2&raw=1",
                     "caption": "Deindividuation: The loosening of normal constraints on behavior when people are in a group, leading to an increase in impulsive (and deviant) acts"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_deindividuation_video2",
+                    "videoId": "oAX9b7agT9o"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_deindividuation_video3",
+                    "videoId": "v5BjB1MDT-4"
                   }
                 },
                 {
@@ -2251,6 +2429,20 @@
                   }
                 },
                 {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_altruism_video2",
+                    "videoId": "XoTx7Rt4dig"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_altruism_video3",
+                    "videoId": "128Ts5r9NRE"
+                  }
+                },
+                {
                   "type": "image",
                   "payload": {
                     "id": "socpsy_altruism_def1",
@@ -2329,6 +2521,13 @@
                   }
                 },
                 {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_love_video2",
+                    "videoId": "Q_izpq0Ar-Y"
+                  }
+                },
+                {
                   "type": "image",
                   "payload": {
                     "id": "socpsy_love_def1",
@@ -2396,6 +2595,13 @@
                   "payload": {
                     "id": "socpsy_attraction_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Describe the principles of attraction\n\n### My understanding of Tinder as an old out of touch professor is that it does three things really well. \n\n1. One, it lets us evaluate potential partners based on looks. Attractiveness is one of the most important things we're looking for in a partner whether we admit or not. \n2. Two, it tells us how physically close we are to potential partners. \n3. And three, it lets us know who likes us back. \n\n### It turns out that one huge factor in whether we come to like someone is literally just how physically close we are to them. \n\n> This is known as the propinquity effect, which is just the finding that the more we see and interact with people, the more likely they are to become our friends. \n\nWay back in 1950, Fessinger and colleagues studied how people made friends in a dorm at MIT. \n\n* Students were randomly assigned to a dorm, as is done to first years. \n* And then after a time, the researchers asked the students to name their three closest friends. \n* 65% of the named close friends were in the same building as the student. \n* In fact, 41% of close friends were just one door away. \n* 22% were two doors away, \n* 16% were three doors away, \n* and 10% were four doors away. \n\nSo the farther away two students' rooms were, the less likely they were to be close friends. \n\n### There are a few reasons given for this. \n\n* Maybe it's just functional. You know you're going to have to interact with the people closest to you, so you become friends with them. \n* Maybe it's just mere exposure or familiarity. These are the people you see the most, so these are the people you become friends with. \n\n### Support for the mere exposure explanation comes from a really clever research experiment conducted by Moreland and colleagues. \n\n* They asked four female Confederates to pose as students in a large psychology class of 191 students. \n* On specific days, the woman entered the classroom a few minutes before class and walked to the front row and sat in plain view. \n* They never spoke to anyone. \n* Each woman attended a different number of lectures and no two women attended the same lecture. \n* At the end of the semester, students were shown photos of the woman and asked to rate their attractiveness of personality. \n* Even though only 10% of students recognized the woman, the more classes a woman attended, the more attractive her personality was rated. \n\n### Now let's talk about the third thing Tinder does really well, matching you up with people that you know like you back. \n\nCurtis and Miller investigated how the reciprocity norm might influence how we like other people way back in 1986. \n\n* They had participants complete a five minute get to know you game with a partner. \n* After this game, half of participants were told that their partner likes them or dislikes them, and then required to have a 10 minute conversation with that partner. \n* Perhaps not surprisingly, people liked their partner more if they believed their partner liked them back. \n* But perhaps more surprisingly, among the participants that were not told whether their partner liked them or not, they liked the partner more than had been told they were liked. \n* So knowing someone likes you creates a self fulfilling prophecy and that you behave differently, better around people you believe like you. \n* And they in turn like you more as a result. \n\n### So Tinder does these three great things. \n\n1. You can choose people based on attractiveness. \n2. You know how close that person is to you. \n3. And Tinder lets you know if that person likes you back. \n\nBut Tinder can't help you with the actual date. \n\nOnce you meet in person, you're on your own. \n\nSo what should you do? \n* Coffee, \n* dinner, \n* movie? \n\n### Well, I'm here to tell you to forget all that. \n\n> You want to do an activity with your date that raises their level of physiological arousal. \n\nBy that I mean \n* gets their heart rate up, \n* their breathing to increase, \n* and maybe even get some sweating a little. \n\nWhat will happen is your partner will misattribute the physiological arousal of the event to being with you. \n\n### They will come to believe that being with you is exciting. \n\n* Researchers demonstrated this effect by having a female experimenter approach men on a bridge for some purpose, but then leave them her name and number at the end of the encounter. \n* The trick was that half of the men were approached on a swaying, tilting, scary suspension bridge. \n* And the others were approached on a sturdy, solid control bridge. \n* About 50% of the men approached on the scary suspension bridge called Gloria back, \n* but only 12% of the men who met Gloria on the control bridge did. \n\nThis is because the men who met Gloria on the scary bridge misattributed the excitement of the bridge to their encounter with Gloria. \n\nIn fact, other research shows that couples assigned to engage in exciting activities showed greater increase in relationship quality over 10 weeks. \n\nSo now you know what to do when you find a match on Tinder, unless you can think of some other exciting activity to do together. \n\n## Add these to your notes\n\n1. Describe the three factors that contribute to liking\n2. Describe the swaying bridge study"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_attraction_video2",
+                    "videoId": "JtHia66-CKg"
                   }
                 },
                 {
