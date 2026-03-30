@@ -28,6 +28,13 @@
                     "id": "socpsy_welcome_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- recognize their professor\n- list some of the topics covered by social psychology\n\n### Social psychology is everywhere. \n\nYour friendships, your group chats, even your late night scrolling. Who we are and how we treat each other can't be boiled down to a single TikTok trend, or even a single variable in an experiment. \n\n### People are complicated. \n\nThere are always multiple reasons for what we do. In this course, we will use an intersectional lens to examine the richness of our social lives from every angle. Race, gender, age, social class, sexual orientation, and many others. \n\n### Because real life isn't one-dimensional. \n\nWe aren't ever just one thing. Let me give you an example. \n\n### Picture yourself at age seven or eight. \n\nNow imagine you were the only biracial kid in your school photo, with a huge afro, and a strong belief that soon, racism would be a thing of the past. \n\n### That was me. The epitome of naivety. \n\nOne weekend, a friend invited me to his home. His family ran a motel. They lived just behind the main office. My mom, who's white, dropped me off. \n\n### Everything seemed perfectly normal. \n\nWhile playing in the lobby, a Pakistani man pulled in and asked for a room. He was told no rooms were available, even as he pointed out the vacancy sign. My friend's mom said it was a mistake, that they had no more rooms. \n\n### And I believed her. \n\nAfter all, why would a business owner turn away a customer and lose money? But later, when a white couple arrived, they were given a room immediately. When my dad showed up to pick me up, I heard:\n\n### \"That's your dad?\" \n\nAfter that, I was never invited over again. \n\n### When you hear my story, what explanations pop into your mind? \n\nWould you believe the \"no rooms available\" line? What would you say to your friend the next day at school? This is where social psychology has a lot to say. It explores so many of the processes I witnessed on that day at my friend's motel. \n\n- Prejudice, \n- stereotyping, \n- discrimination, \n- identity, \n- moral reasoning, \n- family conflict, \n- relationships, \n- persuasion, \n- cognitive dissonance. \n\nI found myself asking, \"How could my friend and his family treat people of color so differently?\" The search for that answer inspired my undergraduate thesis and led me to work with social psychologists dedicated to uncovering and reducing implicit biases. And my hope is that this course will challenge you to think critically, to question assumptions, and maybe even launch your own research project."
                   }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_welcome_crash",
+                    "videoId": "h6HLDV0T5Q8"
+                  }
                 }
               ]
             },
@@ -48,6 +55,22 @@
                   "payload": {
                     "id": "socpsy_definitions_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define Social Psychology\n- Define Psychology\n\n### Let's start by thinking about how social psychology is related to psychology in general, as well as some of the other subfields of psychology. \n\nAnd once we understand that, I want to briefly think about how psychology fits into the family of sciences. \n\n### Let's start with a definition of psychology. \n\n> Psychology is the scientific study of behavior and the mind. \n\nSo psychologists are interested in everything we can see a person do, their behavior, and also everything we think is going on in a person's mind, even if we can't see it. \n\n### Thinking just about behavior, psychologists are interested in\n\n- smiling, \n- learning to walk, \n- how we do on tests, \n- how we treat one another, including actions like \n    - helping others and \n    - discriminating against others. \n    \n### And psychologists are also interested in how we treat ourselves. \n\nThinking just about the mind, psychologists are interested in:\n\n- how we make decisions, \n- how we learn, \n- how we love, \n- how we forgive, and \n- generally how we feel. \n\nObviously, that's a lot of things to study, and it's only a very partial list. \n\n### No one psychologist studies everything that could be considered psychology. \n\nInstead, there are subfields that describe a psychologist's focus or interest. \n\n> For example, developmental psychology is the scientific study of the mind and behavior across the lifespan from when we were born until we die. \n\n> Cognitive psychology is the scientific study of basic mental abilities such as perception, learning, and memory. \n\n### So what about social psychology? \n\nThere is no ultimate definition of social psychology, or any psychology, but I like this one. \n\n> The scientific study of the way in which people's thoughts, feelings, and behaviors are influenced by the real or imagined presence of other people. \n\nIn other words, how do other people influence our behavior and our mind, and how do we influence them? I want to highlight what I think is an often overlooked part of this definition, though. \n\n### That's the imagined presence of others. \n\nSo it's not just people, but thinking about people that influences our behavior and thoughts. \n\n> Consider this. Does your boss need to stare over your shoulder for you to start working harder? Or is just thinking about your boss staring over your shoulder enough to get you working harder? \n\nThe answer is probably sometimes yes and sometimes no. Social psychologists want to know when the answer is yes and when it's no. \n\nThe final thing I want to do in this video is highlight one similarity among these definitions, and that is the phrase \"scientific study.\" \n\n### What is a scientific study?\n\nFor now, I want to suggest that just as there are many subfields of psychology, psychology is one of many subfields of science. Before you start the next video, I want to challenge you to think about what the common thread might be that ties all these different disciplines together.\n\n## Add these to your notes\n\n1. The definition of psychology\n2. The definition of social psychology\n3. The definition of developmental psychology\n4. The definition of cognitive psychology"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_definitions_def1",
+                    "url": "https://www.dropbox.com/scl/fi/rtbcmeh0cddwsg1rgyfq0/Psychology-Definition.png?rlkey=1uvtbdq1wuik8jx5uq44vnwzv&st=ngl28e8i&raw=1",
+                    "caption": "Psychology: Scientific Study of mind and behavior"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_definitions_def2",
+                    "url": "https://www.dropbox.com/scl/fi/nqn2xikeo6tm8hjgw9iy9/Social-Psychology-Definition.png?rlkey=aqphlvb8wqaobgp7ssv0nqvjq&st=ekt2vl7l&raw=1",
+                    "caption": "Social Psychology: The scientific study of the way in which people's thoughts, feelings, and behaviors are influenced by the real or imagined presence of others"
                   }
                 },
                 {
@@ -72,10 +95,33 @@
                   }
                 },
                 {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_science_astrology",
+                    "videoId": "j0H4xTla_M8"
+                  }
+                },
+                {
                   "type": "text",
                   "payload": {
                     "id": "socpsy_science_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Distinguish science from pseudoscience\n- Define Science\n- Define the scientific method\n\nSocial psychology and all subfields of psychology are part of the family of sciences like chemistry, physics, and biology. \n\n- Chemists want to learn about how chemicals interact with each other. \n- Physicists want to learn about the fundamental nature of reality. \n- Biologists want to learn about the diversity of life. \n- Psychologists want to learn about the mind and behavior. \n\n### But so do astrologers. \n\nAstrology is concerned with the exact same subject matter as psychology. Our personalities, our behaviors, and our relationships. \n\n### But I wouldn't call astrology a science. \n\nTo understand why, let's look at the definition of science. \n\n> Science is the systematic gathering of data to provide descriptions of events taking place under specific conditions, enabling researchers to explain, predict, and control events. \n\nBoth astrologers and psychologists purport to help people explain, predict, and control events. \n\n### So that isn't the difference between them. \n\nThe difference lies in the first half of the definition, the systematic gathering of data. \n\n> In other words, what makes something a science is that it follows the scientific method. \n\nSo what makes psychology a science and astrology a pseudoscience is that psychologists use the scientific method while astrologers do not. \n\nI like to use a very broad definition of the scientific method to acknowledge that different scientific disciplines use different methodologies and that those methodologies change over time. \n\n> The scientific method is the steps scientists take to gather and verify information, answer questions, explain relationships, and communicate findings. \n\n### So there is no one way to do science, but all science involves gathering and verifying information. \n\nIt also involves the use of theories to explain relationships. And to do science, you must share what you learn with others. A pseudoscience may take some of these steps, but not all of them. For example, astrology has a theory that explains relationships--why people have certain personalities. And it shares this theory with the entire world every day via newspapers and the internet. Some astrologers may even gather data to test their theory. But this is one of the reasons astrology isn't a science. There is no requirement to gather information. \n\n### And most importantly, when information contradicts the theory, there is no requirement to update the theory. \n\nSo those are two key points that make psychology a science. \n\n### Psychologists gather and verify data and then update their theories when new data contradicts them. \n\nPsychological theories are being updated all the time. \n\n### Before you go to the next page, I challenge you to look up your horoscope and think about it as a testable prediction. \n\nHow could you gather information that would falsify the prediction? \n\n## Add these to your notes\n\n1. The definition of science\n2. The definition of pseudoscience\n3. The definition of scientific method\n4. A table of differences between science and psuedoscience"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_science_def1",
+                    "url": "https://www.dropbox.com/scl/fi/9kdfb69zc3w5wnh4ta26r/Science-Definition.png?rlkey=5zxudv1tz8mbmo29zfsh1x3fy&st=9cyn6x7r&raw=1",
+                    "caption": "Science: The systematic gathering of d ata to provide descriptions of events taking place under specific conditions, enabling researchers to explain, predict, and control events"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_science_def2",
+                    "url": "https://www.dropbox.com/scl/fi/x3yus88ow3ozr667usj2j/Scientific-Method-Definition.png?rlkey=c5oqe8u0gxlpbh8qd102km03l&st=4b3r1itj&raw=1",
+                    "caption": "Scientific Method: Steps scientists take to gather and verify information, answer questions, explain relationships, and communicate findings"
                   }
                 },
                 {
@@ -107,6 +153,14 @@
                   }
                 },
                 {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_theories_defs",
+                    "url": "https://www.dropbox.com/scl/fi/a22c58hsgrtdxqodd1zgb/theory-and-hypothesis-definition.png?rlkey=ospkq9loyh3q2lwap5wqlzsps&st=5jepaemv&raw=1",
+                    "caption": "Theory: A set of general principles that attempts to explain and predict behavior or other phenomena; Hypothesis: A testable prediction; Often a causal prediction about the relationship between two or more variables"
+                  }
+                },
+                {
                   "type": "quiz",
                   "payload": {
                     "id": "socpsy_theories_quiz",
@@ -132,6 +186,44 @@
                   "payload": {
                     "id": "socpsy_correlation_text",
                     "markdown": "## Learning Goals\n\nBy the end of this page, students should be able to:\n\n- Define correlational methods\n- Define experimental methods\n- Describe the relation between power and perspective-taking\n\n### Social psychologists have conducted a number of really clever studies investigating power, \n\nHere's one hypothesis that illustrates the differences between correlational and experimental research designs: \n\n> If a person feels powerful, then their perspective-taking will be low. \n\nMaybe you've met someone like this, a boss, a manager, a parent, or even a teacher who wasn't good at taking the perspective of people they had power over. Galinsky and colleagues systematically investigated this hypothesis using both *correlational* and *experimental* methods. \n\n### Using the correlational method, \n\nGalinsky and colleagues observed or measured the associations between power and perspective-taking. They did this by having participants complete two scales: \n\n* one that measured participants' sense of power, called the sense-of-power scale, \n* and one that measured their perspective-taking, which was part of the interpersonal reactivity index. \n\nResults supported their hypotheses because the higher a person's sense of power, the lower they scored on perspective-taking. \n\n### It is important to keep in mind that correlational studies cannot, on their own, be used to determine causality. \n\nSo even though Galinsky and colleagues predicted that power influences perspective-taking, this correlational study only tells them that power and perspective-taking were related to one another. \n\n### To make a causal claim, researchers should use the experimental method. \n\nIn this method, researchers manipulate one variable and then observe whether the manipulation corresponds to changes in the other variable.  \n\n## Add these to your notes\n\n1. The definition of correlational methods\n2. The definition of experimental methods\n3. The relation between power and perspective-taking"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_correlation_video2",
+                    "videoId": "gwPApf92ze4"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_correlation_image",
+                    "url": "https://i.pinimg.com/736x/39/d0/ec/39d0ec63e70aadff96015020522b99b3.jpg",
+                    "caption": "Correlation Cheatsheet"
+                  }
+                },
+                {
+                  "type": "youtube",
+                  "payload": {
+                    "id": "socpsy_correlation_video3",
+                    "videoId": "SDoGl9gNEAk"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_correlation_def1",
+                    "url": "https://www.dropbox.com/scl/fi/ro22lry46nwc9l3r1so8r/Correlational-Method-Definition.png?rlkey=vqwuz5ys1sgudzeo62xezlqw3&st=pekhdqg7&raw=1",
+                    "caption": "Correlational method: Observe/measure natural associations to assess relation between two or more variables"
+                  }
+                },
+                {
+                  "type": "image",
+                  "payload": {
+                    "id": "socpsy_correlation_def2",
+                    "url": "https://www.dropbox.com/scl/fi/16zwd5fsy2ncbl87718cf/Experimental-Method-Definition.png?rlkey=v6a230ahpzayrdbqw2f8d88pm&st=jqyelvpk&raw=1",
+                    "caption": "Experimental Method: Manipulate one variable to see if it affects another"
                   }
                 },
                 {
